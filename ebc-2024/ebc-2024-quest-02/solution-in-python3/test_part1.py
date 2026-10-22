@@ -5,7 +5,7 @@ import part1
 #input_example = "EBC-2024-Quest-00_Input-Example.txt"
 #input_full = "EBC-2024-Quest-00_Input-Full.txt"
 
-@pytest.mark.skip(reason="Ignore for now!")
+#@pytest.mark.skip(reason="Ignore for now!")
 @pytest.mark.parametrize(
     "words, sentence, expected",
     [
