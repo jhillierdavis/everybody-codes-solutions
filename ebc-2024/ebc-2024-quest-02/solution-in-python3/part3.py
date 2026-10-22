@@ -78,16 +78,16 @@ def word_in_grid_north_without_wrap(word, grid, r, c):
 
 
 def solve(filename):
-    import file_helper
-    import grid_helper
+    import helpers.file_helper
+    import helpers.grid_helper
 
-    sections = file_helper.get_text_sections(filename)
+    sections = helpers.file_helper.get_text_sections(filename)
 
     word_section = sections[0][6:]
     words = word_section.split(',')
     logger.debug(f"words={words}")
 
-    grid, rows, cols = grid_helper.to_grid(sections[1])
+    grid, rows, cols = helpers.grid_helper.to_grid(sections[1])
 
     logger.debug(f"grid={grid} rows={rows} cols={cols}")
 
