@@ -11,3 +11,20 @@ from helpers import csv_helper
 def test_to_int_list(input, expected):
     values = csv_helper.to_int_list(input)
     assert expected == values
+
+
+@pytest.mark.parametrize(
+    "input, expected",
+    [         
+        pytest.param('a, b, c', ['a','b','c']), 
+        pytest.param('a,b,c', ['a','b','c']), 
+        pytest.param('a,b , c', ['a','b','c']), 
+        pytest.param('a,    b,c', ['a','b','c']), 
+        pytest.param('a b c', ['a b c']),
+        pytest.param('solo', ['solo']),
+        pytest.param('left, right', ['left', 'right']),
+        pytest.param('', []),
+    ],    
+)
+def test_to_list(input:str, expected) -> list:
+    assert csv_helper.to_list(input) == expected
