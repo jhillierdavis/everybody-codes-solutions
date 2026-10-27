@@ -16,7 +16,7 @@ def get_perimeter_difference(n):
     if n <= 8: # Handle small values where the nearest perimeter is 8
         return 8 - n
 
-    side = (n -1) // 4 # Approximate side length of the square with perimeter just below n
+    side = (n - 1) // 4 # Approximate side length of the square with perimeter just below 
     diff = 4 * (side + 1) - n
     return diff
 
