@@ -1,6 +1,6 @@
 import pytest
 
-import interval_helper
+from helpers import interval_helper
 
 @pytest.mark.parametrize(
     "input, expected",
