@@ -13,11 +13,11 @@ from functools import lru_cache
 
 @lru_cache
 def get_perimeter_difference(n):
-    if n <= 8: # Handle small values where the nearest perimeter is 8
+    if n <= 8: # Handle small values where the nearest perimeter is 8 (3x3 square with empty center)
         return 8 - n
 
-    side = (n - 1) // 4 # Approximate side length of the square with perimeter just below 
-    diff = 4 * (side + 1) - n
+    inner_side = (n - 1) // 4 # Approximate inner side length of the target square perimeter
+    diff = 4 * (inner_side + 1) - n
     return diff
 
 
