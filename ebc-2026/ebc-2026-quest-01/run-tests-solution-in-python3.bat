@@ -3,6 +3,6 @@
 
 ::rm .\solution-in-python3\helpers\*_helper.py
 ::rmdir .\solution-in-python3\helpers
-xcopy /s /i ..\..\shared\shared_python3\helpers .\solution-in-python3\helpers 
+xcopy /s /i /Y ..\..\shared\shared_python3\helpers .\solution-in-python3\helpers 
 
 python3 -m pytest -v
