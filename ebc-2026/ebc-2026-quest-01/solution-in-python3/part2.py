@@ -8,14 +8,17 @@ logger = logging.getLogger('simpleLogger')
 
 from helpers import file_helper, csv_helper
 
+from functools import lru_cache
 
-def get_perimeter_difference(v):
-    for i in range(3, 100000):
-        perimeter = 4 * (i-1)
-        if perimeter >= v:
-            logger.debug(f"v={v} i={i} perimeter={perimeter}")
-            return perimeter - v
-    return None
+
+@lru_cache
+def get_perimeter_difference(n):
+    if n <= 8: # Handle small values where the nearest perimeter is 8
+        return 8 - n
+
+    side = (n -1) // 4 # Approximate side length of the square with perimeter just below n
+    diff = 4 * (side + 1) - n
+    return diff
 
 
 def solve_part2(filename):
