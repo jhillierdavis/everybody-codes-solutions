@@ -8,22 +8,6 @@ logger = logging.getLogger('simpleLogger')
 
 from helpers import file_helper, csv_helper
 
-
-def get_difference(v):
-    for i in range(3, 100000):
-        if i % 2 == 0:
-            continue # Skip if even
-
-        squares = (i*i)-1
-        
-        if squares >= v:
-            logger.debug(f"v={v} i={i} squares={squares}")
-
-            diff = squares - v
-            return diff
-                    
-    return None
-
 from functools import lru_cache
 
 
