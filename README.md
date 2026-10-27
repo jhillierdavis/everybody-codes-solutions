@@ -9,7 +9,8 @@ Automated tests require PyTest:
 
 ### PIP setup
 
-pip3 install --upgrade pip
+# pip3 install --upgrade pip
+python3 -m pip install --upgrade pip
 
 ### PyTest setup
 
