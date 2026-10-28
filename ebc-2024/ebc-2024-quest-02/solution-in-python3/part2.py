@@ -30,7 +30,7 @@ def find_word_positions(paragraph, word, case_sensitive=False):
 
 
 def count_runic_symbols(words, sentence):
-    import interval_helper
+    from helpers import interval_helper
 
     s = sentence
     logger.debug(f"s={s}")
@@ -91,7 +91,7 @@ def get_subword_start_end_indexes(subword, text):
 
 
 def solve(filename):
-    import file_helper
+    from helpers import file_helper
 
     sections = file_helper.get_text_sections(filename)
 
