@@ -31,6 +31,8 @@ def solve_part3(filename):
         is_changed = False
         for r in range(rows):
                 for c in range(cols):
+                    if grid[r][c] == '.':
+                        continue
 
                     neighbors = grid_helper.get_neighbor_values(last_grid, r, c, rows, cols, diagonals=True, wrap=False)
                     value = str(i)
