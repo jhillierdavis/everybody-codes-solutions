@@ -65,6 +65,7 @@ def get_nodes_by_precedence(input, separator=' ', smallest_first=True):
         if not is_changed:
             logger.debug(f"No changes in this iteration, graph={graph} result={result}")
             raise RuntimeError("Cyclic dependency detected in the graph.")
+        
     if not smallest_first:
         result.reverse()
     return result
