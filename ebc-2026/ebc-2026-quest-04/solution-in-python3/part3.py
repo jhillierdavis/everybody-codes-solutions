@@ -13,20 +13,32 @@ from helpers import file_helper
 def solve_part3(filename):
     text = file_helper.get_text(filename)
 
-    data = []
+    quest_map = get_quest_map_from_input(text)
+    #logger.debug(f"Quest map: {quest_map}")
+
+    sorted_points = get_sorted_points(quest_map)
+
+    ans = calculate_checksum(sorted_points)
+    return ans
+
+
+def get_quest_map_from_input(text):
     quest_map = defaultdict(list)
     for l in text.splitlines():
         #logger.debug(f"Processing line: {l}")
         parts = l.split()
-        id = parts[0].split("=")[1]
-        quest = parts[1].split("=")[1]
-        part = parts[2].split("=")[1]
+        id = int(parts[0].split("=")[1])
+        quest = int(parts[1].split("=")[1])
+        part = int(parts[2].split("=")[1])
         time = int(parts[3].split("=")[1])
-        data.append({"id": int(id), "quest": int(quest), "part": int(part), "time": int(time)})        
-        quest_map[int(quest)].append({"id": int(id), "part": int(part), "time": int(time)})
 
-    #logger.debug(f"Processed data: {data}")
-    #logger.debug(f"Quest map: {quest_map}")
+        # Append the quest data (user id, quest part & time taken to solve by user) to the quest map keyed by quest number
+        quest_map[int(quest)].append({"id": id, "part": part, "time": time})
+
+    return quest_map
+
+
+def get_sorted_points(quest_map):
 
     points_map = defaultdict(int)
     for q, v  in quest_map.items():
@@ -67,10 +79,11 @@ def solve_part3(filename):
                 logger.debug(f"Quest: {q} part: {p} id: {item['id']} gets points: {points} for time: {item['time']}")                   
                 last_value = item["time"]
 
-
     #logger.debug(f"Points map: {points_map}")
+    return sorted(points_map.items(), key=lambda x: x[1], reverse=True)
 
-    sorted_points = sorted(points_map.items(), key=lambda x: x[1], reverse=True)
+
+def calculate_checksum(sorted_points):
     ans = 0
     last_points = None
     same_points_count = 0
@@ -85,4 +98,4 @@ def solve_part3(filename):
             same_points_count = 0
             ans += index * points
         last_points = points
-    return ans
+    return ans   
