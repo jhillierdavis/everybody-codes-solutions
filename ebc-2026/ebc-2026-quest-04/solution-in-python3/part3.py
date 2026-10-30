@@ -58,7 +58,9 @@ def solve_part3(filename):
                         same_value_count += 1
                     else:
                         if points > 0:
-                            points -= (1 + same_value_count) 
+                            points -= (1 + same_value_count)
+                            if points < 0:
+                                points = 0 
                         same_value_count = 0
                 points_map[item["id"]] += points
                
