@@ -1,0 +1,2615 @@
+Results by starting cloud:
+
+cloud 1: 3351841
+cloud 2: 812466
+cloud 3: 21010766
+cloud 4: 1287238
+cloud 5: 3298595
+cloud 6: 1282829
+cloud 7: 31347098
+cloud 8: 24503499
+cloud 9: 13636640
+cloud 10: 17083449
+cloud 11: 32032371
+cloud 12: 13474174
+cloud 13: 20488418
+cloud 14: 32300928
+cloud 15: 1362739
+cloud 16: 4146386
+cloud 17: 4917580
+cloud 18: 26799907
+cloud 19: 22066290
+cloud 20: 12174895
+cloud 21: 34060516
+cloud 22: 26222917
+cloud 23: 2983289
+cloud 24: 13537447
+cloud 25: 5857838
+cloud 26: 4923327
+cloud 27: 3276715
+cloud 28: 5952460
+cloud 29: 25964083
+cloud 30: 2975131
+cloud 31: 13386712
+cloud 32: 947729
+cloud 33: 4467593
+cloud 34: 3382454
+cloud 35: 3280889
+cloud 36: 13643758
+cloud 37: 25529486
+cloud 38: 8067717
+cloud 39: 25725584
+cloud 40: 4255781
+cloud 41: 1256622
+cloud 42: 22750644
+cloud 43: 24594760
+cloud 44: 21177886
+cloud 45: 1288661
+cloud 46: 23917752
+cloud 47: 469698
+cloud 48: 12614647
+cloud 49: 4256853
+cloud 50: 17477606
+cloud 51: 32954905
+cloud 52: 1280709
+cloud 53: 3312545
+cloud 54: 20434505
+cloud 55: 1288641
+cloud 56: 16535059
+cloud 57: 34766878
+cloud 58: 2457609
+cloud 59: 4143515
+cloud 60: 26244888
+cloud 61: 4816416
+cloud 62: 17509801
+cloud 63: 804769
+cloud 64: 3324853
+cloud 65: 3038446
+cloud 66: 22653303
+cloud 67: 16731239
+cloud 68: 23075530
+cloud 69: 5062697
+cloud 70: 24753626
+cloud 71: 3269972
+cloud 72: 1238346
+cloud 73: 4844416
+cloud 74: 34777023 <- best
+cloud 75: 13479998
+cloud 76: 2450206
+cloud 77: 1278852
+cloud 78: 3331277
+cloud 79: 806667
+cloud 80: 3425114
+cloud 81: 23678426
+cloud 82: 3336953
+cloud 83: 11653023
+cloud 84: 2451304
+cloud 85: 3271070
+cloud 86: 4139043
+cloud 87: 1279343
+cloud 88: 3367104
+cloud 89: 29970372
+cloud 90: 32017653
+cloud 91: 32042364
+cloud 92: 19876669
+cloud 93: 33950417
+cloud 94: 4201990
+cloud 95: 4544276
+cloud 96: 5732131
+cloud 97: 25522097
+cloud 98: 10477080
+cloud 99: 3433368
+cloud 100: 30996553
+
+Detailed propagation for starting cloud 74:
+
+Stage 1:
+cloud 74 received 1 impulse with strength 10: +10 (energy 7 -> 17)
+
+Stage 2:
+cloud 5 received 1 impulse with strength 9: +9 (energy 9 -> 18)
+cloud 12 received 1 impulse with strength 9: +9 (energy 1 -> 10)
+cloud 20 received 1 impulse with strength 9: +9 (energy 1 -> 10)
+cloud 29 received 1 impulse with strength 9: +9 (energy 7 -> 16)
+cloud 35 received 1 impulse with strength 9: +9 (energy 4 -> 13)
+cloud 43 received 1 impulse with strength 9: +9 (energy 6 -> 15)
+cloud 51 received 1 impulse with strength 9: +9 (energy 5 -> 14)
+cloud 69 received 1 impulse with strength 9: +9 (energy 3 -> 12)
+cloud 82 received 1 impulse with strength 9: +9 (energy 7 -> 16)
+
+Stage 3:
+cloud 1 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 2 received 2 impulses with strength 8: +16 (energy 7 -> 23)
+cloud 6 received 3 impulses with strength 8: +24 (energy 6 -> 30)
+cloud 7 received 1 impulse with strength 8: +8 (energy 5 -> 13)
+cloud 8 received 2 impulses with strength 8: +16 (energy 1 -> 17)
+cloud 14 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 18 received 1 impulse with strength 8: +8 (energy 7 -> 15)
+cloud 22 received 1 impulse with strength 8: +8 (energy 2 -> 10)
+cloud 23 received 2 impulses with strength 8: +16 (energy 4 -> 20)
+cloud 24 received 1 impulse with strength 8: +8 (energy 5 -> 13)
+cloud 25 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 26 received 1 impulse with strength 8: +8 (energy 6 -> 14)
+cloud 28 received 1 impulse with strength 8: +8 (energy 7 -> 15)
+cloud 32 received 1 impulse with strength 8: +8 (energy 4 -> 12)
+cloud 33 received 1 impulse with strength 8: +8 (energy 1 -> 9)
+cloud 36 received 1 impulse with strength 8: +8 (energy 5 -> 13)
+cloud 37 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 40 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 43 received 1 impulse with strength 8: +8 (energy 15 -> 23)
+cloud 45 received 1 impulse with strength 8: +8 (energy 1 -> 9)
+cloud 46 received 2 impulses with strength 8: +16 (energy 7 -> 23)
+cloud 48 received 1 impulse with strength 8: +8 (energy 4 -> 12)
+cloud 49 received 1 impulse with strength 8: +8 (energy 2 -> 10)
+cloud 51 received 1 impulse with strength 8: +8 (energy 14 -> 22)
+cloud 53 received 2 impulses with strength 8: +16 (energy 8 -> 24)
+cloud 54 received 1 impulse with strength 8: +8 (energy 1 -> 9)
+cloud 55 received 1 impulse with strength 8: +8 (energy 4 -> 12)
+cloud 56 received 2 impulses with strength 8: +16 (energy 1 -> 17)
+cloud 57 received 1 impulse with strength 8: +8 (energy 1 -> 9)
+cloud 58 received 1 impulse with strength 8: +8 (energy 4 -> 12)
+cloud 59 received 1 impulse with strength 8: +8 (energy 9 -> 17)
+cloud 62 received 1 impulse with strength 8: +8 (energy 5 -> 13)
+cloud 63 received 1 impulse with strength 8: +8 (energy 3 -> 11)
+cloud 64 received 1 impulse with strength 8: +8 (energy 9 -> 17)
+cloud 65 received 1 impulse with strength 8: +8 (energy 7 -> 15)
+cloud 67 received 2 impulses with strength 8: +16 (energy 4 -> 20)
+cloud 70 received 1 impulse with strength 8: +8 (energy 3 -> 11)
+cloud 71 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 73 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 74 received 2 impulses with strength 8: +16 (energy 17 -> 33)
+cloud 75 received 1 impulse with strength 8: +8 (energy 1 -> 9)
+cloud 77 received 1 impulse with strength 8: +8 (energy 2 -> 10)
+cloud 79 received 1 impulse with strength 8: +8 (energy 6 -> 14)
+cloud 80 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 84 received 1 impulse with strength 8: +8 (energy 5 -> 13)
+cloud 87 received 1 impulse with strength 8: +8 (energy 5 -> 13)
+cloud 89 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 90 received 2 impulses with strength 8: +16 (energy 8 -> 24)
+cloud 91 received 1 impulse with strength 8: +8 (energy 6 -> 14)
+cloud 92 received 1 impulse with strength 8: +8 (energy 7 -> 15)
+cloud 94 received 2 impulses with strength 8: +16 (energy 8 -> 24)
+cloud 95 received 2 impulses with strength 8: +16 (energy 3 -> 19)
+cloud 99 received 1 impulse with strength 8: +8 (energy 8 -> 16)
+cloud 100 received 2 impulses with strength 8: +16 (energy 7 -> 23)
+
+Stage 4:
+cloud 1 received 6 impulses with strength 7: +42 (energy 16 -> 58)
+cloud 3 received 5 impulses with strength 7: +35 (energy 1 -> 36)
+cloud 4 received 6 impulses with strength 7: +42 (energy 7 -> 49)
+cloud 5 received 8 impulses with strength 7: +56 (energy 18 -> 74)
+cloud 6 received 9 impulses with strength 7: +63 (energy 30 -> 93)
+cloud 7 received 6 impulses with strength 7: +42 (energy 13 -> 55)
+cloud 8 received 7 impulses with strength 7: +49 (energy 17 -> 66)
+cloud 9 received 4 impulses with strength 7: +28 (energy 5 -> 33)
+cloud 10 received 6 impulses with strength 7: +42 (energy 6 -> 48)
+cloud 11 received 2 impulses with strength 7: +14 (energy 8 -> 22)
+cloud 12 received 5 impulses with strength 7: +35 (energy 10 -> 45)
+cloud 13 received 2 impulses with strength 7: +14 (energy 8 -> 22)
+cloud 14 received 5 impulses with strength 7: +35 (energy 16 -> 51)
+cloud 15 received 6 impulses with strength 7: +42 (energy 4 -> 46)
+cloud 16 received 7 impulses with strength 7: +49 (energy 6 -> 55)
+cloud 17 received 4 impulses with strength 7: +28 (energy 3 -> 31)
+cloud 18 received 6 impulses with strength 7: +42 (energy 15 -> 57)
+cloud 19 received 2 impulses with strength 7: +14 (energy 4 -> 18)
+cloud 20 received 8 impulses with strength 7: +56 (energy 10 -> 66)
+cloud 21 received 8 impulses with strength 7: +56 (energy 2 -> 58)
+cloud 22 received 3 impulses with strength 7: +21 (energy 10 -> 31)
+cloud 23 received 3 impulses with strength 7: +21 (energy 20 -> 41)
+cloud 24 received 5 impulses with strength 7: +35 (energy 13 -> 48)
+cloud 25 received 6 impulses with strength 7: +42 (energy 16 -> 58)
+cloud 26 received 4 impulses with strength 7: +28 (energy 14 -> 42)
+cloud 27 received 4 impulses with strength 7: +28 (energy 7 -> 35)
+cloud 28 received 7 impulses with strength 7: +49 (energy 15 -> 64)
+cloud 29 received 5 impulses with strength 7: +35 (energy 16 -> 51)
+cloud 30 received 6 impulses with strength 7: +42 (energy 8 -> 50)
+cloud 31 received 2 impulses with strength 7: +14 (energy 8 -> 22)
+cloud 32 received 3 impulses with strength 7: +21 (energy 12 -> 33)
+cloud 33 received 5 impulses with strength 7: +35 (energy 9 -> 44)
+cloud 34 received 1 impulse with strength 7: +7 (energy 7 -> 14)
+cloud 35 received 11 impulses with strength 7: +77 (energy 13 -> 90)
+cloud 36 received 7 impulses with strength 7: +49 (energy 13 -> 62)
+cloud 37 received 4 impulses with strength 7: +28 (energy 16 -> 44)
+cloud 38 received 3 impulses with strength 7: +21 (energy 8 -> 29)
+cloud 39 received 12 impulses with strength 7: +84 (energy 6 -> 90)
+cloud 40 received 2 impulses with strength 7: +14 (energy 16 -> 30)
+cloud 41 received 3 impulses with strength 7: +21 (energy 9 -> 30)
+cloud 42 received 10 impulses with strength 7: +70 (energy 1 -> 71)
+cloud 43 received 9 impulses with strength 7: +63 (energy 23 -> 86)
+cloud 44 received 7 impulses with strength 7: +49 (energy 9 -> 58)
+cloud 45 received 5 impulses with strength 7: +35 (energy 9 -> 44)
+cloud 46 received 15 impulses with strength 7: +105 (energy 23 -> 128)
+cloud 47 received 4 impulses with strength 7: +28 (energy 6 -> 34)
+cloud 48 received 1 impulse with strength 7: +7 (energy 12 -> 19)
+cloud 49 received 3 impulses with strength 7: +21 (energy 10 -> 31)
+cloud 50 received 6 impulses with strength 7: +42 (energy 6 -> 48)
+cloud 51 received 6 impulses with strength 7: +42 (energy 22 -> 64)
+cloud 52 received 4 impulses with strength 7: +28 (energy 6 -> 34)
+cloud 53 received 5 impulses with strength 7: +35 (energy 24 -> 59)
+cloud 54 received 5 impulses with strength 7: +35 (energy 9 -> 44)
+cloud 55 received 7 impulses with strength 7: +49 (energy 12 -> 61)
+cloud 56 received 7 impulses with strength 7: +49 (energy 17 -> 66)
+cloud 57 received 7 impulses with strength 7: +49 (energy 9 -> 58)
+cloud 58 received 4 impulses with strength 7: +28 (energy 12 -> 40)
+cloud 59 received 5 impulses with strength 7: +35 (energy 17 -> 52)
+cloud 60 received 3 impulses with strength 7: +21 (energy 2 -> 23)
+cloud 61 received 7 impulses with strength 7: +49 (energy 7 -> 56)
+cloud 62 received 6 impulses with strength 7: +42 (energy 13 -> 55)
+cloud 63 received 5 impulses with strength 7: +35 (energy 11 -> 46)
+cloud 64 received 4 impulses with strength 7: +28 (energy 17 -> 45)
+cloud 65 received 6 impulses with strength 7: +42 (energy 15 -> 57)
+cloud 66 received 3 impulses with strength 7: +21 (energy 2 -> 23)
+cloud 67 received 6 impulses with strength 7: +42 (energy 20 -> 62)
+cloud 69 received 10 impulses with strength 7: +70 (energy 12 -> 82)
+cloud 70 received 3 impulses with strength 7: +21 (energy 11 -> 32)
+cloud 71 received 5 impulses with strength 7: +35 (energy 16 -> 51)
+cloud 72 received 6 impulses with strength 7: +42 (energy 1 -> 43)
+cloud 73 received 2 impulses with strength 7: +14 (energy 16 -> 30)
+cloud 74 received 6 impulses with strength 7: +42 (energy 33 -> 75)
+cloud 75 received 5 impulses with strength 7: +35 (energy 9 -> 44)
+cloud 76 received 9 impulses with strength 7: +63 (energy 3 -> 66)
+cloud 77 received 2 impulses with strength 7: +14 (energy 10 -> 24)
+cloud 78 received 11 impulses with strength 7: +77 (energy 2 -> 79)
+cloud 79 received 10 impulses with strength 7: +70 (energy 14 -> 84)
+cloud 80 received 4 impulses with strength 7: +28 (energy 16 -> 44)
+cloud 81 received 4 impulses with strength 7: +28 (energy 7 -> 35)
+cloud 82 received 3 impulses with strength 7: +21 (energy 16 -> 37)
+cloud 83 received 12 impulses with strength 7: +84 (energy 1 -> 85)
+cloud 84 received 3 impulses with strength 7: +21 (energy 13 -> 34)
+cloud 85 received 2 impulses with strength 7: +14 (energy 6 -> 20)
+cloud 86 received 4 impulses with strength 7: +28 (energy 1 -> 29)
+cloud 87 received 2 impulses with strength 7: +14 (energy 13 -> 27)
+cloud 88 received 6 impulses with strength 7: +42 (energy 1 -> 43)
+cloud 89 received 11 impulses with strength 7: +77 (energy 16 -> 93)
+cloud 90 received 3 impulses with strength 7: +21 (energy 24 -> 45)
+cloud 91 received 4 impulses with strength 7: +28 (energy 14 -> 42)
+cloud 92 received 4 impulses with strength 7: +28 (energy 15 -> 43)
+cloud 93 received 1 impulse with strength 7: +7 (energy 2 -> 9)
+cloud 94 received 5 impulses with strength 7: +35 (energy 24 -> 59)
+cloud 95 received 3 impulses with strength 7: +21 (energy 19 -> 40)
+cloud 96 received 2 impulses with strength 7: +14 (energy 6 -> 20)
+cloud 97 received 8 impulses with strength 7: +56 (energy 3 -> 59)
+cloud 98 received 6 impulses with strength 7: +42 (energy 2 -> 44)
+cloud 99 received 2 impulses with strength 7: +14 (energy 16 -> 30)
+cloud 100 received 5 impulses with strength 7: +35 (energy 23 -> 58)
+
+Stage 5:
+cloud 1 received 59 impulses with strength 6: +354 (energy 58 -> 412)
+cloud 2 received 32 impulses with strength 6: +192 (energy 23 -> 215)
+cloud 3 received 17 impulses with strength 6: +102 (energy 36 -> 138)
+cloud 4 received 62 impulses with strength 6: +372 (energy 49 -> 421)
+cloud 5 received 44 impulses with strength 6: +264 (energy 74 -> 338)
+cloud 6 received 77 impulses with strength 6: +462 (energy 93 -> 555)
+cloud 7 received 26 impulses with strength 6: +156 (energy 55 -> 211)
+cloud 8 received 64 impulses with strength 6: +384 (energy 66 -> 450)
+cloud 9 received 26 impulses with strength 6: +156 (energy 33 -> 189)
+cloud 10 received 46 impulses with strength 6: +276 (energy 48 -> 324)
+cloud 11 received 31 impulses with strength 6: +186 (energy 22 -> 208)
+cloud 12 received 32 impulses with strength 6: +192 (energy 45 -> 237)
+cloud 13 received 19 impulses with strength 6: +114 (energy 22 -> 136)
+cloud 14 received 36 impulses with strength 6: +216 (energy 51 -> 267)
+cloud 15 received 37 impulses with strength 6: +222 (energy 46 -> 268)
+cloud 16 received 38 impulses with strength 6: +228 (energy 55 -> 283)
+cloud 17 received 33 impulses with strength 6: +198 (energy 31 -> 229)
+cloud 18 received 51 impulses with strength 6: +306 (energy 57 -> 363)
+cloud 19 received 26 impulses with strength 6: +156 (energy 18 -> 174)
+cloud 20 received 46 impulses with strength 6: +276 (energy 66 -> 342)
+cloud 21 received 50 impulses with strength 6: +300 (energy 58 -> 358)
+cloud 22 received 26 impulses with strength 6: +156 (energy 31 -> 187)
+cloud 23 received 43 impulses with strength 6: +258 (energy 41 -> 299)
+cloud 24 received 42 impulses with strength 6: +252 (energy 48 -> 300)
+cloud 25 received 42 impulses with strength 6: +252 (energy 58 -> 310)
+cloud 26 received 35 impulses with strength 6: +210 (energy 42 -> 252)
+cloud 27 received 26 impulses with strength 6: +156 (energy 35 -> 191)
+cloud 28 received 50 impulses with strength 6: +300 (energy 64 -> 364)
+cloud 29 received 53 impulses with strength 6: +318 (energy 51 -> 369)
+cloud 30 received 33 impulses with strength 6: +198 (energy 50 -> 248)
+cloud 31 received 23 impulses with strength 6: +138 (energy 22 -> 160)
+cloud 32 received 38 impulses with strength 6: +228 (energy 33 -> 261)
+cloud 33 received 31 impulses with strength 6: +186 (energy 44 -> 230)
+cloud 34 received 24 impulses with strength 6: +144 (energy 14 -> 158)
+cloud 35 received 54 impulses with strength 6: +324 (energy 90 -> 414)
+cloud 36 received 42 impulses with strength 6: +252 (energy 62 -> 314)
+cloud 37 received 27 impulses with strength 6: +162 (energy 44 -> 206)
+cloud 38 received 37 impulses with strength 6: +222 (energy 29 -> 251)
+cloud 39 received 70 impulses with strength 6: +420 (energy 90 -> 510)
+cloud 40 received 39 impulses with strength 6: +234 (energy 30 -> 264)
+cloud 41 received 36 impulses with strength 6: +216 (energy 30 -> 246)
+cloud 42 received 59 impulses with strength 6: +354 (energy 71 -> 425)
+cloud 43 received 74 impulses with strength 6: +444 (energy 86 -> 530)
+cloud 44 received 51 impulses with strength 6: +306 (energy 58 -> 364)
+cloud 45 received 27 impulses with strength 6: +162 (energy 44 -> 206)
+cloud 46 received 106 impulses with strength 6: +636 (energy 128 -> 764)
+cloud 47 received 31 impulses with strength 6: +186 (energy 34 -> 220)
+cloud 48 received 37 impulses with strength 6: +222 (energy 19 -> 241)
+cloud 49 received 22 impulses with strength 6: +132 (energy 31 -> 163)
+cloud 50 received 45 impulses with strength 6: +270 (energy 48 -> 318)
+cloud 51 received 48 impulses with strength 6: +288 (energy 64 -> 352)
+cloud 52 received 26 impulses with strength 6: +156 (energy 34 -> 190)
+cloud 53 received 48 impulses with strength 6: +288 (energy 59 -> 347)
+cloud 54 received 36 impulses with strength 6: +216 (energy 44 -> 260)
+cloud 55 received 37 impulses with strength 6: +222 (energy 61 -> 283)
+cloud 56 received 50 impulses with strength 6: +300 (energy 66 -> 366)
+cloud 57 received 57 impulses with strength 6: +342 (energy 58 -> 400)
+cloud 58 received 32 impulses with strength 6: +192 (energy 40 -> 232)
+cloud 59 received 35 impulses with strength 6: +210 (energy 52 -> 262)
+cloud 60 received 15 impulses with strength 6: +90 (energy 23 -> 113)
+cloud 61 received 35 impulses with strength 6: +210 (energy 56 -> 266)
+cloud 62 received 37 impulses with strength 6: +222 (energy 55 -> 277)
+cloud 63 received 39 impulses with strength 6: +234 (energy 46 -> 280)
+cloud 64 received 39 impulses with strength 6: +234 (energy 45 -> 279)
+cloud 65 received 41 impulses with strength 6: +246 (energy 57 -> 303)
+cloud 66 received 10 impulses with strength 6: +60 (energy 23 -> 83)
+cloud 67 received 38 impulses with strength 6: +228 (energy 62 -> 290)
+cloud 68 received 20 impulses with strength 6: +120 (energy 3 -> 123)
+cloud 69 received 37 impulses with strength 6: +222 (energy 82 -> 304)
+cloud 70 received 33 impulses with strength 6: +198 (energy 32 -> 230)
+cloud 71 received 45 impulses with strength 6: +270 (energy 51 -> 321)
+cloud 72 received 45 impulses with strength 6: +270 (energy 43 -> 313)
+cloud 73 received 26 impulses with strength 6: +156 (energy 30 -> 186)
+cloud 74 received 56 impulses with strength 6: +336 (energy 75 -> 411)
+cloud 75 received 29 impulses with strength 6: +174 (energy 44 -> 218)
+cloud 76 received 50 impulses with strength 6: +300 (energy 66 -> 366)
+cloud 77 received 27 impulses with strength 6: +162 (energy 24 -> 186)
+cloud 78 received 47 impulses with strength 6: +282 (energy 79 -> 361)
+cloud 79 received 44 impulses with strength 6: +264 (energy 84 -> 348)
+cloud 80 received 25 impulses with strength 6: +150 (energy 44 -> 194)
+cloud 81 received 24 impulses with strength 6: +144 (energy 35 -> 179)
+cloud 82 received 26 impulses with strength 6: +156 (energy 37 -> 193)
+cloud 83 received 37 impulses with strength 6: +222 (energy 85 -> 307)
+cloud 84 received 30 impulses with strength 6: +180 (energy 34 -> 214)
+cloud 85 received 22 impulses with strength 6: +132 (energy 20 -> 152)
+cloud 86 received 48 impulses with strength 6: +288 (energy 29 -> 317)
+cloud 87 received 26 impulses with strength 6: +156 (energy 27 -> 183)
+cloud 88 received 37 impulses with strength 6: +222 (energy 43 -> 265)
+cloud 89 received 57 impulses with strength 6: +342 (energy 93 -> 435)
+cloud 90 received 25 impulses with strength 6: +150 (energy 45 -> 195)
+cloud 91 received 23 impulses with strength 6: +138 (energy 42 -> 180)
+cloud 92 received 40 impulses with strength 6: +240 (energy 43 -> 283)
+cloud 93 received 2 impulses with strength 6: +12 (energy 9 -> 21)
+cloud 94 received 48 impulses with strength 6: +288 (energy 59 -> 347)
+cloud 95 received 29 impulses with strength 6: +174 (energy 40 -> 214)
+cloud 96 received 11 impulses with strength 6: +66 (energy 20 -> 86)
+cloud 97 received 33 impulses with strength 6: +198 (energy 59 -> 257)
+cloud 98 received 40 impulses with strength 6: +240 (energy 44 -> 284)
+cloud 99 received 14 impulses with strength 6: +84 (energy 30 -> 114)
+cloud 100 received 57 impulses with strength 6: +342 (energy 58 -> 400)
+
+Stage 6:
+cloud 1 received 439 impulses with strength 5: +2195 (energy 412 -> 2607)
+cloud 2 received 168 impulses with strength 5: +840 (energy 215 -> 1055)
+cloud 3 received 142 impulses with strength 5: +710 (energy 138 -> 848)
+cloud 4 received 366 impulses with strength 5: +1830 (energy 421 -> 2251)
+cloud 5 received 272 impulses with strength 5: +1360 (energy 338 -> 1698)
+cloud 6 received 490 impulses with strength 5: +2450 (energy 555 -> 3005)
+cloud 7 received 195 impulses with strength 5: +975 (energy 211 -> 1186)
+cloud 8 received 416 impulses with strength 5: +2080 (energy 450 -> 2530)
+cloud 9 received 171 impulses with strength 5: +855 (energy 189 -> 1044)
+cloud 10 received 322 impulses with strength 5: +1610 (energy 324 -> 1934)
+cloud 11 received 202 impulses with strength 5: +1010 (energy 208 -> 1218)
+cloud 12 received 244 impulses with strength 5: +1220 (energy 237 -> 1457)
+cloud 13 received 166 impulses with strength 5: +830 (energy 136 -> 966)
+cloud 14 received 217 impulses with strength 5: +1085 (energy 267 -> 1352)
+cloud 15 received 269 impulses with strength 5: +1345 (energy 268 -> 1613)
+cloud 16 received 275 impulses with strength 5: +1375 (energy 283 -> 1658)
+cloud 17 received 243 impulses with strength 5: +1215 (energy 229 -> 1444)
+cloud 18 received 368 impulses with strength 5: +1840 (energy 363 -> 2203)
+cloud 19 received 161 impulses with strength 5: +805 (energy 174 -> 979)
+cloud 20 received 362 impulses with strength 5: +1810 (energy 342 -> 2152)
+cloud 21 received 363 impulses with strength 5: +1815 (energy 358 -> 2173)
+cloud 22 received 200 impulses with strength 5: +1000 (energy 187 -> 1187)
+cloud 23 received 302 impulses with strength 5: +1510 (energy 299 -> 1809)
+cloud 24 received 232 impulses with strength 5: +1160 (energy 300 -> 1460)
+cloud 25 received 280 impulses with strength 5: +1400 (energy 310 -> 1710)
+cloud 26 received 237 impulses with strength 5: +1185 (energy 252 -> 1437)
+cloud 27 received 204 impulses with strength 5: +1020 (energy 191 -> 1211)
+cloud 28 received 348 impulses with strength 5: +1740 (energy 364 -> 2104)
+cloud 29 received 376 impulses with strength 5: +1880 (energy 369 -> 2249)
+cloud 30 received 239 impulses with strength 5: +1195 (energy 248 -> 1443)
+cloud 31 received 169 impulses with strength 5: +845 (energy 160 -> 1005)
+cloud 32 received 281 impulses with strength 5: +1405 (energy 261 -> 1666)
+cloud 33 received 206 impulses with strength 5: +1030 (energy 230 -> 1260)
+cloud 34 received 187 impulses with strength 5: +935 (energy 158 -> 1093)
+cloud 35 received 500 impulses with strength 5: +2500 (energy 414 -> 2914)
+cloud 36 received 329 impulses with strength 5: +1645 (energy 314 -> 1959)
+cloud 37 received 221 impulses with strength 5: +1105 (energy 206 -> 1311)
+cloud 38 received 227 impulses with strength 5: +1135 (energy 251 -> 1386)
+cloud 39 received 519 impulses with strength 5: +2595 (energy 510 -> 3105)
+cloud 40 received 240 impulses with strength 5: +1200 (energy 264 -> 1464)
+cloud 41 received 234 impulses with strength 5: +1170 (energy 246 -> 1416)
+cloud 42 received 447 impulses with strength 5: +2235 (energy 425 -> 2660)
+cloud 43 received 543 impulses with strength 5: +2715 (energy 530 -> 3245)
+cloud 44 received 394 impulses with strength 5: +1970 (energy 364 -> 2334)
+cloud 45 received 222 impulses with strength 5: +1110 (energy 206 -> 1316)
+cloud 46 received 812 impulses with strength 5: +4060 (energy 764 -> 4824)
+cloud 47 received 218 impulses with strength 5: +1090 (energy 220 -> 1310)
+cloud 48 received 231 impulses with strength 5: +1155 (energy 241 -> 1396)
+cloud 49 received 165 impulses with strength 5: +825 (energy 163 -> 988)
+cloud 50 received 373 impulses with strength 5: +1865 (energy 318 -> 2183)
+cloud 51 received 329 impulses with strength 5: +1645 (energy 352 -> 1997)
+cloud 52 received 196 impulses with strength 5: +980 (energy 190 -> 1170)
+cloud 53 received 394 impulses with strength 5: +1970 (energy 347 -> 2317)
+cloud 54 received 234 impulses with strength 5: +1170 (energy 260 -> 1430)
+cloud 55 received 241 impulses with strength 5: +1205 (energy 283 -> 1488)
+cloud 56 received 388 impulses with strength 5: +1940 (energy 366 -> 2306)
+cloud 57 received 409 impulses with strength 5: +2045 (energy 400 -> 2445)
+cloud 58 received 195 impulses with strength 5: +975 (energy 232 -> 1207)
+cloud 59 received 281 impulses with strength 5: +1405 (energy 262 -> 1667)
+cloud 60 received 158 impulses with strength 5: +790 (energy 113 -> 903)
+cloud 61 received 289 impulses with strength 5: +1445 (energy 266 -> 1711)
+cloud 62 received 279 impulses with strength 5: +1395 (energy 277 -> 1672)
+cloud 63 received 220 impulses with strength 5: +1100 (energy 280 -> 1380)
+cloud 64 received 227 impulses with strength 5: +1135 (energy 279 -> 1414)
+cloud 65 received 324 impulses with strength 5: +1620 (energy 303 -> 1923)
+cloud 66 received 87 impulses with strength 5: +435 (energy 83 -> 518)
+cloud 67 received 310 impulses with strength 5: +1550 (energy 290 -> 1840)
+cloud 68 received 148 impulses with strength 5: +740 (energy 123 -> 863)
+cloud 69 received 366 impulses with strength 5: +1830 (energy 304 -> 2134)
+cloud 70 received 244 impulses with strength 5: +1220 (energy 230 -> 1450)
+cloud 71 received 298 impulses with strength 5: +1490 (energy 321 -> 1811)
+cloud 72 received 344 impulses with strength 5: +1720 (energy 313 -> 2033)
+cloud 73 received 200 impulses with strength 5: +1000 (energy 186 -> 1186)
+cloud 74 received 410 impulses with strength 5: +2050 (energy 411 -> 2461)
+cloud 75 received 216 impulses with strength 5: +1080 (energy 218 -> 1298)
+cloud 76 received 327 impulses with strength 5: +1635 (energy 366 -> 2001)
+cloud 77 received 173 impulses with strength 5: +865 (energy 186 -> 1051)
+cloud 78 received 439 impulses with strength 5: +2195 (energy 361 -> 2556)
+cloud 79 received 401 impulses with strength 5: +2005 (energy 348 -> 2353)
+cloud 80 received 194 impulses with strength 5: +970 (energy 194 -> 1164)
+cloud 81 received 246 impulses with strength 5: +1230 (energy 179 -> 1409)
+cloud 82 received 221 impulses with strength 5: +1105 (energy 193 -> 1298)
+cloud 83 received 309 impulses with strength 5: +1545 (energy 307 -> 1852)
+cloud 84 received 178 impulses with strength 5: +890 (energy 214 -> 1104)
+cloud 85 received 147 impulses with strength 5: +735 (energy 152 -> 887)
+cloud 86 received 334 impulses with strength 5: +1670 (energy 317 -> 1987)
+cloud 87 received 201 impulses with strength 5: +1005 (energy 183 -> 1188)
+cloud 88 received 331 impulses with strength 5: +1655 (energy 265 -> 1920)
+cloud 89 received 447 impulses with strength 5: +2235 (energy 435 -> 2670)
+cloud 90 received 239 impulses with strength 5: +1195 (energy 195 -> 1390)
+cloud 91 received 142 impulses with strength 5: +710 (energy 180 -> 890)
+cloud 92 received 305 impulses with strength 5: +1525 (energy 283 -> 1808)
+cloud 93 received 39 impulses with strength 5: +195 (energy 21 -> 216)
+cloud 94 received 373 impulses with strength 5: +1865 (energy 347 -> 2212)
+cloud 95 received 186 impulses with strength 5: +930 (energy 214 -> 1144)
+cloud 96 received 102 impulses with strength 5: +510 (energy 86 -> 596)
+cloud 97 received 289 impulses with strength 5: +1445 (energy 257 -> 1702)
+cloud 98 received 295 impulses with strength 5: +1475 (energy 284 -> 1759)
+cloud 99 received 112 impulses with strength 5: +560 (energy 114 -> 674)
+cloud 100 received 354 impulses with strength 5: +1770 (energy 400 -> 2170)
+
+Stage 7:
+cloud 1 received 3190 impulses with strength 4: +12760 (energy 2607 -> 15367)
+cloud 2 received 1241 impulses with strength 4: +4964 (energy 1055 -> 6019)
+cloud 3 received 968 impulses with strength 4: +3872 (energy 848 -> 4720)
+cloud 4 received 2741 impulses with strength 4: +10964 (energy 2251 -> 13215)
+cloud 5 received 2009 impulses with strength 4: +8036 (energy 1698 -> 9734)
+cloud 6 received 3791 impulses with strength 4: +15164 (energy 3005 -> 18169)
+cloud 7 received 1491 impulses with strength 4: +5964 (energy 1186 -> 7150)
+cloud 8 received 3050 impulses with strength 4: +12200 (energy 2530 -> 14730)
+cloud 9 received 1132 impulses with strength 4: +4528 (energy 1044 -> 5572)
+cloud 10 received 2348 impulses with strength 4: +9392 (energy 1934 -> 11326)
+cloud 11 received 1515 impulses with strength 4: +6060 (energy 1218 -> 7278)
+cloud 12 received 1678 impulses with strength 4: +6712 (energy 1457 -> 8169)
+cloud 13 received 1181 impulses with strength 4: +4724 (energy 966 -> 5690)
+cloud 14 received 1629 impulses with strength 4: +6516 (energy 1352 -> 7868)
+cloud 15 received 1859 impulses with strength 4: +7436 (energy 1613 -> 9049)
+cloud 16 received 1941 impulses with strength 4: +7764 (energy 1658 -> 9422)
+cloud 17 received 1893 impulses with strength 4: +7572 (energy 1444 -> 9016)
+cloud 18 received 2649 impulses with strength 4: +10596 (energy 2203 -> 12799)
+cloud 19 received 1208 impulses with strength 4: +4832 (energy 979 -> 5811)
+cloud 20 received 2668 impulses with strength 4: +10672 (energy 2152 -> 12824)
+cloud 21 received 2634 impulses with strength 4: +10536 (energy 2173 -> 12709)
+cloud 22 received 1470 impulses with strength 4: +5880 (energy 1187 -> 7067)
+cloud 23 received 2257 impulses with strength 4: +9028 (energy 1809 -> 10837)
+cloud 24 received 1789 impulses with strength 4: +7156 (energy 1460 -> 8616)
+cloud 25 received 2012 impulses with strength 4: +8048 (energy 1710 -> 9758)
+cloud 26 received 1787 impulses with strength 4: +7148 (energy 1437 -> 8585)
+cloud 27 received 1405 impulses with strength 4: +5620 (energy 1211 -> 6831)
+cloud 28 received 2492 impulses with strength 4: +9968 (energy 2104 -> 12072)
+cloud 29 received 2795 impulses with strength 4: +11180 (energy 2249 -> 13429)
+cloud 30 received 1632 impulses with strength 4: +6528 (energy 1443 -> 7971)
+cloud 31 received 1270 impulses with strength 4: +5080 (energy 1005 -> 6085)
+cloud 32 received 1945 impulses with strength 4: +7780 (energy 1666 -> 9446)
+cloud 33 received 1487 impulses with strength 4: +5948 (energy 1260 -> 7208)
+cloud 34 received 1265 impulses with strength 4: +5060 (energy 1093 -> 6153)
+cloud 35 received 3443 impulses with strength 4: +13772 (energy 2914 -> 16686)
+cloud 36 received 2169 impulses with strength 4: +8676 (energy 1959 -> 10635)
+cloud 37 received 1518 impulses with strength 4: +6072 (energy 1311 -> 7383)
+cloud 38 received 1622 impulses with strength 4: +6488 (energy 1386 -> 7874)
+cloud 39 received 3712 impulses with strength 4: +14848 (energy 3105 -> 17953)
+cloud 40 received 1830 impulses with strength 4: +7320 (energy 1464 -> 8784)
+cloud 41 received 1827 impulses with strength 4: +7308 (energy 1416 -> 8724)
+cloud 42 received 3034 impulses with strength 4: +12136 (energy 2660 -> 14796)
+cloud 43 received 4028 impulses with strength 4: +16112 (energy 3245 -> 19357)
+cloud 44 received 2838 impulses with strength 4: +11352 (energy 2334 -> 13686)
+cloud 45 received 1578 impulses with strength 4: +6312 (energy 1316 -> 7628)
+cloud 46 received 5978 impulses with strength 4: +23912 (energy 4824 -> 28736)
+cloud 47 received 1467 impulses with strength 4: +5868 (energy 1310 -> 7178)
+cloud 48 received 1831 impulses with strength 4: +7324 (energy 1396 -> 8720)
+cloud 49 received 1178 impulses with strength 4: +4712 (energy 988 -> 5700)
+cloud 50 received 2501 impulses with strength 4: +10004 (energy 2183 -> 12187)
+cloud 51 received 2598 impulses with strength 4: +10392 (energy 1997 -> 12389)
+cloud 52 received 1374 impulses with strength 4: +5496 (energy 1170 -> 6666)
+cloud 53 received 2695 impulses with strength 4: +10780 (energy 2317 -> 13097)
+cloud 54 received 1802 impulses with strength 4: +7208 (energy 1430 -> 8638)
+cloud 55 received 1683 impulses with strength 4: +6732 (energy 1488 -> 8220)
+cloud 56 received 2710 impulses with strength 4: +10840 (energy 2306 -> 13146)
+cloud 57 received 3016 impulses with strength 4: +12064 (energy 2445 -> 14509)
+cloud 58 received 1568 impulses with strength 4: +6272 (energy 1207 -> 7479)
+cloud 59 received 2081 impulses with strength 4: +8324 (energy 1667 -> 9991)
+cloud 60 received 1162 impulses with strength 4: +4648 (energy 903 -> 5551)
+cloud 61 received 2214 impulses with strength 4: +8856 (energy 1711 -> 10567)
+cloud 62 received 1968 impulses with strength 4: +7872 (energy 1672 -> 9544)
+cloud 63 received 1632 impulses with strength 4: +6528 (energy 1380 -> 7908)
+cloud 64 received 1796 impulses with strength 4: +7184 (energy 1414 -> 8598)
+cloud 65 received 2349 impulses with strength 4: +9396 (energy 1923 -> 11319)
+cloud 66 received 617 impulses with strength 4: +2468 (energy 518 -> 2986)
+cloud 67 received 2286 impulses with strength 4: +9144 (energy 1840 -> 10984)
+cloud 68 received 1136 impulses with strength 4: +4544 (energy 863 -> 5407)
+cloud 69 received 2548 impulses with strength 4: +10192 (energy 2134 -> 12326)
+cloud 70 received 1712 impulses with strength 4: +6848 (energy 1450 -> 8298)
+cloud 71 received 2269 impulses with strength 4: +9076 (energy 1811 -> 10887)
+cloud 72 received 2569 impulses with strength 4: +10276 (energy 2033 -> 12309)
+cloud 73 received 1432 impulses with strength 4: +5728 (energy 1186 -> 6914)
+cloud 74 received 2884 impulses with strength 4: +11536 (energy 2461 -> 13997)
+cloud 75 received 1601 impulses with strength 4: +6404 (energy 1298 -> 7702)
+cloud 76 received 2400 impulses with strength 4: +9600 (energy 2001 -> 11601)
+cloud 77 received 1283 impulses with strength 4: +5132 (energy 1051 -> 6183)
+cloud 78 received 3152 impulses with strength 4: +12608 (energy 2556 -> 15164)
+cloud 79 received 2778 impulses with strength 4: +11112 (energy 2353 -> 13465)
+cloud 80 received 1356 impulses with strength 4: +5424 (energy 1164 -> 6588)
+cloud 81 received 1663 impulses with strength 4: +6652 (energy 1409 -> 8061)
+cloud 82 received 1593 impulses with strength 4: +6372 (energy 1298 -> 7670)
+cloud 83 received 2324 impulses with strength 4: +9296 (energy 1852 -> 11148)
+cloud 84 received 1343 impulses with strength 4: +5372 (energy 1104 -> 6476)
+cloud 85 received 1118 impulses with strength 4: +4472 (energy 887 -> 5359)
+cloud 86 received 2446 impulses with strength 4: +9784 (energy 1987 -> 11771)
+cloud 87 received 1453 impulses with strength 4: +5812 (energy 1188 -> 7000)
+cloud 88 received 2346 impulses with strength 4: +9384 (energy 1920 -> 11304)
+cloud 89 received 3183 impulses with strength 4: +12732 (energy 2670 -> 15402)
+cloud 90 received 1712 impulses with strength 4: +6848 (energy 1390 -> 8238)
+cloud 91 received 1076 impulses with strength 4: +4304 (energy 890 -> 5194)
+cloud 92 received 2159 impulses with strength 4: +8636 (energy 1808 -> 10444)
+cloud 93 received 240 impulses with strength 4: +960 (energy 216 -> 1176)
+cloud 94 received 2677 impulses with strength 4: +10708 (energy 2212 -> 12920)
+cloud 95 received 1357 impulses with strength 4: +5428 (energy 1144 -> 6572)
+cloud 96 received 698 impulses with strength 4: +2792 (energy 596 -> 3388)
+cloud 97 received 2113 impulses with strength 4: +8452 (energy 1702 -> 10154)
+cloud 98 received 2186 impulses with strength 4: +8744 (energy 1759 -> 10503)
+cloud 99 received 868 impulses with strength 4: +3472 (energy 674 -> 4146)
+cloud 100 received 2780 impulses with strength 4: +11120 (energy 2170 -> 13290)
+
+Stage 8:
+cloud 1 received 23097 impulses with strength 3: +69291 (energy 15367 -> 84658)
+cloud 2 received 9006 impulses with strength 3: +27018 (energy 6019 -> 33037)
+cloud 3 received 7140 impulses with strength 3: +21420 (energy 4720 -> 26140)
+cloud 4 received 20206 impulses with strength 3: +60618 (energy 13215 -> 73833)
+cloud 5 received 14738 impulses with strength 3: +44214 (energy 9734 -> 53948)
+cloud 6 received 27491 impulses with strength 3: +82473 (energy 18169 -> 100642)
+cloud 7 received 10963 impulses with strength 3: +32889 (energy 7150 -> 40039)
+cloud 8 received 22025 impulses with strength 3: +66075 (energy 14730 -> 80805)
+cloud 9 received 8680 impulses with strength 3: +26040 (energy 5572 -> 31612)
+cloud 10 received 16804 impulses with strength 3: +50412 (energy 11326 -> 61738)
+cloud 11 received 10866 impulses with strength 3: +32598 (energy 7278 -> 39876)
+cloud 12 received 12253 impulses with strength 3: +36759 (energy 8169 -> 44928)
+cloud 13 received 8698 impulses with strength 3: +26094 (energy 5690 -> 31784)
+cloud 14 received 12004 impulses with strength 3: +36012 (energy 7868 -> 43880)
+cloud 15 received 13921 impulses with strength 3: +41763 (energy 9049 -> 50812)
+cloud 16 received 14353 impulses with strength 3: +43059 (energy 9422 -> 52481)
+cloud 17 received 13481 impulses with strength 3: +40443 (energy 9016 -> 49459)
+cloud 18 received 19268 impulses with strength 3: +57804 (energy 12799 -> 70603)
+cloud 19 received 8713 impulses with strength 3: +26139 (energy 5811 -> 31950)
+cloud 20 received 19479 impulses with strength 3: +58437 (energy 12824 -> 71261)
+cloud 21 received 19223 impulses with strength 3: +57669 (energy 12709 -> 70378)
+cloud 22 received 10476 impulses with strength 3: +31428 (energy 7067 -> 38495)
+cloud 23 received 16435 impulses with strength 3: +49305 (energy 10837 -> 60142)
+cloud 24 received 13049 impulses with strength 3: +39147 (energy 8616 -> 47763)
+cloud 25 received 14537 impulses with strength 3: +43611 (energy 9758 -> 53369)
+cloud 26 received 13047 impulses with strength 3: +39141 (energy 8585 -> 47726)
+cloud 27 received 10105 impulses with strength 3: +30315 (energy 6831 -> 37146)
+cloud 28 received 18360 impulses with strength 3: +55080 (energy 12072 -> 67152)
+cloud 29 received 20351 impulses with strength 3: +61053 (energy 13429 -> 74482)
+cloud 30 received 12085 impulses with strength 3: +36255 (energy 7971 -> 44226)
+cloud 31 received 9009 impulses with strength 3: +27027 (energy 6085 -> 33112)
+cloud 32 received 14332 impulses with strength 3: +42996 (energy 9446 -> 52442)
+cloud 33 received 10794 impulses with strength 3: +32382 (energy 7208 -> 39590)
+cloud 34 received 9543 impulses with strength 3: +28629 (energy 6153 -> 34782)
+cloud 35 received 24874 impulses with strength 3: +74622 (energy 16686 -> 91308)
+cloud 36 received 15788 impulses with strength 3: +47364 (energy 10635 -> 57999)
+cloud 37 received 11420 impulses with strength 3: +34260 (energy 7383 -> 41643)
+cloud 38 received 12038 impulses with strength 3: +36114 (energy 7874 -> 43988)
+cloud 39 received 27213 impulses with strength 3: +81639 (energy 17953 -> 99592)
+cloud 40 received 13461 impulses with strength 3: +40383 (energy 8784 -> 49167)
+cloud 41 received 13019 impulses with strength 3: +39057 (energy 8724 -> 47781)
+cloud 42 received 22237 impulses with strength 3: +66711 (energy 14796 -> 81507)
+cloud 43 received 29116 impulses with strength 3: +87348 (energy 19357 -> 106705)
+cloud 44 received 20931 impulses with strength 3: +62793 (energy 13686 -> 76479)
+cloud 45 received 11487 impulses with strength 3: +34461 (energy 7628 -> 42089)
+cloud 46 received 43670 impulses with strength 3: +131010 (energy 28736 -> 159746)
+cloud 47 received 11219 impulses with strength 3: +33657 (energy 7178 -> 40835)
+cloud 48 received 13288 impulses with strength 3: +39864 (energy 8720 -> 48584)
+cloud 49 received 8701 impulses with strength 3: +26103 (energy 5700 -> 31803)
+cloud 50 received 18617 impulses with strength 3: +55851 (energy 12187 -> 68038)
+cloud 51 received 18475 impulses with strength 3: +55425 (energy 12389 -> 67814)
+cloud 52 received 10061 impulses with strength 3: +30183 (energy 6666 -> 36849)
+cloud 53 received 20084 impulses with strength 3: +60252 (energy 13097 -> 73349)
+cloud 54 received 12802 impulses with strength 3: +38406 (energy 8638 -> 47044)
+cloud 55 received 12865 impulses with strength 3: +38595 (energy 8220 -> 46815)
+cloud 56 received 20065 impulses with strength 3: +60195 (energy 13146 -> 73341)
+cloud 57 received 22158 impulses with strength 3: +66474 (energy 14509 -> 80983)
+cloud 58 received 11367 impulses with strength 3: +34101 (energy 7479 -> 41580)
+cloud 59 received 15224 impulses with strength 3: +45672 (energy 9991 -> 55663)
+cloud 60 received 8476 impulses with strength 3: +25428 (energy 5551 -> 30979)
+cloud 61 received 15692 impulses with strength 3: +47076 (energy 10567 -> 57643)
+cloud 62 received 14471 impulses with strength 3: +43413 (energy 9544 -> 52957)
+cloud 63 received 12031 impulses with strength 3: +36093 (energy 7908 -> 44001)
+cloud 64 received 13203 impulses with strength 3: +39609 (energy 8598 -> 48207)
+cloud 65 received 16863 impulses with strength 3: +50589 (energy 11319 -> 61908)
+cloud 66 received 4549 impulses with strength 3: +13647 (energy 2986 -> 16633)
+cloud 67 received 16693 impulses with strength 3: +50079 (energy 10984 -> 61063)
+cloud 68 received 8160 impulses with strength 3: +24480 (energy 5407 -> 29887)
+cloud 69 received 18573 impulses with strength 3: +55719 (energy 12326 -> 68045)
+cloud 70 received 12321 impulses with strength 3: +36963 (energy 8298 -> 45261)
+cloud 71 received 16250 impulses with strength 3: +48750 (energy 10887 -> 59637)
+cloud 72 received 18503 impulses with strength 3: +55509 (energy 12309 -> 67818)
+cloud 73 received 10634 impulses with strength 3: +31902 (energy 6914 -> 38816)
+cloud 74 received 20851 impulses with strength 3: +62553 (energy 13997 -> 76550)
+cloud 75 received 11203 impulses with strength 3: +33609 (energy 7702 -> 41311)
+cloud 76 received 17895 impulses with strength 3: +53685 (energy 11601 -> 65286)
+cloud 77 received 9534 impulses with strength 3: +28602 (energy 6183 -> 34785)
+cloud 78 received 23299 impulses with strength 3: +69897 (energy 15164 -> 85061)
+cloud 79 received 20526 impulses with strength 3: +61578 (energy 13465 -> 75043)
+cloud 80 received 10141 impulses with strength 3: +30423 (energy 6588 -> 37011)
+cloud 81 received 12296 impulses with strength 3: +36888 (energy 8061 -> 44949)
+cloud 82 received 11389 impulses with strength 3: +34167 (energy 7670 -> 41837)
+cloud 83 received 16792 impulses with strength 3: +50376 (energy 11148 -> 61524)
+cloud 84 received 9897 impulses with strength 3: +29691 (energy 6476 -> 36167)
+cloud 85 received 7976 impulses with strength 3: +23928 (energy 5359 -> 29287)
+cloud 86 received 17895 impulses with strength 3: +53685 (energy 11771 -> 65456)
+cloud 87 received 10622 impulses with strength 3: +31866 (energy 7000 -> 38866)
+cloud 88 received 17212 impulses with strength 3: +51636 (energy 11304 -> 62940)
+cloud 89 received 23340 impulses with strength 3: +70020 (energy 15402 -> 85422)
+cloud 90 received 12555 impulses with strength 3: +37665 (energy 8238 -> 45903)
+cloud 91 received 7728 impulses with strength 3: +23184 (energy 5194 -> 28378)
+cloud 92 received 15512 impulses with strength 3: +46536 (energy 10444 -> 56980)
+cloud 93 received 1830 impulses with strength 3: +5490 (energy 1176 -> 6666)
+cloud 94 received 19621 impulses with strength 3: +58863 (energy 12920 -> 71783)
+cloud 95 received 9948 impulses with strength 3: +29844 (energy 6572 -> 36416)
+cloud 96 received 5349 impulses with strength 3: +16047 (energy 3388 -> 19435)
+cloud 97 received 15373 impulses with strength 3: +46119 (energy 10154 -> 56273)
+cloud 98 received 15676 impulses with strength 3: +47028 (energy 10503 -> 57531)
+cloud 99 received 6280 impulses with strength 3: +18840 (energy 4146 -> 22986)
+cloud 100 received 20111 impulses with strength 3: +60333 (energy 13290 -> 73623)
+
+Stage 9:
+cloud 1 received 168873 impulses with strength 2: +337746 (energy 84658 -> 422404)
+cloud 2 received 65547 impulses with strength 2: +131094 (energy 33037 -> 164131)
+cloud 3 received 52597 impulses with strength 2: +105194 (energy 26140 -> 131334)
+cloud 4 received 147114 impulses with strength 2: +294228 (energy 73833 -> 368061)
+cloud 5 received 107095 impulses with strength 2: +214190 (energy 53948 -> 268138)
+cloud 6 received 200884 impulses with strength 2: +401768 (energy 100642 -> 502410)
+cloud 7 received 80059 impulses with strength 2: +160118 (energy 40039 -> 200157)
+cloud 8 received 160255 impulses with strength 2: +320510 (energy 80805 -> 401315)
+cloud 9 received 62999 impulses with strength 2: +125998 (energy 31612 -> 157610)
+cloud 10 received 122647 impulses with strength 2: +245294 (energy 61738 -> 307032)
+cloud 11 received 79606 impulses with strength 2: +159212 (energy 39876 -> 199088)
+cloud 12 received 88471 impulses with strength 2: +176942 (energy 44928 -> 221870)
+cloud 13 received 63583 impulses with strength 2: +127166 (energy 31784 -> 158950)
+cloud 14 received 87631 impulses with strength 2: +175262 (energy 43880 -> 219142)
+cloud 15 received 101268 impulses with strength 2: +202536 (energy 50812 -> 253348)
+cloud 16 received 104568 impulses with strength 2: +209136 (energy 52481 -> 261617)
+cloud 17 received 98699 impulses with strength 2: +197398 (energy 49459 -> 246857)
+cloud 18 received 141177 impulses with strength 2: +282354 (energy 70603 -> 352957)
+cloud 19 received 63626 impulses with strength 2: +127252 (energy 31950 -> 159202)
+cloud 20 received 141610 impulses with strength 2: +283220 (energy 71261 -> 354481)
+cloud 21 received 140214 impulses with strength 2: +280428 (energy 70378 -> 350806)
+cloud 22 received 76421 impulses with strength 2: +152842 (energy 38495 -> 191337)
+cloud 23 received 119846 impulses with strength 2: +239692 (energy 60142 -> 299834)
+cloud 24 received 94918 impulses with strength 2: +189836 (energy 47763 -> 237599)
+cloud 25 received 106197 impulses with strength 2: +212394 (energy 53369 -> 265763)
+cloud 26 received 94562 impulses with strength 2: +189124 (energy 47726 -> 236850)
+cloud 27 received 73466 impulses with strength 2: +146932 (energy 37146 -> 184078)
+cloud 28 received 134268 impulses with strength 2: +268536 (energy 67152 -> 335688)
+cloud 29 received 147648 impulses with strength 2: +295296 (energy 74482 -> 369778)
+cloud 30 received 88478 impulses with strength 2: +176956 (energy 44226 -> 221182)
+cloud 31 received 65654 impulses with strength 2: +131308 (energy 33112 -> 164420)
+cloud 32 received 104714 impulses with strength 2: +209428 (energy 52442 -> 261870)
+cloud 33 received 79061 impulses with strength 2: +158122 (energy 39590 -> 197712)
+cloud 34 received 68886 impulses with strength 2: +137772 (energy 34782 -> 172554)
+cloud 35 received 181721 impulses with strength 2: +363442 (energy 91308 -> 454750)
+cloud 36 received 115917 impulses with strength 2: +231834 (energy 57999 -> 289833)
+cloud 37 received 82864 impulses with strength 2: +165728 (energy 41643 -> 207371)
+cloud 38 received 87777 impulses with strength 2: +175554 (energy 43988 -> 219542)
+cloud 39 received 197733 impulses with strength 2: +395466 (energy 99592 -> 495058)
+cloud 40 received 97819 impulses with strength 2: +195638 (energy 49167 -> 244805)
+cloud 41 received 94982 impulses with strength 2: +189964 (energy 47781 -> 237745)
+cloud 42 received 162865 impulses with strength 2: +325730 (energy 81507 -> 407237)
+cloud 43 received 212590 impulses with strength 2: +425180 (energy 106705 -> 531885)
+cloud 44 received 151136 impulses with strength 2: +302272 (energy 76479 -> 378751)
+cloud 45 received 83553 impulses with strength 2: +167106 (energy 42089 -> 209195)
+cloud 46 received 316782 impulses with strength 2: +633564 (energy 159746 -> 793310)
+cloud 47 received 81208 impulses with strength 2: +162416 (energy 40835 -> 203251)
+cloud 48 received 96212 impulses with strength 2: +192424 (energy 48584 -> 241008)
+cloud 49 received 63004 impulses with strength 2: +126008 (energy 31803 -> 157811)
+cloud 50 received 134685 impulses with strength 2: +269370 (energy 68038 -> 337408)
+cloud 51 received 135348 impulses with strength 2: +270696 (energy 67814 -> 338510)
+cloud 52 received 73215 impulses with strength 2: +146430 (energy 36849 -> 183279)
+cloud 53 received 145990 impulses with strength 2: +291980 (energy 73349 -> 365329)
+cloud 54 received 93097 impulses with strength 2: +186194 (energy 47044 -> 233238)
+cloud 55 received 92698 impulses with strength 2: +185396 (energy 46815 -> 232211)
+cloud 56 received 146080 impulses with strength 2: +292160 (energy 73341 -> 365501)
+cloud 57 received 160928 impulses with strength 2: +321856 (energy 80983 -> 402839)
+cloud 58 received 82670 impulses with strength 2: +165340 (energy 41580 -> 206920)
+cloud 59 received 111016 impulses with strength 2: +222032 (energy 55663 -> 277695)
+cloud 60 received 61898 impulses with strength 2: +123796 (energy 30979 -> 154775)
+cloud 61 received 115335 impulses with strength 2: +230670 (energy 57643 -> 288313)
+cloud 62 received 105284 impulses with strength 2: +210568 (energy 52957 -> 263525)
+cloud 63 received 88410 impulses with strength 2: +176820 (energy 44001 -> 220821)
+cloud 64 received 95287 impulses with strength 2: +190574 (energy 48207 -> 238781)
+cloud 65 received 123137 impulses with strength 2: +246274 (energy 61908 -> 308182)
+cloud 66 received 33272 impulses with strength 2: +66544 (energy 16633 -> 83177)
+cloud 67 received 120473 impulses with strength 2: +240946 (energy 61063 -> 302009)
+cloud 68 received 59384 impulses with strength 2: +118768 (energy 29887 -> 148655)
+cloud 69 received 135221 impulses with strength 2: +270442 (energy 68045 -> 338487)
+cloud 70 received 90212 impulses with strength 2: +180424 (energy 45261 -> 225685)
+cloud 71 received 118997 impulses with strength 2: +237994 (energy 59637 -> 297631)
+cloud 72 received 135668 impulses with strength 2: +271336 (energy 67818 -> 339154)
+cloud 73 received 77325 impulses with strength 2: +154650 (energy 38816 -> 193466)
+cloud 74 received 152177 impulses with strength 2: +304354 (energy 76550 -> 380904)
+cloud 75 received 82083 impulses with strength 2: +164166 (energy 41311 -> 205477)
+cloud 76 received 129639 impulses with strength 2: +259278 (energy 65286 -> 324564)
+cloud 77 received 69197 impulses with strength 2: +138394 (energy 34785 -> 173179)
+cloud 78 received 169948 impulses with strength 2: +339896 (energy 85061 -> 424957)
+cloud 79 received 148917 impulses with strength 2: +297834 (energy 75043 -> 372877)
+cloud 80 received 73806 impulses with strength 2: +147612 (energy 37011 -> 184623)
+cloud 81 received 89613 impulses with strength 2: +179226 (energy 44949 -> 224175)
+cloud 82 received 83206 impulses with strength 2: +166412 (energy 41837 -> 208249)
+cloud 83 received 122511 impulses with strength 2: +245022 (energy 61524 -> 306546)
+cloud 84 received 72196 impulses with strength 2: +144392 (energy 36167 -> 180559)
+cloud 85 received 57972 impulses with strength 2: +115944 (energy 29287 -> 145231)
+cloud 86 received 130641 impulses with strength 2: +261282 (energy 65456 -> 326738)
+cloud 87 received 77892 impulses with strength 2: +155784 (energy 38866 -> 194650)
+cloud 88 received 125355 impulses with strength 2: +250710 (energy 62940 -> 313650)
+cloud 89 received 170516 impulses with strength 2: +341032 (energy 85422 -> 426454)
+cloud 90 received 91119 impulses with strength 2: +182238 (energy 45903 -> 228141)
+cloud 91 received 57035 impulses with strength 2: +114070 (energy 28378 -> 142448)
+cloud 92 received 113980 impulses with strength 2: +227960 (energy 56980 -> 284940)
+cloud 93 received 13461 impulses with strength 2: +26922 (energy 6666 -> 33588)
+cloud 94 received 143551 impulses with strength 2: +287102 (energy 71783 -> 358885)
+cloud 95 received 72960 impulses with strength 2: +145920 (energy 36416 -> 182336)
+cloud 96 received 38614 impulses with strength 2: +77228 (energy 19435 -> 96663)
+cloud 97 received 112301 impulses with strength 2: +224602 (energy 56273 -> 280875)
+cloud 98 received 114336 impulses with strength 2: +228672 (energy 57531 -> 286203)
+cloud 99 received 45613 impulses with strength 2: +91226 (energy 22986 -> 114212)
+cloud 100 received 147074 impulses with strength 2: +294148 (energy 73623 -> 367771)
+
+Stage 10:
+cloud 1 received 1229799 impulses with strength 1: +1229799 (energy 422404 -> 1652203)
+cloud 2 received 478377 impulses with strength 1: +478377 (energy 164131 -> 642508)
+cloud 3 received 383323 impulses with strength 1: +383323 (energy 131334 -> 514657)
+cloud 4 received 1073081 impulses with strength 1: +1073081 (energy 368061 -> 1441142)
+cloud 5 received 778863 impulses with strength 1: +778863 (energy 268138 -> 1047001)
+cloud 6 received 1465108 impulses with strength 1: +1465108 (energy 502410 -> 1967518)
+cloud 7 received 580772 impulses with strength 1: +580772 (energy 200157 -> 780929)
+cloud 8 received 1169018 impulses with strength 1: +1169018 (energy 401315 -> 1570333)
+cloud 9 received 459065 impulses with strength 1: +459065 (energy 157610 -> 616675)
+cloud 10 received 893844 impulses with strength 1: +893844 (energy 307032 -> 1200876)
+cloud 11 received 580049 impulses with strength 1: +580049 (energy 199088 -> 779137)
+cloud 12 received 646412 impulses with strength 1: +646412 (energy 221870 -> 868282)
+cloud 13 received 462681 impulses with strength 1: +462681 (energy 158950 -> 621631)
+cloud 14 received 638673 impulses with strength 1: +638673 (energy 219142 -> 857815)
+cloud 15 received 738765 impulses with strength 1: +738765 (energy 253348 -> 992113)
+cloud 16 received 762913 impulses with strength 1: +762913 (energy 261617 -> 1024530)
+cloud 17 received 720337 impulses with strength 1: +720337 (energy 246857 -> 967194)
+cloud 18 received 1027208 impulses with strength 1: +1027208 (energy 352957 -> 1380165)
+cloud 19 received 463337 impulses with strength 1: +463337 (energy 159202 -> 622539)
+cloud 20 received 1034871 impulses with strength 1: +1034871 (energy 354481 -> 1389352)
+cloud 21 received 1024410 impulses with strength 1: +1024410 (energy 350806 -> 1375216)
+cloud 22 received 556449 impulses with strength 1: +556449 (energy 191337 -> 747786)
+cloud 23 received 873746 impulses with strength 1: +873746 (energy 299834 -> 1173580)
+cloud 24 received 691116 impulses with strength 1: +691116 (energy 237599 -> 928715)
+cloud 25 received 774209 impulses with strength 1: +774209 (energy 265763 -> 1039972)
+cloud 26 received 690022 impulses with strength 1: +690022 (energy 236850 -> 926872)
+cloud 27 received 537664 impulses with strength 1: +537664 (energy 184078 -> 721742)
+cloud 28 received 975227 impulses with strength 1: +975227 (energy 335688 -> 1310915)
+cloud 29 received 1076257 impulses with strength 1: +1076257 (energy 369778 -> 1446035)
+cloud 30 received 643513 impulses with strength 1: +643513 (energy 221182 -> 864695)
+cloud 31 received 479191 impulses with strength 1: +479191 (energy 164420 -> 643611)
+cloud 32 received 762631 impulses with strength 1: +762631 (energy 261870 -> 1024501)
+cloud 33 received 577166 impulses with strength 1: +577166 (energy 197712 -> 774878)
+cloud 34 received 503835 impulses with strength 1: +503835 (energy 172554 -> 676389)
+cloud 35 received 1325470 impulses with strength 1: +1325470 (energy 454750 -> 1780220)
+cloud 36 received 844254 impulses with strength 1: +844254 (energy 289833 -> 1134087)
+cloud 37 received 603201 impulses with strength 1: +603201 (energy 207371 -> 810572)
+cloud 38 received 639428 impulses with strength 1: +639428 (energy 219542 -> 858970)
+cloud 39 received 1439613 impulses with strength 1: +1439613 (energy 495058 -> 1934671)
+cloud 40 received 714374 impulses with strength 1: +714374 (energy 244805 -> 959179)
+cloud 41 received 693445 impulses with strength 1: +693445 (energy 237745 -> 931190)
+cloud 42 received 1188292 impulses with strength 1: +1188292 (energy 407237 -> 1595529)
+cloud 43 received 1549485 impulses with strength 1: +1549485 (energy 531885 -> 2081370)
+cloud 44 received 1104310 impulses with strength 1: +1104310 (energy 378751 -> 1483061)
+cloud 45 received 609400 impulses with strength 1: +609400 (energy 209195 -> 818595)
+cloud 46 received 2310317 impulses with strength 1: +2310317 (energy 793310 -> 3103627)
+cloud 47 received 592303 impulses with strength 1: +592303 (energy 203251 -> 795554)
+cloud 48 received 703035 impulses with strength 1: +703035 (energy 241008 -> 944043)
+cloud 49 received 458545 impulses with strength 1: +458545 (energy 157811 -> 616356)
+cloud 50 received 981880 impulses with strength 1: +981880 (energy 337408 -> 1319288)
+cloud 51 received 986325 impulses with strength 1: +986325 (energy 338510 -> 1324835)
+cloud 52 received 533462 impulses with strength 1: +533462 (energy 183279 -> 716741)
+cloud 53 received 1063343 impulses with strength 1: +1063343 (energy 365329 -> 1428672)
+cloud 54 received 679691 impulses with strength 1: +679691 (energy 233238 -> 912929)
+cloud 55 received 677550 impulses with strength 1: +677550 (energy 232211 -> 909761)
+cloud 56 received 1064392 impulses with strength 1: +1064392 (energy 365501 -> 1429893)
+cloud 57 received 1174814 impulses with strength 1: +1174814 (energy 402839 -> 1577653)
+cloud 58 received 601545 impulses with strength 1: +601545 (energy 206920 -> 808465)
+cloud 59 received 809556 impulses with strength 1: +809556 (energy 277695 -> 1087251)
+cloud 60 received 449669 impulses with strength 1: +449669 (energy 154775 -> 604444)
+cloud 61 received 842211 impulses with strength 1: +842211 (energy 288313 -> 1130524)
+cloud 62 received 767451 impulses with strength 1: +767451 (energy 263525 -> 1030976)
+cloud 63 received 641051 impulses with strength 1: +641051 (energy 220821 -> 861872)
+cloud 64 received 693940 impulses with strength 1: +693940 (energy 238781 -> 932721)
+cloud 65 received 898294 impulses with strength 1: +898294 (energy 308182 -> 1206476)
+cloud 66 received 242376 impulses with strength 1: +242376 (energy 83177 -> 325553)
+cloud 67 received 879525 impulses with strength 1: +879525 (energy 302009 -> 1181534)
+cloud 68 received 432606 impulses with strength 1: +432606 (energy 148655 -> 581261)
+cloud 69 received 984577 impulses with strength 1: +984577 (energy 338487 -> 1323064)
+cloud 70 received 659052 impulses with strength 1: +659052 (energy 225685 -> 884737)
+cloud 71 received 864275 impulses with strength 1: +864275 (energy 297631 -> 1161906)
+cloud 72 received 987604 impulses with strength 1: +987604 (energy 339154 -> 1326758)
+cloud 73 received 562467 impulses with strength 1: +562467 (energy 193466 -> 755933)
+cloud 74 received 1110472 impulses with strength 1: +1110472 (energy 380904 -> 1491376)
+cloud 75 received 599752 impulses with strength 1: +599752 (energy 205477 -> 805229)
+cloud 76 received 944794 impulses with strength 1: +944794 (energy 324564 -> 1269358)
+cloud 77 received 505958 impulses with strength 1: +505958 (energy 173179 -> 679137)
+cloud 78 received 1238805 impulses with strength 1: +1238805 (energy 424957 -> 1663762)
+cloud 79 received 1085169 impulses with strength 1: +1085169 (energy 372877 -> 1458046)
+cloud 80 received 539133 impulses with strength 1: +539133 (energy 184623 -> 723756)
+cloud 81 received 653709 impulses with strength 1: +653709 (energy 224175 -> 877884)
+cloud 82 received 607297 impulses with strength 1: +607297 (energy 208249 -> 815546)
+cloud 83 received 891711 impulses with strength 1: +891711 (energy 306546 -> 1198257)
+cloud 84 received 524900 impulses with strength 1: +524900 (energy 180559 -> 705459)
+cloud 85 received 423024 impulses with strength 1: +423024 (energy 145231 -> 568255)
+cloud 86 received 953588 impulses with strength 1: +953588 (energy 326738 -> 1280326)
+cloud 87 received 567447 impulses with strength 1: +567447 (energy 194650 -> 762097)
+cloud 88 received 913145 impulses with strength 1: +913145 (energy 313650 -> 1226795)
+cloud 89 received 1244263 impulses with strength 1: +1244263 (energy 426454 -> 1670717)
+cloud 90 received 663769 impulses with strength 1: +663769 (energy 228141 -> 891910)
+cloud 91 received 412658 impulses with strength 1: +412658 (energy 142448 -> 555106)
+cloud 92 received 830997 impulses with strength 1: +830997 (energy 284940 -> 1115937)
+cloud 93 received 97819 impulses with strength 1: +97819 (energy 33588 -> 131407)
+cloud 94 received 1045756 impulses with strength 1: +1045756 (energy 358885 -> 1404641)
+cloud 95 received 530489 impulses with strength 1: +530489 (energy 182336 -> 712825)
+cloud 96 received 282742 impulses with strength 1: +282742 (energy 96663 -> 379405)
+cloud 97 received 818264 impulses with strength 1: +818264 (energy 280875 -> 1099139)
+cloud 98 received 834297 impulses with strength 1: +834297 (energy 286203 -> 1120500)
+cloud 99 received 333482 impulses with strength 1: +333482 (energy 114212 -> 447694)
+cloud 100 received 1073251 impulses with strength 1: +1073251 (energy 367771 -> 1441022)
+Explosions after this stage:
+cloud 1 exploded at energy 1652203
+  new impulse with strength 10: cloud 1 -> cloud 4
+  new impulse with strength 10: cloud 1 -> cloud 41
+  new impulse with strength 10: cloud 1 -> cloud 43
+  new impulse with strength 10: cloud 1 -> cloud 44
+  new impulse with strength 10: cloud 1 -> cloud 78
+  new impulse with strength 10: cloud 1 -> cloud 79
+cloud 4 exploded at energy 1441142
+  new impulse with strength 10: cloud 4 -> cloud 27
+  new impulse with strength 10: cloud 4 -> cloud 34
+  new impulse with strength 10: cloud 4 -> cloud 37
+  new impulse with strength 10: cloud 4 -> cloud 42
+  new impulse with strength 10: cloud 4 -> cloud 53
+  new impulse with strength 10: cloud 4 -> cloud 70
+  new impulse with strength 10: cloud 4 -> cloud 74
+  new impulse with strength 10: cloud 4 -> cloud 86
+  new impulse with strength 10: cloud 4 -> cloud 92
+cloud 5 exploded at energy 1047001
+  new impulse with strength 10: cloud 5 -> cloud 2
+  new impulse with strength 10: cloud 5 -> cloud 33
+  new impulse with strength 10: cloud 5 -> cloud 79
+  new impulse with strength 10: cloud 5 -> cloud 95
+cloud 6 exploded at energy 1967518
+  new impulse with strength 10: cloud 6 -> cloud 15
+  new impulse with strength 10: cloud 6 -> cloud 16
+  new impulse with strength 10: cloud 6 -> cloud 36
+  new impulse with strength 10: cloud 6 -> cloud 43
+  new impulse with strength 10: cloud 6 -> cloud 55
+  new impulse with strength 10: cloud 6 -> cloud 56
+  new impulse with strength 10: cloud 6 -> cloud 76
+  new impulse with strength 10: cloud 6 -> cloud 89
+cloud 8 exploded at energy 1570333
+  new impulse with strength 10: cloud 8 -> cloud 39
+  new impulse with strength 10: cloud 8 -> cloud 49
+  new impulse with strength 10: cloud 8 -> cloud 69
+cloud 10 exploded at energy 1200876
+  new impulse with strength 10: cloud 10 -> cloud 12
+  new impulse with strength 10: cloud 10 -> cloud 19
+  new impulse with strength 10: cloud 10 -> cloud 22
+  new impulse with strength 10: cloud 10 -> cloud 29
+  new impulse with strength 10: cloud 10 -> cloud 44
+  new impulse with strength 10: cloud 10 -> cloud 59
+  new impulse with strength 10: cloud 10 -> cloud 73
+  new impulse with strength 10: cloud 10 -> cloud 79
+cloud 16 exploded at energy 1024530
+  new impulse with strength 10: cloud 16 -> cloud 26
+  new impulse with strength 10: cloud 16 -> cloud 28
+  new impulse with strength 10: cloud 16 -> cloud 43
+  new impulse with strength 10: cloud 16 -> cloud 56
+  new impulse with strength 10: cloud 16 -> cloud 95
+cloud 18 exploded at energy 1380165
+  new impulse with strength 10: cloud 18 -> cloud 11
+  new impulse with strength 10: cloud 18 -> cloud 27
+  new impulse with strength 10: cloud 18 -> cloud 32
+  new impulse with strength 10: cloud 18 -> cloud 33
+  new impulse with strength 10: cloud 18 -> cloud 35
+  new impulse with strength 10: cloud 18 -> cloud 44
+  new impulse with strength 10: cloud 18 -> cloud 51
+  new impulse with strength 10: cloud 18 -> cloud 52
+  new impulse with strength 10: cloud 18 -> cloud 67
+  new impulse with strength 10: cloud 18 -> cloud 75
+  new impulse with strength 10: cloud 18 -> cloud 86
+  new impulse with strength 10: cloud 18 -> cloud 89
+cloud 20 exploded at energy 1389352
+  new impulse with strength 10: cloud 20 -> cloud 23
+  new impulse with strength 10: cloud 20 -> cloud 28
+  new impulse with strength 10: cloud 20 -> cloud 32
+  new impulse with strength 10: cloud 20 -> cloud 43
+  new impulse with strength 10: cloud 20 -> cloud 45
+  new impulse with strength 10: cloud 20 -> cloud 49
+  new impulse with strength 10: cloud 20 -> cloud 57
+  new impulse with strength 10: cloud 20 -> cloud 63
+  new impulse with strength 10: cloud 20 -> cloud 64
+  new impulse with strength 10: cloud 20 -> cloud 73
+  new impulse with strength 10: cloud 20 -> cloud 77
+  new impulse with strength 10: cloud 20 -> cloud 87
+  new impulse with strength 10: cloud 20 -> cloud 89
+  new impulse with strength 10: cloud 20 -> cloud 94
+  new impulse with strength 10: cloud 20 -> cloud 99
+cloud 21 exploded at energy 1375216
+  new impulse with strength 10: cloud 21 -> cloud 40
+  new impulse with strength 10: cloud 21 -> cloud 50
+cloud 23 exploded at energy 1173580
+  new impulse with strength 10: cloud 23 -> cloud 45
+  new impulse with strength 10: cloud 23 -> cloud 46
+  new impulse with strength 10: cloud 23 -> cloud 51
+  new impulse with strength 10: cloud 23 -> cloud 60
+  new impulse with strength 10: cloud 23 -> cloud 78
+  new impulse with strength 10: cloud 23 -> cloud 79
+  new impulse with strength 10: cloud 23 -> cloud 100
+cloud 25 exploded at energy 1039972
+  new impulse with strength 10: cloud 25 -> cloud 12
+  new impulse with strength 10: cloud 25 -> cloud 22
+  new impulse with strength 10: cloud 25 -> cloud 29
+  new impulse with strength 10: cloud 25 -> cloud 35
+  new impulse with strength 10: cloud 25 -> cloud 36
+  new impulse with strength 10: cloud 25 -> cloud 39
+  new impulse with strength 10: cloud 25 -> cloud 45
+  new impulse with strength 10: cloud 25 -> cloud 52
+  new impulse with strength 10: cloud 25 -> cloud 67
+  new impulse with strength 10: cloud 25 -> cloud 69
+  new impulse with strength 10: cloud 25 -> cloud 85
+cloud 28 exploded at energy 1310915
+  new impulse with strength 10: cloud 28 -> cloud 15
+  new impulse with strength 10: cloud 28 -> cloud 30
+  new impulse with strength 10: cloud 28 -> cloud 36
+  new impulse with strength 10: cloud 28 -> cloud 41
+  new impulse with strength 10: cloud 28 -> cloud 42
+  new impulse with strength 10: cloud 28 -> cloud 62
+  new impulse with strength 10: cloud 28 -> cloud 78
+  new impulse with strength 10: cloud 28 -> cloud 80
+  new impulse with strength 10: cloud 28 -> cloud 81
+  new impulse with strength 10: cloud 28 -> cloud 84
+  new impulse with strength 10: cloud 28 -> cloud 87
+  new impulse with strength 10: cloud 28 -> cloud 89
+  new impulse with strength 10: cloud 28 -> cloud 94
+  new impulse with strength 10: cloud 28 -> cloud 100
+cloud 29 exploded at energy 1446035
+  new impulse with strength 10: cloud 29 -> cloud 54
+  new impulse with strength 10: cloud 29 -> cloud 62
+  new impulse with strength 10: cloud 29 -> cloud 84
+  new impulse with strength 10: cloud 29 -> cloud 90
+  new impulse with strength 10: cloud 29 -> cloud 94
+  new impulse with strength 10: cloud 29 -> cloud 95
+cloud 32 exploded at energy 1024501
+  new impulse with strength 10: cloud 32 -> cloud 17
+  new impulse with strength 10: cloud 32 -> cloud 41
+  new impulse with strength 10: cloud 32 -> cloud 42
+  new impulse with strength 10: cloud 32 -> cloud 45
+  new impulse with strength 10: cloud 32 -> cloud 86
+  new impulse with strength 10: cloud 32 -> cloud 92
+cloud 35 exploded at energy 1780220
+  new impulse with strength 10: cloud 35 -> cloud 26
+  new impulse with strength 10: cloud 35 -> cloud 46
+  new impulse with strength 10: cloud 35 -> cloud 67
+cloud 36 exploded at energy 1134087
+  new impulse with strength 10: cloud 36 -> cloud 27
+  new impulse with strength 10: cloud 36 -> cloud 54
+  new impulse with strength 10: cloud 36 -> cloud 61
+  new impulse with strength 10: cloud 36 -> cloud 70
+  new impulse with strength 10: cloud 36 -> cloud 75
+  new impulse with strength 10: cloud 36 -> cloud 98
+cloud 39 exploded at energy 1934671
+  new impulse with strength 10: cloud 39 -> cloud 68
+cloud 42 exploded at energy 1595529
+  new impulse with strength 10: cloud 42 -> cloud 31
+  new impulse with strength 10: cloud 42 -> cloud 43
+  new impulse with strength 10: cloud 42 -> cloud 46
+  new impulse with strength 10: cloud 42 -> cloud 48
+  new impulse with strength 10: cloud 42 -> cloud 54
+  new impulse with strength 10: cloud 42 -> cloud 65
+  new impulse with strength 10: cloud 42 -> cloud 71
+  new impulse with strength 10: cloud 42 -> cloud 74
+  new impulse with strength 10: cloud 42 -> cloud 92
+  new impulse with strength 10: cloud 42 -> cloud 94
+cloud 43 exploded at energy 2081370
+  new impulse with strength 10: cloud 43 -> cloud 56
+  new impulse with strength 10: cloud 43 -> cloud 92
+cloud 44 exploded at energy 1483061
+  new impulse with strength 10: cloud 44 -> cloud 46
+  new impulse with strength 10: cloud 44 -> cloud 50
+  new impulse with strength 10: cloud 44 -> cloud 53
+  new impulse with strength 10: cloud 44 -> cloud 73
+cloud 46 exploded at energy 3103627
+  new impulse with strength 10: cloud 46 -> cloud 71
+  new impulse with strength 10: cloud 46 -> cloud 72
+  new impulse with strength 10: cloud 46 -> cloud 78
+cloud 50 exploded at energy 1319288
+  new impulse with strength 10: cloud 50 -> cloud 60
+  new impulse with strength 10: cloud 50 -> cloud 97
+cloud 51 exploded at energy 1324835
+  new impulse with strength 10: cloud 51 -> cloud 14
+  new impulse with strength 10: cloud 51 -> cloud 37
+  new impulse with strength 10: cloud 51 -> cloud 53
+  new impulse with strength 10: cloud 51 -> cloud 55
+  new impulse with strength 10: cloud 51 -> cloud 67
+  new impulse with strength 10: cloud 51 -> cloud 70
+  new impulse with strength 10: cloud 51 -> cloud 74
+  new impulse with strength 10: cloud 51 -> cloud 80
+  new impulse with strength 10: cloud 51 -> cloud 100
+cloud 53 exploded at energy 1428672
+  new impulse with strength 10: cloud 53 -> cloud 61
+  new impulse with strength 10: cloud 53 -> cloud 88
+cloud 56 exploded at energy 1429893
+  new impulse with strength 10: cloud 56 -> cloud 14
+  new impulse with strength 10: cloud 56 -> cloud 72
+  new impulse with strength 10: cloud 56 -> cloud 74
+  new impulse with strength 10: cloud 56 -> cloud 83
+cloud 57 exploded at energy 1577653
+  new impulse with strength 10: cloud 57 -> cloud 13
+  new impulse with strength 10: cloud 57 -> cloud 14
+  new impulse with strength 10: cloud 57 -> cloud 79
+  new impulse with strength 10: cloud 57 -> cloud 81
+  new impulse with strength 10: cloud 57 -> cloud 86
+  new impulse with strength 10: cloud 57 -> cloud 87
+cloud 59 exploded at energy 1087251
+  new impulse with strength 10: cloud 59 -> cloud 76
+  new impulse with strength 10: cloud 59 -> cloud 80
+  new impulse with strength 10: cloud 59 -> cloud 91
+  new impulse with strength 10: cloud 59 -> cloud 92
+  new impulse with strength 10: cloud 59 -> cloud 94
+cloud 61 exploded at energy 1130524
+  new impulse with strength 10: cloud 61 -> cloud 34
+  new impulse with strength 10: cloud 61 -> cloud 38
+  new impulse with strength 10: cloud 61 -> cloud 48
+  new impulse with strength 10: cloud 61 -> cloud 77
+  new impulse with strength 10: cloud 61 -> cloud 86
+cloud 62 exploded at energy 1030976
+  new impulse with strength 10: cloud 62 -> cloud 11
+  new impulse with strength 10: cloud 62 -> cloud 15
+  new impulse with strength 10: cloud 62 -> cloud 17
+  new impulse with strength 10: cloud 62 -> cloud 33
+  new impulse with strength 10: cloud 62 -> cloud 37
+  new impulse with strength 10: cloud 62 -> cloud 74
+  new impulse with strength 10: cloud 62 -> cloud 75
+  new impulse with strength 10: cloud 62 -> cloud 88
+  new impulse with strength 10: cloud 62 -> cloud 89
+  new impulse with strength 10: cloud 62 -> cloud 98
+cloud 65 exploded at energy 1206476
+  new impulse with strength 10: cloud 65 -> cloud 64
+  new impulse with strength 10: cloud 65 -> cloud 76
+  new impulse with strength 10: cloud 65 -> cloud 90
+cloud 67 exploded at energy 1181534
+  new impulse with strength 10: cloud 67 -> cloud 7
+  new impulse with strength 10: cloud 67 -> cloud 37
+  new impulse with strength 10: cloud 67 -> cloud 58
+  new impulse with strength 10: cloud 67 -> cloud 63
+  new impulse with strength 10: cloud 67 -> cloud 64
+  new impulse with strength 10: cloud 67 -> cloud 71
+  new impulse with strength 10: cloud 67 -> cloud 76
+  new impulse with strength 10: cloud 67 -> cloud 83
+  new impulse with strength 10: cloud 67 -> cloud 84
+  new impulse with strength 10: cloud 67 -> cloud 91
+  new impulse with strength 10: cloud 67 -> cloud 97
+cloud 69 exploded at energy 1323064
+  new impulse with strength 10: cloud 69 -> cloud 40
+  new impulse with strength 10: cloud 69 -> cloud 48
+  new impulse with strength 10: cloud 69 -> cloud 58
+  new impulse with strength 10: cloud 69 -> cloud 100
+cloud 71 exploded at energy 1161906
+  new impulse with strength 10: cloud 71 -> cloud 26
+  new impulse with strength 10: cloud 71 -> cloud 47
+cloud 72 exploded at energy 1326758
+  new impulse with strength 10: cloud 72 -> cloud 17
+  new impulse with strength 10: cloud 72 -> cloud 48
+  new impulse with strength 10: cloud 72 -> cloud 58
+  new impulse with strength 10: cloud 72 -> cloud 96
+cloud 74 exploded at energy 1491376
+  new impulse with strength 10: cloud 74 -> cloud 12
+  new impulse with strength 10: cloud 74 -> cloud 82
+cloud 76 exploded at energy 1269358
+  new impulse with strength 10: cloud 76 -> cloud 11
+cloud 78 exploded at energy 1663762
+  new impulse with strength 10: cloud 78 -> cloud 100
+cloud 79 exploded at energy 1458046
+  new impulse with strength 10: cloud 79 -> cloud 17
+  new impulse with strength 10: cloud 79 -> cloud 19
+cloud 83 exploded at energy 1198257
+  new impulse with strength 10: cloud 83 -> cloud 2
+  new impulse with strength 10: cloud 83 -> cloud 9
+  new impulse with strength 10: cloud 83 -> cloud 14
+  new impulse with strength 10: cloud 83 -> cloud 15
+  new impulse with strength 10: cloud 83 -> cloud 24
+  new impulse with strength 10: cloud 83 -> cloud 38
+  new impulse with strength 10: cloud 83 -> cloud 41
+  new impulse with strength 10: cloud 83 -> cloud 47
+  new impulse with strength 10: cloud 83 -> cloud 63
+  new impulse with strength 10: cloud 83 -> cloud 84
+  new impulse with strength 10: cloud 83 -> cloud 86
+cloud 86 exploded at energy 1280326
+  new impulse with strength 10: cloud 86 -> cloud 81
+  new impulse with strength 10: cloud 86 -> cloud 87
+  new impulse with strength 10: cloud 86 -> cloud 98
+  new impulse with strength 10: cloud 86 -> cloud 100
+cloud 88 exploded at energy 1226795
+cloud 89 exploded at energy 1670717
+  new impulse with strength 10: cloud 89 -> cloud 85
+cloud 92 exploded at energy 1115937
+  new impulse with strength 10: cloud 92 -> cloud 97
+  new impulse with strength 10: cloud 92 -> cloud 99
+cloud 94 exploded at energy 1404641
+  new impulse with strength 10: cloud 94 -> cloud 3
+  new impulse with strength 10: cloud 94 -> cloud 33
+  new impulse with strength 10: cloud 94 -> cloud 97
+  new impulse with strength 10: cloud 94 -> cloud 98
+cloud 97 exploded at energy 1099139
+  new impulse with strength 10: cloud 97 -> cloud 7
+  new impulse with strength 10: cloud 97 -> cloud 55
+  new impulse with strength 10: cloud 97 -> cloud 64
+cloud 98 exploded at energy 1120500
+  new impulse with strength 10: cloud 98 -> cloud 11
+  new impulse with strength 10: cloud 98 -> cloud 13
+  new impulse with strength 10: cloud 98 -> cloud 52
+  new impulse with strength 10: cloud 98 -> cloud 64
+cloud 100 exploded at energy 1441022
+  new impulse with strength 10: cloud 100 -> cloud 3
+  new impulse with strength 10: cloud 100 -> cloud 9
+  new impulse with strength 10: cloud 100 -> cloud 73
+  new impulse with strength 10: cloud 100 -> cloud 77
+  new impulse with strength 10: cloud 100 -> cloud 96
+
+Stage 11:
+cloud 2 received 2 impulses with strength 10: +20 (energy 642508 -> 642528)
+cloud 3 received 2 impulses with strength 10: +20 (energy 514657 -> 514677)
+cloud 7 received 2 impulses with strength 10: +20 (energy 780929 -> 780949)
+cloud 9 received 2 impulses with strength 10: +20 (energy 616675 -> 616695)
+cloud 11 received 4 impulses with strength 10: +40 (energy 779137 -> 779177)
+cloud 12 received 3 impulses with strength 10: +30 (energy 868282 -> 868312)
+cloud 13 received 2 impulses with strength 10: +20 (energy 621631 -> 621651)
+cloud 14 received 4 impulses with strength 10: +40 (energy 857815 -> 857855)
+cloud 15 received 4 impulses with strength 10: +40 (energy 992113 -> 992153)
+cloud 17 received 4 impulses with strength 10: +40 (energy 967194 -> 967234)
+cloud 19 received 2 impulses with strength 10: +20 (energy 622539 -> 622559)
+cloud 22 received 2 impulses with strength 10: +20 (energy 747786 -> 747806)
+cloud 24 received 1 impulse with strength 10: +10 (energy 928715 -> 928725)
+cloud 26 received 3 impulses with strength 10: +30 (energy 926872 -> 926902)
+cloud 27 received 3 impulses with strength 10: +30 (energy 721742 -> 721772)
+cloud 30 received 1 impulse with strength 10: +10 (energy 864695 -> 864705)
+cloud 31 received 1 impulse with strength 10: +10 (energy 643611 -> 643621)
+cloud 33 received 4 impulses with strength 10: +40 (energy 774878 -> 774918)
+cloud 34 received 2 impulses with strength 10: +20 (energy 676389 -> 676409)
+cloud 37 received 4 impulses with strength 10: +40 (energy 810572 -> 810612)
+cloud 38 received 2 impulses with strength 10: +20 (energy 858970 -> 858990)
+cloud 40 received 2 impulses with strength 10: +20 (energy 959179 -> 959199)
+cloud 41 received 4 impulses with strength 10: +40 (energy 931190 -> 931230)
+cloud 45 received 4 impulses with strength 10: +40 (energy 818595 -> 818635)
+cloud 47 received 2 impulses with strength 10: +20 (energy 795554 -> 795574)
+cloud 48 received 4 impulses with strength 10: +40 (energy 944043 -> 944083)
+cloud 49 received 2 impulses with strength 10: +20 (energy 616356 -> 616376)
+cloud 52 received 3 impulses with strength 10: +30 (energy 716741 -> 716771)
+cloud 54 received 3 impulses with strength 10: +30 (energy 912929 -> 912959)
+cloud 55 received 3 impulses with strength 10: +30 (energy 909761 -> 909791)
+cloud 58 received 3 impulses with strength 10: +30 (energy 808465 -> 808495)
+cloud 60 received 2 impulses with strength 10: +20 (energy 604444 -> 604464)
+cloud 63 received 3 impulses with strength 10: +30 (energy 861872 -> 861902)
+cloud 64 received 5 impulses with strength 10: +50 (energy 932721 -> 932771)
+cloud 68 received 1 impulse with strength 10: +10 (energy 581261 -> 581271)
+cloud 70 received 3 impulses with strength 10: +30 (energy 884737 -> 884767)
+cloud 73 received 4 impulses with strength 10: +40 (energy 755933 -> 755973)
+cloud 75 received 3 impulses with strength 10: +30 (energy 805229 -> 805259)
+cloud 77 received 3 impulses with strength 10: +30 (energy 679137 -> 679167)
+cloud 80 received 3 impulses with strength 10: +30 (energy 723756 -> 723786)
+cloud 81 received 3 impulses with strength 10: +30 (energy 877884 -> 877914)
+cloud 82 received 1 impulse with strength 10: +10 (energy 815546 -> 815556)
+cloud 84 received 4 impulses with strength 10: +40 (energy 705459 -> 705499)
+cloud 85 received 2 impulses with strength 10: +20 (energy 568255 -> 568275)
+cloud 87 received 4 impulses with strength 10: +40 (energy 762097 -> 762137)
+cloud 90 received 2 impulses with strength 10: +20 (energy 891910 -> 891930)
+cloud 91 received 2 impulses with strength 10: +20 (energy 555106 -> 555126)
+cloud 95 received 3 impulses with strength 10: +30 (energy 712825 -> 712855)
+cloud 96 received 2 impulses with strength 10: +20 (energy 379405 -> 379425)
+cloud 99 received 2 impulses with strength 10: +20 (energy 447694 -> 447714)
+
+Stage 12:
+cloud 2 received 4 impulses with strength 9: +36 (energy 642528 -> 642564)
+cloud 3 received 3 impulses with strength 9: +27 (energy 514677 -> 514704)
+cloud 7 received 13 impulses with strength 9: +117 (energy 780949 -> 781066)
+cloud 9 received 4 impulses with strength 9: +36 (energy 616695 -> 616731)
+cloud 11 received 3 impulses with strength 9: +27 (energy 779177 -> 779204)
+cloud 12 received 12 impulses with strength 9: +108 (energy 868312 -> 868420)
+cloud 13 received 9 impulses with strength 9: +81 (energy 621651 -> 621732)
+cloud 14 received 3 impulses with strength 9: +27 (energy 857855 -> 857882)
+cloud 15 received 8 impulses with strength 9: +72 (energy 992153 -> 992225)
+cloud 17 received 6 impulses with strength 9: +54 (energy 967234 -> 967288)
+cloud 19 received 3 impulses with strength 9: +27 (energy 622559 -> 622586)
+cloud 22 received 14 impulses with strength 9: +126 (energy 747806 -> 747932)
+cloud 24 received 19 impulses with strength 9: +171 (energy 928725 -> 928896)
+cloud 26 received 7 impulses with strength 9: +63 (energy 926902 -> 926965)
+cloud 27 received 4 impulses with strength 9: +36 (energy 721772 -> 721808)
+cloud 30 received 18 impulses with strength 9: +162 (energy 864705 -> 864867)
+cloud 31 received 12 impulses with strength 9: +108 (energy 643621 -> 643729)
+cloud 33 received 2 impulses with strength 9: +18 (energy 774918 -> 774936)
+cloud 34 received 10 impulses with strength 9: +90 (energy 676409 -> 676499)
+cloud 37 received 4 impulses with strength 9: +36 (energy 810612 -> 810648)
+cloud 38 received 13 impulses with strength 9: +117 (energy 858990 -> 859107)
+cloud 40 received 11 impulses with strength 9: +99 (energy 959199 -> 959298)
+cloud 41 received 6 impulses with strength 9: +54 (energy 931230 -> 931284)
+cloud 45 received 6 impulses with strength 9: +54 (energy 818635 -> 818689)
+cloud 47 received 11 impulses with strength 9: +99 (energy 795574 -> 795673)
+cloud 48 received 4 impulses with strength 9: +36 (energy 944083 -> 944119)
+cloud 49 received 5 impulses with strength 9: +45 (energy 616376 -> 616421)
+cloud 52 received 7 impulses with strength 9: +63 (energy 716771 -> 716834)
+cloud 54 received 7 impulses with strength 9: +63 (energy 912959 -> 913022)
+cloud 55 received 7 impulses with strength 9: +63 (energy 909791 -> 909854)
+cloud 58 received 8 impulses with strength 9: +72 (energy 808495 -> 808567)
+cloud 60 received 5 impulses with strength 9: +45 (energy 604464 -> 604509)
+cloud 63 received 9 impulses with strength 9: +81 (energy 861902 -> 861983)
+cloud 64 received 3 impulses with strength 9: +27 (energy 932771 -> 932798)
+cloud 66 received 8 impulses with strength 9: +72 (energy 325553 -> 325625)
+cloud 68 received 8 impulses with strength 9: +72 (energy 581271 -> 581343)
+cloud 70 received 7 impulses with strength 9: +63 (energy 884767 -> 884830)
+cloud 75 received 6 impulses with strength 9: +54 (energy 805259 -> 805313)
+cloud 77 received 1 impulse with strength 9: +9 (energy 679167 -> 679176)
+cloud 80 received 3 impulses with strength 9: +27 (energy 723786 -> 723813)
+cloud 81 received 8 impulses with strength 9: +72 (energy 877914 -> 877986)
+cloud 82 received 17 impulses with strength 9: +153 (energy 815556 -> 815709)
+cloud 85 received 4 impulses with strength 9: +36 (energy 568275 -> 568311)
+cloud 90 received 16 impulses with strength 9: +144 (energy 891930 -> 892074)
+cloud 91 received 6 impulses with strength 9: +54 (energy 555126 -> 555180)
+cloud 93 received 2 impulses with strength 9: +18 (energy 131407 -> 131425)
+cloud 95 received 4 impulses with strength 9: +36 (energy 712855 -> 712891)
+cloud 99 received 4 impulses with strength 9: +36 (energy 447714 -> 447750)
+
+Stage 13:
+cloud 2 received 40 impulses with strength 8: +320 (energy 642564 -> 642884)
+cloud 3 received 7 impulses with strength 8: +56 (energy 514704 -> 514760)
+cloud 7 received 32 impulses with strength 8: +256 (energy 781066 -> 781322)
+cloud 9 received 26 impulses with strength 8: +208 (energy 616731 -> 616939)
+cloud 11 received 8 impulses with strength 8: +64 (energy 779204 -> 779268)
+cloud 12 received 11 impulses with strength 8: +88 (energy 868420 -> 868508)
+cloud 13 received 4 impulses with strength 8: +32 (energy 621732 -> 621764)
+cloud 14 received 3 impulses with strength 8: +24 (energy 857882 -> 857906)
+cloud 15 received 7 impulses with strength 8: +56 (energy 992225 -> 992281)
+cloud 17 received 26 impulses with strength 8: +208 (energy 967288 -> 967496)
+cloud 19 received 36 impulses with strength 8: +288 (energy 622586 -> 622874)
+cloud 22 received 20 impulses with strength 8: +160 (energy 747932 -> 748092)
+cloud 24 received 66 impulses with strength 8: +528 (energy 928896 -> 929424)
+cloud 26 received 41 impulses with strength 8: +328 (energy 926965 -> 927293)
+cloud 27 received 20 impulses with strength 8: +160 (energy 721808 -> 721968)
+cloud 30 received 40 impulses with strength 8: +320 (energy 864867 -> 865187)
+cloud 31 received 22 impulses with strength 8: +176 (energy 643729 -> 643905)
+cloud 33 received 13 impulses with strength 8: +104 (energy 774936 -> 775040)
+cloud 34 received 11 impulses with strength 8: +88 (energy 676499 -> 676587)
+cloud 37 received 6 impulses with strength 8: +48 (energy 810648 -> 810696)
+cloud 38 received 37 impulses with strength 8: +296 (energy 859107 -> 859403)
+cloud 40 received 58 impulses with strength 8: +464 (energy 959298 -> 959762)
+cloud 41 received 12 impulses with strength 8: +96 (energy 931284 -> 931380)
+cloud 45 received 6 impulses with strength 8: +48 (energy 818689 -> 818737)
+cloud 47 received 39 impulses with strength 8: +312 (energy 795673 -> 795985)
+cloud 48 received 15 impulses with strength 8: +120 (energy 944119 -> 944239)
+cloud 49 received 16 impulses with strength 8: +128 (energy 616421 -> 616549)
+cloud 52 received 10 impulses with strength 8: +80 (energy 716834 -> 716914)
+cloud 54 received 35 impulses with strength 8: +280 (energy 913022 -> 913302)
+cloud 55 received 25 impulses with strength 8: +200 (energy 909854 -> 910054)
+cloud 58 received 14 impulses with strength 8: +112 (energy 808567 -> 808679)
+cloud 60 received 24 impulses with strength 8: +192 (energy 604509 -> 604701)
+cloud 63 received 15 impulses with strength 8: +120 (energy 861983 -> 862103)
+cloud 64 received 6 impulses with strength 8: +48 (energy 932798 -> 932846)
+cloud 66 received 22 impulses with strength 8: +176 (energy 325625 -> 325801)
+cloud 68 received 23 impulses with strength 8: +184 (energy 581343 -> 581527)
+cloud 70 received 35 impulses with strength 8: +280 (energy 884830 -> 885110)
+cloud 75 received 32 impulses with strength 8: +256 (energy 805313 -> 805569)
+cloud 77 received 20 impulses with strength 8: +160 (energy 679176 -> 679336)
+cloud 80 received 28 impulses with strength 8: +224 (energy 723813 -> 724037)
+cloud 81 received 13 impulses with strength 8: +104 (energy 877986 -> 878090)
+cloud 82 received 37 impulses with strength 8: +296 (energy 815709 -> 816005)
+cloud 85 received 14 impulses with strength 8: +112 (energy 568311 -> 568423)
+cloud 90 received 26 impulses with strength 8: +208 (energy 892074 -> 892282)
+cloud 91 received 19 impulses with strength 8: +152 (energy 555180 -> 555332)
+cloud 93 received 11 impulses with strength 8: +88 (energy 131425 -> 131513)
+cloud 95 received 29 impulses with strength 8: +232 (energy 712891 -> 713123)
+
+Stage 14:
+cloud 2 received 124 impulses with strength 7: +868 (energy 642884 -> 643752)
+cloud 3 received 25 impulses with strength 7: +175 (energy 514760 -> 514935)
+cloud 7 received 52 impulses with strength 7: +364 (energy 781322 -> 781686)
+cloud 9 received 107 impulses with strength 7: +749 (energy 616939 -> 617688)
+cloud 11 received 13 impulses with strength 7: +91 (energy 779268 -> 779359)
+cloud 12 received 42 impulses with strength 7: +294 (energy 868508 -> 868802)
+cloud 13 received 28 impulses with strength 7: +196 (energy 621764 -> 621960)
+cloud 14 received 28 impulses with strength 7: +196 (energy 857906 -> 858102)
+cloud 15 received 23 impulses with strength 7: +161 (energy 992281 -> 992442)
+cloud 17 received 63 impulses with strength 7: +441 (energy 967496 -> 967937)
+cloud 19 received 92 impulses with strength 7: +644 (energy 622874 -> 623518)
+cloud 22 received 24 impulses with strength 7: +168 (energy 748092 -> 748260)
+cloud 24 received 131 impulses with strength 7: +917 (energy 929424 -> 930341)
+cloud 26 received 118 impulses with strength 7: +826 (energy 927293 -> 928119)
+cloud 27 received 39 impulses with strength 7: +273 (energy 721968 -> 722241)
+cloud 30 received 149 impulses with strength 7: +1043 (energy 865187 -> 866230)
+cloud 31 received 67 impulses with strength 7: +469 (energy 643905 -> 644374)
+cloud 33 received 32 impulses with strength 7: +224 (energy 775040 -> 775264)
+cloud 34 received 75 impulses with strength 7: +525 (energy 676587 -> 677112)
+cloud 37 received 12 impulses with strength 7: +84 (energy 810696 -> 810780)
+cloud 38 received 115 impulses with strength 7: +805 (energy 859403 -> 860208)
+cloud 40 received 151 impulses with strength 7: +1057 (energy 959762 -> 960819)
+cloud 41 received 33 impulses with strength 7: +231 (energy 931380 -> 931611)
+cloud 45 received 27 impulses with strength 7: +189 (energy 818737 -> 818926)
+cloud 47 received 121 impulses with strength 7: +847 (energy 795985 -> 796832)
+cloud 48 received 64 impulses with strength 7: +448 (energy 944239 -> 944687)
+cloud 49 received 39 impulses with strength 7: +273 (energy 616549 -> 616822)
+cloud 52 received 33 impulses with strength 7: +231 (energy 716914 -> 717145)
+cloud 54 received 90 impulses with strength 7: +630 (energy 913302 -> 913932)
+cloud 55 received 76 impulses with strength 7: +532 (energy 910054 -> 910586)
+cloud 58 received 58 impulses with strength 7: +406 (energy 808679 -> 809085)
+cloud 60 received 59 impulses with strength 7: +413 (energy 604701 -> 605114)
+cloud 63 received 86 impulses with strength 7: +602 (energy 862103 -> 862705)
+cloud 64 received 32 impulses with strength 7: +224 (energy 932846 -> 933070)
+cloud 66 received 65 impulses with strength 7: +455 (energy 325801 -> 326256)
+cloud 68 received 43 impulses with strength 7: +301 (energy 581527 -> 581828)
+cloud 70 received 70 impulses with strength 7: +490 (energy 885110 -> 885600)
+cloud 75 received 105 impulses with strength 7: +735 (energy 805569 -> 806304)
+cloud 77 received 51 impulses with strength 7: +357 (energy 679336 -> 679693)
+cloud 80 received 70 impulses with strength 7: +490 (energy 724037 -> 724527)
+cloud 81 received 102 impulses with strength 7: +714 (energy 878090 -> 878804)
+cloud 82 received 78 impulses with strength 7: +546 (energy 816005 -> 816551)
+cloud 85 received 54 impulses with strength 7: +378 (energy 568423 -> 568801)
+cloud 90 received 45 impulses with strength 7: +315 (energy 892282 -> 892597)
+cloud 91 received 36 impulses with strength 7: +252 (energy 555332 -> 555584)
+cloud 93 received 58 impulses with strength 7: +406 (energy 131513 -> 131919)
+cloud 95 received 58 impulses with strength 7: +406 (energy 713123 -> 713529)
+
+Stage 15:
+cloud 2 received 377 impulses with strength 6: +2262 (energy 643752 -> 646014)
+cloud 3 received 76 impulses with strength 6: +456 (energy 514935 -> 515391)
+cloud 7 received 151 impulses with strength 6: +906 (energy 781686 -> 782592)
+cloud 9 received 249 impulses with strength 6: +1494 (energy 617688 -> 619182)
+cloud 11 received 102 impulses with strength 6: +612 (energy 779359 -> 779971)
+cloud 12 received 123 impulses with strength 6: +738 (energy 868802 -> 869540)
+cloud 13 received 64 impulses with strength 6: +384 (energy 621960 -> 622344)
+cloud 14 received 70 impulses with strength 6: +420 (energy 858102 -> 858522)
+cloud 15 received 77 impulses with strength 6: +462 (energy 992442 -> 992904)
+cloud 17 received 192 impulses with strength 6: +1152 (energy 967937 -> 969089)
+cloud 19 received 224 impulses with strength 6: +1344 (energy 623518 -> 624862)
+cloud 22 received 144 impulses with strength 6: +864 (energy 748260 -> 749124)
+cloud 24 received 322 impulses with strength 6: +1932 (energy 930341 -> 932273)
+cloud 26 received 239 impulses with strength 6: +1434 (energy 928119 -> 929553)
+cloud 27 received 60 impulses with strength 6: +360 (energy 722241 -> 722601)
+cloud 30 received 401 impulses with strength 6: +2406 (energy 866230 -> 868636)
+cloud 31 received 241 impulses with strength 6: +1446 (energy 644374 -> 645820)
+cloud 33 received 52 impulses with strength 6: +312 (energy 775264 -> 775576)
+cloud 34 received 187 impulses with strength 6: +1122 (energy 677112 -> 678234)
+cloud 37 received 33 impulses with strength 6: +198 (energy 810780 -> 810978)
+cloud 38 received 327 impulses with strength 6: +1962 (energy 860208 -> 862170)
+cloud 40 received 434 impulses with strength 6: +2604 (energy 960819 -> 963423)
+cloud 41 received 141 impulses with strength 6: +846 (energy 931611 -> 932457)
+cloud 45 received 86 impulses with strength 6: +516 (energy 818926 -> 819442)
+cloud 47 received 260 impulses with strength 6: +1560 (energy 796832 -> 798392)
+cloud 48 received 161 impulses with strength 6: +966 (energy 944687 -> 945653)
+cloud 49 received 118 impulses with strength 6: +708 (energy 616822 -> 617530)
+cloud 52 received 129 impulses with strength 6: +774 (energy 717145 -> 717919)
+cloud 54 received 202 impulses with strength 6: +1212 (energy 913932 -> 915144)
+cloud 55 received 191 impulses with strength 6: +1146 (energy 910586 -> 911732)
+cloud 58 received 158 impulses with strength 6: +948 (energy 809085 -> 810033)
+cloud 60 received 196 impulses with strength 6: +1176 (energy 605114 -> 606290)
+cloud 63 received 245 impulses with strength 6: +1470 (energy 862705 -> 864175)
+cloud 64 received 105 impulses with strength 6: +630 (energy 933070 -> 933700)
+cloud 66 received 165 impulses with strength 6: +990 (energy 326256 -> 327246)
+cloud 68 received 182 impulses with strength 6: +1092 (energy 581828 -> 582920)
+cloud 70 received 284 impulses with strength 6: +1704 (energy 885600 -> 887304)
+cloud 75 received 257 impulses with strength 6: +1542 (energy 806304 -> 807846)
+cloud 77 received 207 impulses with strength 6: +1242 (energy 679693 -> 680935)
+cloud 80 received 159 impulses with strength 6: +954 (energy 724527 -> 725481)
+cloud 81 received 279 impulses with strength 6: +1674 (energy 878804 -> 880478)
+cloud 82 received 276 impulses with strength 6: +1656 (energy 816551 -> 818207)
+cloud 85 received 140 impulses with strength 6: +840 (energy 568801 -> 569641)
+cloud 90 received 126 impulses with strength 6: +756 (energy 892597 -> 893353)
+cloud 91 received 118 impulses with strength 6: +708 (energy 555584 -> 556292)
+cloud 93 received 151 impulses with strength 6: +906 (energy 131919 -> 132825)
+cloud 95 received 97 impulses with strength 6: +582 (energy 713529 -> 714111)
+
+Stage 16:
+cloud 2 received 1052 impulses with strength 5: +5260 (energy 646014 -> 651274)
+cloud 3 received 191 impulses with strength 5: +955 (energy 515391 -> 516346)
+cloud 7 received 410 impulses with strength 5: +2050 (energy 782592 -> 784642)
+cloud 9 received 561 impulses with strength 5: +2805 (energy 619182 -> 621987)
+cloud 11 received 279 impulses with strength 5: +1395 (energy 779971 -> 781366)
+cloud 12 received 314 impulses with strength 5: +1570 (energy 869540 -> 871110)
+cloud 13 received 309 impulses with strength 5: +1545 (energy 622344 -> 623889)
+cloud 14 received 159 impulses with strength 5: +795 (energy 858522 -> 859317)
+cloud 15 received 263 impulses with strength 5: +1315 (energy 992904 -> 994219)
+cloud 17 received 583 impulses with strength 5: +2915 (energy 969089 -> 972004)
+cloud 19 received 551 impulses with strength 5: +2755 (energy 624862 -> 627617)
+cloud 22 received 402 impulses with strength 5: +2010 (energy 749124 -> 751134)
+cloud 24 received 847 impulses with strength 5: +4235 (energy 932273 -> 936508)
+cloud 26 received 640 impulses with strength 5: +3200 (energy 929553 -> 932753)
+cloud 27 received 262 impulses with strength 5: +1310 (energy 722601 -> 723911)
+cloud 30 received 1015 impulses with strength 5: +5075 (energy 868636 -> 873711)
+cloud 31 received 618 impulses with strength 5: +3090 (energy 645820 -> 648910)
+cloud 33 received 151 impulses with strength 5: +755 (energy 775576 -> 776331)
+cloud 34 received 468 impulses with strength 5: +2340 (energy 678234 -> 680574)
+cloud 37 received 141 impulses with strength 5: +705 (energy 810978 -> 811683)
+cloud 38 received 995 impulses with strength 5: +4975 (energy 862170 -> 867145)
+cloud 40 received 1327 impulses with strength 5: +6635 (energy 963423 -> 970058)
+cloud 41 received 339 impulses with strength 5: +1695 (energy 932457 -> 934152)
+cloud 45 received 192 impulses with strength 5: +960 (energy 819442 -> 820402)
+cloud 47 received 736 impulses with strength 5: +3680 (energy 798392 -> 802072)
+cloud 48 received 421 impulses with strength 5: +2105 (energy 945653 -> 947758)
+cloud 49 received 266 impulses with strength 5: +1330 (energy 617530 -> 618860)
+cloud 52 received 374 impulses with strength 5: +1870 (energy 717919 -> 719789)
+cloud 54 received 534 impulses with strength 5: +2670 (energy 915144 -> 917814)
+cloud 55 received 485 impulses with strength 5: +2425 (energy 911732 -> 914157)
+cloud 58 received 428 impulses with strength 5: +2140 (energy 810033 -> 812173)
+cloud 60 received 567 impulses with strength 5: +2835 (energy 606290 -> 609125)
+cloud 63 received 637 impulses with strength 5: +3185 (energy 864175 -> 867360)
+cloud 64 received 257 impulses with strength 5: +1285 (energy 933700 -> 934985)
+cloud 66 received 420 impulses with strength 5: +2100 (energy 327246 -> 329346)
+cloud 68 received 622 impulses with strength 5: +3110 (energy 582920 -> 586030)
+cloud 70 received 714 impulses with strength 5: +3570 (energy 887304 -> 890874)
+cloud 75 received 633 impulses with strength 5: +3165 (energy 807846 -> 811011)
+cloud 77 received 552 impulses with strength 5: +2760 (energy 680935 -> 683695)
+cloud 80 received 386 impulses with strength 5: +1930 (energy 725481 -> 727411)
+cloud 81 received 793 impulses with strength 5: +3965 (energy 880478 -> 884443)
+cloud 82 received 872 impulses with strength 5: +4360 (energy 818207 -> 822567)
+cloud 85 received 393 impulses with strength 5: +1965 (energy 569641 -> 571606)
+cloud 90 received 477 impulses with strength 5: +2385 (energy 893353 -> 895738)
+cloud 91 received 314 impulses with strength 5: +1570 (energy 556292 -> 557862)
+cloud 93 received 434 impulses with strength 5: +2170 (energy 132825 -> 134995)
+cloud 95 received 277 impulses with strength 5: +1385 (energy 714111 -> 715496)
+
+Stage 17:
+cloud 2 received 2872 impulses with strength 4: +11488 (energy 651274 -> 662762)
+cloud 3 received 485 impulses with strength 4: +1940 (energy 516346 -> 518286)
+cloud 7 received 1212 impulses with strength 4: +4848 (energy 784642 -> 789490)
+cloud 9 received 1487 impulses with strength 4: +5948 (energy 621987 -> 627935)
+cloud 11 received 793 impulses with strength 4: +3172 (energy 781366 -> 784538)
+cloud 12 received 893 impulses with strength 4: +3572 (energy 871110 -> 874682)
+cloud 13 received 831 impulses with strength 4: +3324 (energy 623889 -> 627213)
+cloud 14 received 386 impulses with strength 4: +1544 (energy 859317 -> 860861)
+cloud 15 received 700 impulses with strength 4: +2800 (energy 994219 -> 997019)
+cloud 17 received 1637 impulses with strength 4: +6548 (energy 972004 -> 978552)
+cloud 19 received 1576 impulses with strength 4: +6304 (energy 627617 -> 633921)
+cloud 22 received 1107 impulses with strength 4: +4428 (energy 751134 -> 755562)
+cloud 24 received 2569 impulses with strength 4: +10276 (energy 936508 -> 946784)
+cloud 26 received 1907 impulses with strength 4: +7628 (energy 932753 -> 940381)
+cloud 27 received 716 impulses with strength 4: +2864 (energy 723911 -> 726775)
+cloud 30 received 2593 impulses with strength 4: +10372 (energy 873711 -> 884083)
+cloud 31 received 1790 impulses with strength 4: +7160 (energy 648910 -> 656070)
+cloud 33 received 410 impulses with strength 4: +1640 (energy 776331 -> 777971)
+cloud 34 received 1285 impulses with strength 4: +5140 (energy 680574 -> 685714)
+cloud 37 received 339 impulses with strength 4: +1356 (energy 811683 -> 813039)
+cloud 38 received 2804 impulses with strength 4: +11216 (energy 867145 -> 878361)
+cloud 40 received 3724 impulses with strength 4: +14896 (energy 970058 -> 984954)
+cloud 41 received 1055 impulses with strength 4: +4220 (energy 934152 -> 938372)
+cloud 45 received 544 impulses with strength 4: +2176 (energy 820402 -> 822578)
+cloud 47 received 1957 impulses with strength 4: +7828 (energy 802072 -> 809900)
+cloud 48 received 1262 impulses with strength 4: +5048 (energy 947758 -> 952806)
+cloud 49 received 843 impulses with strength 4: +3372 (energy 618860 -> 622232)
+cloud 52 received 957 impulses with strength 4: +3828 (energy 719789 -> 723617)
+cloud 54 received 1520 impulses with strength 4: +6080 (energy 917814 -> 923894)
+cloud 55 received 1268 impulses with strength 4: +5072 (energy 914157 -> 919229)
+cloud 58 received 1009 impulses with strength 4: +4036 (energy 812173 -> 816209)
+cloud 60 received 1459 impulses with strength 4: +5836 (energy 609125 -> 614961)
+cloud 63 received 1677 impulses with strength 4: +6708 (energy 867360 -> 874068)
+cloud 64 received 633 impulses with strength 4: +2532 (energy 934985 -> 937517)
+cloud 66 received 1187 impulses with strength 4: +4748 (energy 329346 -> 334094)
+cloud 68 received 1690 impulses with strength 4: +6760 (energy 586030 -> 592790)
+cloud 70 received 1885 impulses with strength 4: +7540 (energy 890874 -> 898414)
+cloud 75 received 1885 impulses with strength 4: +7540 (energy 811011 -> 818551)
+cloud 77 received 1449 impulses with strength 4: +5796 (energy 683695 -> 689491)
+cloud 80 received 1156 impulses with strength 4: +4624 (energy 727411 -> 732035)
+cloud 81 received 2186 impulses with strength 4: +8744 (energy 884443 -> 893187)
+cloud 82 received 2330 impulses with strength 4: +9320 (energy 822567 -> 831887)
+cloud 85 received 1318 impulses with strength 4: +5272 (energy 571606 -> 576878)
+cloud 90 received 1374 impulses with strength 4: +5496 (energy 895738 -> 901234)
+cloud 91 received 799 impulses with strength 4: +3196 (energy 557862 -> 561058)
+cloud 93 received 1327 impulses with strength 4: +5308 (energy 134995 -> 140303)
+cloud 95 received 887 impulses with strength 4: +3548 (energy 715496 -> 719044)
+
+Stage 18:
+cloud 2 received 7826 impulses with strength 3: +23478 (energy 662762 -> 686240)
+cloud 3 received 1268 impulses with strength 3: +3804 (energy 518286 -> 522090)
+cloud 7 received 3529 impulses with strength 3: +10587 (energy 789490 -> 800077)
+cloud 9 received 4476 impulses with strength 3: +13428 (energy 627935 -> 641363)
+cloud 11 received 2186 impulses with strength 3: +6558 (energy 784538 -> 791096)
+cloud 12 received 2433 impulses with strength 3: +7299 (energy 874682 -> 881981)
+cloud 13 received 2242 impulses with strength 3: +6726 (energy 627213 -> 633939)
+cloud 14 received 1156 impulses with strength 3: +3468 (energy 860861 -> 864329)
+cloud 15 received 2055 impulses with strength 3: +6165 (energy 997019 -> 1003184)
+cloud 17 received 4283 impulses with strength 3: +12849 (energy 978552 -> 991401)
+cloud 19 received 4587 impulses with strength 3: +13761 (energy 633921 -> 647682)
+cloud 22 received 3079 impulses with strength 3: +9237 (energy 755562 -> 764799)
+cloud 24 received 7197 impulses with strength 3: +21591 (energy 946784 -> 968375)
+cloud 26 received 5580 impulses with strength 3: +16740 (energy 940381 -> 957121)
+cloud 27 received 1906 impulses with strength 3: +5718 (energy 726775 -> 732493)
+cloud 30 received 7382 impulses with strength 3: +22146 (energy 884083 -> 906229)
+cloud 31 received 4963 impulses with strength 3: +14889 (energy 656070 -> 670959)
+cloud 33 received 1212 impulses with strength 3: +3636 (energy 777971 -> 781607)
+cloud 34 received 3623 impulses with strength 3: +10869 (energy 685714 -> 696583)
+cloud 37 received 1055 impulses with strength 3: +3165 (energy 813039 -> 816204)
+cloud 38 received 7739 impulses with strength 3: +23217 (energy 878361 -> 901578)
+cloud 40 received 10520 impulses with strength 3: +31560 (energy 984954 -> 1016514)
+cloud 41 received 2902 impulses with strength 3: +8706 (energy 938372 -> 947078)
+cloud 45 received 1728 impulses with strength 3: +5184 (energy 822578 -> 827762)
+cloud 47 received 5836 impulses with strength 3: +17508 (energy 809900 -> 827408)
+cloud 48 received 3597 impulses with strength 3: +10791 (energy 952806 -> 963597)
+cloud 49 received 2351 impulses with strength 3: +7053 (energy 622232 -> 629285)
+cloud 52 received 2803 impulses with strength 3: +8409 (energy 723617 -> 732026)
+cloud 54 received 4471 impulses with strength 3: +13413 (energy 923894 -> 937307)
+cloud 55 received 3506 impulses with strength 3: +10518 (energy 919229 -> 929747)
+cloud 58 received 2963 impulses with strength 3: +8889 (energy 816209 -> 825098)
+cloud 60 received 4239 impulses with strength 3: +12717 (energy 614961 -> 627678)
+cloud 63 received 4624 impulses with strength 3: +13872 (energy 874068 -> 887940)
+cloud 64 received 1885 impulses with strength 3: +5655 (energy 937517 -> 943172)
+cloud 66 received 3336 impulses with strength 3: +10008 (energy 334094 -> 344102)
+cloud 68 received 4769 impulses with strength 3: +14307 (energy 592790 -> 607097)
+cloud 70 received 4911 impulses with strength 3: +14733 (energy 898414 -> 913147)
+cloud 75 received 5174 impulses with strength 3: +15522 (energy 818551 -> 834073)
+cloud 77 received 3920 impulses with strength 3: +11760 (energy 689491 -> 701251)
+cloud 80 received 3400 impulses with strength 3: +10200 (energy 732035 -> 742235)
+cloud 81 received 6085 impulses with strength 3: +18255 (energy 893187 -> 911442)
+cloud 82 received 6468 impulses with strength 3: +19404 (energy 831887 -> 851291)
+cloud 85 received 3733 impulses with strength 3: +11199 (energy 576878 -> 588077)
+cloud 90 received 3762 impulses with strength 3: +11286 (energy 901234 -> 912520)
+cloud 91 received 2161 impulses with strength 3: +6483 (energy 561058 -> 567541)
+cloud 93 received 3724 impulses with strength 3: +11172 (energy 140303 -> 151475)
+cloud 95 received 2586 impulses with strength 3: +7758 (energy 719044 -> 726802)
+Explosions after this stage:
+cloud 15 exploded at energy 1003184
+  new impulse with strength 10: cloud 15 -> cloud 82
+cloud 40 exploded at energy 1016514
+  new impulse with strength 10: cloud 40 -> cloud 38
+  new impulse with strength 10: cloud 40 -> cloud 93
+
+Stage 19:
+cloud 2 received 22161 impulses with strength 2: +44322 (energy 686240 -> 730562)
+cloud 3 received 3506 impulses with strength 2: +7012 (energy 522090 -> 529102)
+cloud 7 received 9792 impulses with strength 2: +19584 (energy 800077 -> 819661)
+cloud 9 received 12777 impulses with strength 2: +25554 (energy 641363 -> 666917)
+cloud 11 received 6085 impulses with strength 2: +12170 (energy 791096 -> 803266)
+cloud 12 received 6651 impulses with strength 2: +13302 (energy 881981 -> 895283)
+cloud 13 received 6106 impulses with strength 2: +12212 (energy 633939 -> 646151)
+cloud 14 received 3400 impulses with strength 2: +6800 (energy 864329 -> 871129)
+cloud 17 received 12151 impulses with strength 2: +24302 (energy 991401 -> 1015703)
+cloud 19 received 12775 impulses with strength 2: +25550 (energy 647682 -> 673232)
+cloud 22 received 8518 impulses with strength 2: +17036 (energy 764799 -> 781835)
+cloud 24 received 20452 impulses with strength 2: +40904 (energy 968375 -> 1009279)
+cloud 26 received 15242 impulses with strength 2: +30484 (energy 957121 -> 987605)
+cloud 27 received 5240 impulses with strength 2: +10480 (energy 732493 -> 742973)
+cloud 30 received 21418 impulses with strength 2: +42836 (energy 906229 -> 949065)
+cloud 31 received 13749 impulses with strength 2: +27498 (energy 670959 -> 698457)
+cloud 33 received 3529 impulses with strength 2: +7058 (energy 781607 -> 788665)
+cloud 34 received 10082 impulses with strength 2: +20164 (energy 696583 -> 716747)
+cloud 37 received 2902 impulses with strength 2: +5804 (energy 816204 -> 822008)
+cloud 38 received 21792 impulses with strength 2: +43584 (energy 901578 -> 945162)
+cloud 38 received 1 impulse with strength 10: +10 (energy 945162 -> 945172)
+cloud 41 received 7991 impulses with strength 2: +15982 (energy 947078 -> 963060)
+cloud 45 received 4945 impulses with strength 2: +9890 (energy 827762 -> 837652)
+cloud 47 received 16509 impulses with strength 2: +33018 (energy 827408 -> 860426)
+cloud 48 received 10349 impulses with strength 2: +20698 (energy 963597 -> 984295)
+cloud 49 received 6713 impulses with strength 2: +13426 (energy 629285 -> 642711)
+cloud 52 received 7960 impulses with strength 2: +15920 (energy 732026 -> 747946)
+cloud 54 received 12465 impulses with strength 2: +24930 (energy 937307 -> 962237)
+cloud 55 received 9968 impulses with strength 2: +19936 (energy 929747 -> 949683)
+cloud 58 received 8666 impulses with strength 2: +17332 (energy 825098 -> 842430)
+cloud 60 received 11896 impulses with strength 2: +23792 (energy 627678 -> 651470)
+cloud 63 received 13006 impulses with strength 2: +26012 (energy 887940 -> 913952)
+cloud 64 received 5174 impulses with strength 2: +10348 (energy 943172 -> 953520)
+cloud 66 received 9505 impulses with strength 2: +19010 (energy 344102 -> 363112)
+cloud 68 received 13234 impulses with strength 2: +26468 (energy 607097 -> 633565)
+cloud 70 received 14100 impulses with strength 2: +28200 (energy 913147 -> 941347)
+cloud 75 received 14890 impulses with strength 2: +29780 (energy 834073 -> 863853)
+cloud 77 received 11106 impulses with strength 2: +22212 (energy 701251 -> 723463)
+cloud 80 received 9439 impulses with strength 2: +18878 (energy 742235 -> 761113)
+cloud 81 received 16696 impulses with strength 2: +33392 (energy 911442 -> 944834)
+cloud 82 received 18249 impulses with strength 2: +36498 (energy 851291 -> 887789)
+cloud 82 received 1 impulse with strength 10: +10 (energy 887789 -> 887799)
+cloud 85 received 10399 impulses with strength 2: +20798 (energy 588077 -> 608875)
+cloud 90 received 10544 impulses with strength 2: +21088 (energy 912520 -> 933608)
+cloud 91 received 5939 impulses with strength 2: +11878 (energy 567541 -> 579419)
+cloud 93 received 10520 impulses with strength 2: +21040 (energy 151475 -> 172515)
+cloud 93 received 1 impulse with strength 10: +10 (energy 172515 -> 172525)
+cloud 95 received 7291 impulses with strength 2: +14582 (energy 726802 -> 741384)
+Explosions after this stage:
+cloud 17 exploded at energy 1015703
+  new impulse with strength 10: cloud 17 -> cloud 12
+  new impulse with strength 10: cloud 17 -> cloud 26
+  new impulse with strength 10: cloud 17 -> cloud 34
+  new impulse with strength 10: cloud 17 -> cloud 81
+cloud 24 exploded at energy 1009279
+  new impulse with strength 10: cloud 24 -> cloud 9
+  new impulse with strength 10: cloud 24 -> cloud 19
+  new impulse with strength 10: cloud 24 -> cloud 26
+  new impulse with strength 10: cloud 24 -> cloud 47
+  new impulse with strength 10: cloud 24 -> cloud 80
+
+Stage 20:
+cloud 2 received 62962 impulses with strength 1: +62962 (energy 730562 -> 793524)
+cloud 2 received 2 impulses with strength 9: +18 (energy 793524 -> 793542)
+cloud 3 received 9968 impulses with strength 1: +9968 (energy 529102 -> 539070)
+cloud 7 received 27544 impulses with strength 1: +27544 (energy 819661 -> 847205)
+cloud 9 received 35694 impulses with strength 1: +35694 (energy 666917 -> 702611)
+cloud 9 received 1 impulse with strength 10: +10 (energy 702611 -> 702621)
+cloud 11 received 16696 impulses with strength 1: +16696 (energy 803266 -> 819962)
+cloud 12 received 19080 impulses with strength 1: +19080 (energy 895283 -> 914363)
+cloud 12 received 1 impulse with strength 10: +10 (energy 914363 -> 914373)
+cloud 13 received 17191 impulses with strength 1: +17191 (energy 646151 -> 663342)
+cloud 14 received 9439 impulses with strength 1: +9439 (energy 871129 -> 880568)
+cloud 19 received 36063 impulses with strength 1: +36063 (energy 673232 -> 709295)
+cloud 19 received 1 impulse with strength 10: +10 (energy 709295 -> 709305)
+cloud 22 received 23347 impulses with strength 1: +23347 (energy 781835 -> 805182)
+cloud 26 received 43147 impulses with strength 1: +43147 (energy 987605 -> 1030752)
+cloud 26 received 2 impulses with strength 10: +20 (energy 1030752 -> 1030772)
+cloud 27 received 14457 impulses with strength 1: +14457 (energy 742973 -> 757430)
+cloud 30 received 60294 impulses with strength 1: +60294 (energy 949065 -> 1009359)
+cloud 31 received 38224 impulses with strength 1: +38224 (energy 698457 -> 736681)
+cloud 33 received 9792 impulses with strength 1: +9792 (energy 788665 -> 798457)
+cloud 34 received 28455 impulses with strength 1: +28455 (energy 716747 -> 745202)
+cloud 34 received 1 impulse with strength 10: +10 (energy 745202 -> 745212)
+cloud 37 received 7991 impulses with strength 1: +7991 (energy 822008 -> 829999)
+cloud 38 received 31677 impulses with strength 1: +31677 (energy 945172 -> 976849)
+cloud 41 received 21936 impulses with strength 1: +21936 (energy 963060 -> 984996)
+cloud 45 received 13928 impulses with strength 1: +13928 (energy 837652 -> 851580)
+cloud 47 received 46678 impulses with strength 1: +46678 (energy 860426 -> 907104)
+cloud 47 received 1 impulse with strength 10: +10 (energy 907104 -> 907114)
+cloud 48 received 28476 impulses with strength 1: +28476 (energy 984295 -> 1012771)
+cloud 49 received 18571 impulses with strength 1: +18571 (energy 642711 -> 661282)
+cloud 52 received 22407 impulses with strength 1: +22407 (energy 747946 -> 770353)
+cloud 52 received 1 impulse with strength 9: +9 (energy 770353 -> 770362)
+cloud 54 received 35226 impulses with strength 1: +35226 (energy 962237 -> 997463)
+cloud 55 received 27909 impulses with strength 1: +27909 (energy 949683 -> 977592)
+cloud 58 received 24433 impulses with strength 1: +24433 (energy 842430 -> 866863)
+cloud 60 received 33603 impulses with strength 1: +33603 (energy 651470 -> 685073)
+cloud 63 received 36316 impulses with strength 1: +36316 (energy 913952 -> 950268)
+cloud 64 received 14890 impulses with strength 1: +14890 (energy 953520 -> 968410)
+cloud 66 received 26719 impulses with strength 1: +26719 (energy 363112 -> 389831)
+cloud 68 received 36530 impulses with strength 1: +36530 (energy 633565 -> 670095)
+cloud 70 received 40301 impulses with strength 1: +40301 (energy 941347 -> 981648)
+cloud 75 received 42049 impulses with strength 1: +42049 (energy 863853 -> 905902)
+cloud 75 received 1 impulse with strength 9: +9 (energy 905902 -> 905911)
+cloud 77 received 31938 impulses with strength 1: +31938 (energy 723463 -> 755401)
+cloud 77 received 1 impulse with strength 9: +9 (energy 755401 -> 755410)
+cloud 80 received 26558 impulses with strength 1: +26558 (energy 761113 -> 787671)
+cloud 80 received 1 impulse with strength 10: +10 (energy 787671 -> 787681)
+cloud 81 received 47087 impulses with strength 1: +47087 (energy 944834 -> 991921)
+cloud 81 received 1 impulse with strength 10: +10 (energy 991921 -> 991931)
+cloud 82 received 46014 impulses with strength 1: +46014 (energy 887799 -> 933813)
+cloud 82 received 1 impulse with strength 9: +9 (energy 933813 -> 933822)
+cloud 85 received 28994 impulses with strength 1: +28994 (energy 608875 -> 637869)
+cloud 85 received 1 impulse with strength 9: +9 (energy 637869 -> 637878)
+cloud 90 received 29370 impulses with strength 1: +29370 (energy 933608 -> 962978)
+cloud 91 received 16619 impulses with strength 1: +16619 (energy 579419 -> 596038)
+cloud 95 received 20336 impulses with strength 1: +20336 (energy 741384 -> 761720)
+Explosions after this stage:
+cloud 26 exploded at energy 1030772
+  new impulse with strength 10: cloud 26 -> cloud 9
+  new impulse with strength 10: cloud 26 -> cloud 48
+  new impulse with strength 10: cloud 26 -> cloud 63
+cloud 30 exploded at energy 1009359
+  new impulse with strength 10: cloud 30 -> cloud 2
+  new impulse with strength 10: cloud 30 -> cloud 70
+  new impulse with strength 10: cloud 30 -> cloud 77
+  new impulse with strength 10: cloud 30 -> cloud 82
+cloud 48 exploded at energy 1012771
+  new impulse with strength 10: cloud 48 -> cloud 7
+  new impulse with strength 10: cloud 48 -> cloud 31
+  new impulse with strength 10: cloud 48 -> cloud 47
+  new impulse with strength 10: cloud 48 -> cloud 60
+
+Stage 21:
+cloud 2 received 1 impulse with strength 8: +8 (energy 793542 -> 793550)
+cloud 2 received 1 impulse with strength 9: +9 (energy 793550 -> 793559)
+cloud 2 received 1 impulse with strength 10: +10 (energy 793559 -> 793569)
+cloud 7 received 1 impulse with strength 9: +9 (energy 847205 -> 847214)
+cloud 7 received 1 impulse with strength 10: +10 (energy 847214 -> 847224)
+cloud 9 received 2 impulses with strength 9: +18 (energy 702621 -> 702639)
+cloud 9 received 1 impulse with strength 10: +10 (energy 702639 -> 702649)
+cloud 11 received 1 impulse with strength 9: +9 (energy 819962 -> 819971)
+cloud 13 received 1 impulse with strength 8: +8 (energy 663342 -> 663350)
+cloud 14 received 1 impulse with strength 9: +9 (energy 880568 -> 880577)
+cloud 22 received 2 impulses with strength 9: +18 (energy 805182 -> 805200)
+cloud 31 received 1 impulse with strength 9: +9 (energy 736681 -> 736690)
+cloud 31 received 1 impulse with strength 10: +10 (energy 736690 -> 736700)
+cloud 34 received 1 impulse with strength 9: +9 (energy 745212 -> 745221)
+cloud 38 received 1 impulse with strength 8: +8 (energy 976849 -> 976857)
+cloud 41 received 1 impulse with strength 9: +9 (energy 984996 -> 985005)
+cloud 45 received 1 impulse with strength 8: +8 (energy 851580 -> 851588)
+cloud 47 received 1 impulse with strength 10: +10 (energy 907114 -> 907124)
+cloud 54 received 1 impulse with strength 8: +8 (energy 997463 -> 997471)
+cloud 58 received 1 impulse with strength 9: +9 (energy 866863 -> 866872)
+cloud 60 received 1 impulse with strength 10: +10 (energy 685073 -> 685083)
+cloud 63 received 1 impulse with strength 8: +8 (energy 950268 -> 950276)
+cloud 63 received 2 impulses with strength 9: +18 (energy 950276 -> 950294)
+cloud 63 received 1 impulse with strength 10: +10 (energy 950294 -> 950304)
+cloud 64 received 1 impulse with strength 8: +8 (energy 968410 -> 968418)
+cloud 66 received 1 impulse with strength 9: +9 (energy 389831 -> 389840)
+cloud 68 received 1 impulse with strength 9: +9 (energy 670095 -> 670104)
+cloud 70 received 1 impulse with strength 9: +9 (energy 981648 -> 981657)
+cloud 70 received 1 impulse with strength 10: +10 (energy 981657 -> 981667)
+cloud 75 received 1 impulse with strength 8: +8 (energy 905911 -> 905919)
+cloud 75 received 1 impulse with strength 9: +9 (energy 905919 -> 905928)
+cloud 77 received 1 impulse with strength 10: +10 (energy 755410 -> 755420)
+cloud 81 received 2 impulses with strength 8: +16 (energy 991931 -> 991947)
+cloud 81 received 1 impulse with strength 9: +9 (energy 991947 -> 991956)
+cloud 82 received 1 impulse with strength 10: +10 (energy 933822 -> 933832)
+cloud 90 received 1 impulse with strength 9: +9 (energy 962978 -> 962987)
+cloud 91 received 1 impulse with strength 9: +9 (energy 596038 -> 596047)
+
+Stage 22:
+cloud 2 received 1 impulse with strength 9: +9 (energy 793569 -> 793578)
+cloud 7 received 1 impulse with strength 8: +8 (energy 847224 -> 847232)
+cloud 11 received 2 impulses with strength 7: +14 (energy 819971 -> 819985)
+cloud 11 received 1 impulse with strength 8: +8 (energy 819985 -> 819993)
+cloud 12 received 1 impulse with strength 8: +8 (energy 914373 -> 914381)
+cloud 13 received 1 impulse with strength 8: +8 (energy 663350 -> 663358)
+cloud 13 received 1 impulse with strength 9: +9 (energy 663358 -> 663367)
+cloud 19 received 1 impulse with strength 7: +7 (energy 709305 -> 709312)
+cloud 19 received 1 impulse with strength 8: +8 (energy 709312 -> 709320)
+cloud 22 received 2 impulses with strength 7: +14 (energy 805200 -> 805214)
+cloud 22 received 1 impulse with strength 8: +8 (energy 805214 -> 805222)
+cloud 27 received 3 impulses with strength 8: +24 (energy 757430 -> 757454)
+cloud 31 received 2 impulses with strength 7: +14 (energy 736700 -> 736714)
+cloud 31 received 2 impulses with strength 8: +16 (energy 736714 -> 736730)
+cloud 33 received 1 impulse with strength 8: +8 (energy 798457 -> 798465)
+cloud 33 received 1 impulse with strength 9: +9 (energy 798465 -> 798474)
+cloud 37 received 1 impulse with strength 8: +8 (energy 829999 -> 830007)
+cloud 38 received 1 impulse with strength 8: +8 (energy 976857 -> 976865)
+cloud 38 received 1 impulse with strength 9: +9 (energy 976865 -> 976874)
+cloud 41 received 2 impulses with strength 7: +14 (energy 985005 -> 985019)
+cloud 41 received 1 impulse with strength 8: +8 (energy 985019 -> 985027)
+cloud 47 received 2 impulses with strength 8: +16 (energy 907124 -> 907140)
+cloud 47 received 1 impulse with strength 9: +9 (energy 907140 -> 907149)
+cloud 49 received 2 impulses with strength 7: +14 (energy 661282 -> 661296)
+cloud 52 received 1 impulse with strength 7: +7 (energy 770362 -> 770369)
+cloud 54 received 1 impulse with strength 7: +7 (energy 997471 -> 997478)
+cloud 54 received 3 impulses with strength 8: +24 (energy 997478 -> 997502)
+cloud 54 received 1 impulse with strength 9: +9 (energy 997502 -> 997511)
+cloud 55 received 1 impulse with strength 7: +7 (energy 977592 -> 977599)
+cloud 55 received 2 impulses with strength 8: +16 (energy 977599 -> 977615)
+cloud 58 received 1 impulse with strength 7: +7 (energy 866872 -> 866879)
+cloud 60 received 2 impulses with strength 8: +16 (energy 685083 -> 685099)
+cloud 60 received 1 impulse with strength 9: +9 (energy 685099 -> 685108)
+cloud 63 received 1 impulse with strength 9: +9 (energy 950304 -> 950313)
+cloud 64 received 1 impulse with strength 7: +7 (energy 968418 -> 968425)
+cloud 64 received 1 impulse with strength 8: +8 (energy 968425 -> 968433)
+cloud 66 received 2 impulses with strength 8: +16 (energy 389840 -> 389856)
+cloud 68 received 2 impulses with strength 7: +14 (energy 670104 -> 670118)
+cloud 68 received 3 impulses with strength 8: +24 (energy 670118 -> 670142)
+cloud 68 received 1 impulse with strength 9: +9 (energy 670142 -> 670151)
+cloud 70 received 1 impulse with strength 7: +7 (energy 981667 -> 981674)
+cloud 70 received 2 impulses with strength 8: +16 (energy 981674 -> 981690)
+cloud 70 received 1 impulse with strength 9: +9 (energy 981690 -> 981699)
+cloud 75 received 2 impulses with strength 9: +18 (energy 905928 -> 905946)
+cloud 80 received 1 impulse with strength 7: +7 (energy 787681 -> 787688)
+cloud 81 received 1 impulse with strength 7: +7 (energy 991956 -> 991963)
+cloud 81 received 1 impulse with strength 8: +8 (energy 991963 -> 991971)
+cloud 81 received 1 impulse with strength 9: +9 (energy 991971 -> 991980)
+cloud 82 received 2 impulses with strength 8: +16 (energy 933832 -> 933848)
+cloud 85 received 1 impulse with strength 8: +8 (energy 637878 -> 637886)
+cloud 90 received 3 impulses with strength 8: +24 (energy 962987 -> 963011)
+cloud 95 received 2 impulses with strength 8: +16 (energy 761720 -> 761736)
+cloud 95 received 1 impulse with strength 9: +9 (energy 761736 -> 761745)
+
+Stage 23:
+cloud 2 received 1 impulse with strength 6: +6 (energy 793578 -> 793584)
+cloud 2 received 3 impulses with strength 7: +21 (energy 793584 -> 793605)
+cloud 3 received 1 impulse with strength 6: +6 (energy 539070 -> 539076)
+cloud 3 received 2 impulses with strength 7: +14 (energy 539076 -> 539090)
+cloud 7 received 4 impulses with strength 7: +28 (energy 847232 -> 847260)
+cloud 11 received 1 impulse with strength 6: +6 (energy 819993 -> 819999)
+cloud 11 received 1 impulse with strength 7: +7 (energy 819999 -> 820006)
+cloud 11 received 1 impulse with strength 8: +8 (energy 820006 -> 820014)
+cloud 12 received 1 impulse with strength 7: +7 (energy 914381 -> 914388)
+cloud 12 received 1 impulse with strength 8: +8 (energy 914388 -> 914396)
+cloud 13 received 2 impulses with strength 6: +12 (energy 663367 -> 663379)
+cloud 13 received 1 impulse with strength 7: +7 (energy 663379 -> 663386)
+cloud 14 received 1 impulse with strength 6: +6 (energy 880577 -> 880583)
+cloud 19 received 3 impulses with strength 7: +21 (energy 709320 -> 709341)
+cloud 19 received 1 impulse with strength 8: +8 (energy 709341 -> 709349)
+cloud 22 received 1 impulse with strength 6: +6 (energy 805222 -> 805228)
+cloud 22 received 2 impulses with strength 7: +14 (energy 805228 -> 805242)
+cloud 22 received 1 impulse with strength 8: +8 (energy 805242 -> 805250)
+cloud 27 received 2 impulses with strength 6: +12 (energy 757454 -> 757466)
+cloud 27 received 1 impulse with strength 7: +7 (energy 757466 -> 757473)
+cloud 31 received 1 impulse with strength 6: +6 (energy 736730 -> 736736)
+cloud 31 received 4 impulses with strength 7: +28 (energy 736736 -> 736764)
+cloud 31 received 1 impulse with strength 8: +8 (energy 736764 -> 736772)
+cloud 33 received 1 impulse with strength 7: +7 (energy 798474 -> 798481)
+cloud 34 received 1 impulse with strength 6: +6 (energy 745221 -> 745227)
+cloud 34 received 2 impulses with strength 7: +14 (energy 745227 -> 745241)
+cloud 34 received 1 impulse with strength 8: +8 (energy 745241 -> 745249)
+cloud 37 received 2 impulses with strength 6: +12 (energy 830007 -> 830019)
+cloud 37 received 1 impulse with strength 7: +7 (energy 830019 -> 830026)
+cloud 38 received 4 impulses with strength 6: +24 (energy 976874 -> 976898)
+cloud 38 received 4 impulses with strength 7: +28 (energy 976898 -> 976926)
+cloud 41 received 1 impulse with strength 6: +6 (energy 985027 -> 985033)
+cloud 41 received 4 impulses with strength 7: +28 (energy 985033 -> 985061)
+cloud 41 received 1 impulse with strength 8: +8 (energy 985061 -> 985069)
+cloud 45 received 2 impulses with strength 7: +14 (energy 851588 -> 851602)
+cloud 45 received 1 impulse with strength 8: +8 (energy 851602 -> 851610)
+cloud 47 received 2 impulses with strength 6: +12 (energy 907149 -> 907161)
+cloud 47 received 2 impulses with strength 7: +14 (energy 907161 -> 907175)
+cloud 49 received 1 impulse with strength 6: +6 (energy 661296 -> 661302)
+cloud 49 received 4 impulses with strength 7: +28 (energy 661302 -> 661330)
+cloud 49 received 2 impulses with strength 8: +16 (energy 661330 -> 661346)
+cloud 52 received 3 impulses with strength 6: +18 (energy 770369 -> 770387)
+cloud 52 received 1 impulse with strength 7: +7 (energy 770387 -> 770394)
+cloud 54 received 4 impulses with strength 7: +28 (energy 997511 -> 997539)
+cloud 54 received 2 impulses with strength 8: +16 (energy 997539 -> 997555)
+cloud 55 received 1 impulse with strength 6: +6 (energy 977615 -> 977621)
+cloud 55 received 5 impulses with strength 7: +35 (energy 977621 -> 977656)
+cloud 55 received 1 impulse with strength 8: +8 (energy 977656 -> 977664)
+cloud 58 received 3 impulses with strength 6: +18 (energy 866879 -> 866897)
+cloud 58 received 1 impulse with strength 7: +7 (energy 866897 -> 866904)
+cloud 60 received 2 impulses with strength 6: +12 (energy 685108 -> 685120)
+cloud 60 received 4 impulses with strength 7: +28 (energy 685120 -> 685148)
+cloud 63 received 1 impulse with strength 6: +6 (energy 950313 -> 950319)
+cloud 63 received 2 impulses with strength 7: +14 (energy 950319 -> 950333)
+cloud 64 received 2 impulses with strength 8: +16 (energy 968433 -> 968449)
+cloud 66 received 1 impulse with strength 6: +6 (energy 389856 -> 389862)
+cloud 66 received 4 impulses with strength 7: +28 (energy 389862 -> 389890)
+cloud 68 received 5 impulses with strength 6: +30 (energy 670151 -> 670181)
+cloud 68 received 4 impulses with strength 7: +28 (energy 670181 -> 670209)
+cloud 68 received 1 impulse with strength 8: +8 (energy 670209 -> 670217)
+cloud 70 received 1 impulse with strength 7: +7 (energy 981699 -> 981706)
+cloud 70 received 1 impulse with strength 8: +8 (energy 981706 -> 981714)
+cloud 75 received 6 impulses with strength 7: +42 (energy 905946 -> 905988)
+cloud 75 received 2 impulses with strength 8: +16 (energy 905988 -> 906004)
+cloud 80 received 1 impulse with strength 7: +7 (energy 787688 -> 787695)
+cloud 80 received 1 impulse with strength 8: +8 (energy 787695 -> 787703)
+cloud 81 received 1 impulse with strength 6: +6 (energy 991980 -> 991986)
+cloud 81 received 1 impulse with strength 7: +7 (energy 991986 -> 991993)
+cloud 81 received 1 impulse with strength 8: +8 (energy 991993 -> 992001)
+cloud 82 received 4 impulses with strength 6: +24 (energy 933848 -> 933872)
+cloud 82 received 2 impulses with strength 7: +14 (energy 933872 -> 933886)
+cloud 85 received 2 impulses with strength 6: +12 (energy 637886 -> 637898)
+cloud 85 received 6 impulses with strength 7: +42 (energy 637898 -> 637940)
+cloud 85 received 1 impulse with strength 8: +8 (energy 637940 -> 637948)
+cloud 90 received 4 impulses with strength 6: +24 (energy 963011 -> 963035)
+cloud 90 received 5 impulses with strength 7: +35 (energy 963035 -> 963070)
+cloud 90 received 1 impulse with strength 8: +8 (energy 963070 -> 963078)
+cloud 91 received 1 impulse with strength 6: +6 (energy 596047 -> 596053)
+cloud 91 received 3 impulses with strength 7: +21 (energy 596053 -> 596074)
+cloud 95 received 4 impulses with strength 7: +28 (energy 761745 -> 761773)
+
+Stage 24:
+cloud 2 received 4 impulses with strength 5: +20 (energy 793605 -> 793625)
+cloud 2 received 5 impulses with strength 6: +30 (energy 793625 -> 793655)
+cloud 2 received 1 impulse with strength 7: +7 (energy 793655 -> 793662)
+cloud 3 received 1 impulse with strength 5: +5 (energy 539090 -> 539095)
+cloud 3 received 5 impulses with strength 6: +30 (energy 539095 -> 539125)
+cloud 3 received 1 impulse with strength 7: +7 (energy 539125 -> 539132)
+cloud 7 received 4 impulses with strength 5: +20 (energy 847260 -> 847280)
+cloud 7 received 6 impulses with strength 6: +36 (energy 847280 -> 847316)
+cloud 7 received 2 impulses with strength 7: +14 (energy 847316 -> 847330)
+cloud 11 received 1 impulse with strength 5: +5 (energy 820014 -> 820019)
+cloud 11 received 1 impulse with strength 6: +6 (energy 820019 -> 820025)
+cloud 11 received 1 impulse with strength 7: +7 (energy 820025 -> 820032)
+cloud 12 received 1 impulse with strength 5: +5 (energy 914396 -> 914401)
+cloud 12 received 1 impulse with strength 6: +6 (energy 914401 -> 914407)
+cloud 13 received 1 impulse with strength 5: +5 (energy 663386 -> 663391)
+cloud 13 received 1 impulse with strength 6: +6 (energy 663391 -> 663397)
+cloud 13 received 1 impulse with strength 7: +7 (energy 663397 -> 663404)
+cloud 14 received 1 impulse with strength 6: +6 (energy 880583 -> 880589)
+cloud 14 received 1 impulse with strength 7: +7 (energy 880589 -> 880596)
+cloud 19 received 3 impulses with strength 5: +15 (energy 709349 -> 709364)
+cloud 19 received 5 impulses with strength 6: +30 (energy 709364 -> 709394)
+cloud 22 received 1 impulse with strength 5: +5 (energy 805250 -> 805255)
+cloud 22 received 2 impulses with strength 6: +12 (energy 805255 -> 805267)
+cloud 22 received 2 impulses with strength 7: +14 (energy 805267 -> 805281)
+cloud 27 received 2 impulses with strength 5: +10 (energy 757473 -> 757483)
+cloud 27 received 5 impulses with strength 6: +30 (energy 757483 -> 757513)
+cloud 27 received 1 impulse with strength 7: +7 (energy 757513 -> 757520)
+cloud 31 received 4 impulses with strength 5: +20 (energy 736772 -> 736792)
+cloud 31 received 5 impulses with strength 6: +30 (energy 736792 -> 736822)
+cloud 31 received 1 impulse with strength 7: +7 (energy 736822 -> 736829)
+cloud 33 received 4 impulses with strength 6: +24 (energy 798481 -> 798505)
+cloud 34 received 4 impulses with strength 6: +24 (energy 745249 -> 745273)
+cloud 34 received 1 impulse with strength 7: +7 (energy 745273 -> 745280)
+cloud 37 received 1 impulse with strength 5: +5 (energy 830026 -> 830031)
+cloud 37 received 4 impulses with strength 6: +24 (energy 830031 -> 830055)
+cloud 37 received 1 impulse with strength 7: +7 (energy 830055 -> 830062)
+cloud 38 received 5 impulses with strength 5: +25 (energy 976926 -> 976951)
+cloud 38 received 10 impulses with strength 6: +60 (energy 976951 -> 977011)
+cloud 38 received 2 impulses with strength 7: +14 (energy 977011 -> 977025)
+cloud 41 received 3 impulses with strength 5: +15 (energy 985069 -> 985084)
+cloud 41 received 2 impulses with strength 6: +12 (energy 985084 -> 985096)
+cloud 41 received 1 impulse with strength 7: +7 (energy 985096 -> 985103)
+cloud 45 received 2 impulses with strength 5: +10 (energy 851610 -> 851620)
+cloud 45 received 7 impulses with strength 6: +42 (energy 851620 -> 851662)
+cloud 45 received 1 impulse with strength 7: +7 (energy 851662 -> 851669)
+cloud 47 received 1 impulse with strength 5: +5 (energy 907175 -> 907180)
+cloud 47 received 5 impulses with strength 6: +30 (energy 907180 -> 907210)
+cloud 47 received 1 impulse with strength 7: +7 (energy 907210 -> 907217)
+cloud 49 received 2 impulses with strength 5: +10 (energy 661346 -> 661356)
+cloud 49 received 5 impulses with strength 6: +30 (energy 661356 -> 661386)
+cloud 49 received 2 impulses with strength 7: +14 (energy 661386 -> 661400)
+cloud 52 received 1 impulse with strength 5: +5 (energy 770394 -> 770399)
+cloud 52 received 4 impulses with strength 6: +24 (energy 770399 -> 770423)
+cloud 52 received 4 impulses with strength 7: +28 (energy 770423 -> 770451)
+cloud 54 received 4 impulses with strength 5: +20 (energy 997555 -> 997575)
+cloud 54 received 15 impulses with strength 6: +90 (energy 997575 -> 997665)
+cloud 54 received 3 impulses with strength 7: +21 (energy 997665 -> 997686)
+cloud 55 received 2 impulses with strength 5: +10 (energy 977664 -> 977674)
+cloud 55 received 11 impulses with strength 6: +66 (energy 977674 -> 977740)
+cloud 55 received 2 impulses with strength 7: +14 (energy 977740 -> 977754)
+cloud 58 received 1 impulse with strength 5: +5 (energy 866904 -> 866909)
+cloud 58 received 9 impulses with strength 6: +54 (energy 866909 -> 866963)
+cloud 58 received 4 impulses with strength 7: +28 (energy 866963 -> 866991)
+cloud 60 received 2 impulses with strength 5: +10 (energy 685148 -> 685158)
+cloud 60 received 8 impulses with strength 6: +48 (energy 685158 -> 685206)
+cloud 60 received 1 impulse with strength 7: +7 (energy 685206 -> 685213)
+cloud 63 received 1 impulse with strength 5: +5 (energy 950333 -> 950338)
+cloud 63 received 5 impulses with strength 6: +30 (energy 950338 -> 950368)
+cloud 63 received 1 impulse with strength 7: +7 (energy 950368 -> 950375)
+cloud 64 received 6 impulses with strength 6: +36 (energy 968449 -> 968485)
+cloud 64 received 2 impulses with strength 7: +14 (energy 968485 -> 968499)
+cloud 66 received 5 impulses with strength 5: +25 (energy 389890 -> 389915)
+cloud 66 received 8 impulses with strength 6: +48 (energy 389915 -> 389963)
+cloud 66 received 2 impulses with strength 7: +14 (energy 389963 -> 389977)
+cloud 68 received 3 impulses with strength 5: +15 (energy 670217 -> 670232)
+cloud 68 received 6 impulses with strength 6: +36 (energy 670232 -> 670268)
+cloud 68 received 3 impulses with strength 7: +21 (energy 670268 -> 670289)
+cloud 70 received 2 impulses with strength 5: +10 (energy 981714 -> 981724)
+cloud 70 received 1 impulse with strength 6: +6 (energy 981724 -> 981730)
+cloud 75 received 6 impulses with strength 5: +30 (energy 906004 -> 906034)
+cloud 75 received 8 impulses with strength 6: +48 (energy 906034 -> 906082)
+cloud 80 received 2 impulses with strength 5: +10 (energy 787703 -> 787713)
+cloud 80 received 1 impulse with strength 6: +6 (energy 787713 -> 787719)
+cloud 81 received 1 impulse with strength 5: +5 (energy 992001 -> 992006)
+cloud 81 received 6 impulses with strength 6: +36 (energy 992006 -> 992042)
+cloud 81 received 1 impulse with strength 7: +7 (energy 992042 -> 992049)
+cloud 82 received 2 impulses with strength 5: +10 (energy 933886 -> 933896)
+cloud 82 received 5 impulses with strength 6: +30 (energy 933896 -> 933926)
+cloud 82 received 2 impulses with strength 7: +14 (energy 933926 -> 933940)
+cloud 85 received 7 impulses with strength 5: +35 (energy 637948 -> 637983)
+cloud 85 received 5 impulses with strength 6: +30 (energy 637983 -> 638013)
+cloud 85 received 1 impulse with strength 7: +7 (energy 638013 -> 638020)
+cloud 90 received 7 impulses with strength 5: +35 (energy 963078 -> 963113)
+cloud 90 received 6 impulses with strength 6: +36 (energy 963113 -> 963149)
+cloud 90 received 3 impulses with strength 7: +21 (energy 963149 -> 963170)
+cloud 91 received 1 impulse with strength 5: +5 (energy 596074 -> 596079)
+cloud 91 received 6 impulses with strength 6: +36 (energy 596079 -> 596115)
+cloud 91 received 2 impulses with strength 7: +14 (energy 596115 -> 596129)
+cloud 95 received 4 impulses with strength 5: +20 (energy 761773 -> 761793)
+cloud 95 received 9 impulses with strength 6: +54 (energy 761793 -> 761847)
+cloud 95 received 1 impulse with strength 7: +7 (energy 761847 -> 761854)
+
+Stage 25:
+cloud 2 received 5 impulses with strength 4: +20 (energy 793662 -> 793682)
+cloud 2 received 10 impulses with strength 5: +50 (energy 793682 -> 793732)
+cloud 2 received 2 impulses with strength 6: +12 (energy 793732 -> 793744)
+cloud 3 received 2 impulses with strength 4: +8 (energy 539132 -> 539140)
+cloud 3 received 11 impulses with strength 5: +55 (energy 539140 -> 539195)
+cloud 3 received 2 impulses with strength 6: +12 (energy 539195 -> 539207)
+cloud 7 received 8 impulses with strength 4: +32 (energy 847330 -> 847362)
+cloud 7 received 7 impulses with strength 5: +35 (energy 847362 -> 847397)
+cloud 7 received 3 impulses with strength 6: +18 (energy 847397 -> 847415)
+cloud 11 received 1 impulse with strength 4: +4 (energy 820032 -> 820036)
+cloud 11 received 6 impulses with strength 5: +30 (energy 820036 -> 820066)
+cloud 11 received 1 impulse with strength 6: +6 (energy 820066 -> 820072)
+cloud 12 received 5 impulses with strength 5: +25 (energy 914407 -> 914432)
+cloud 12 received 1 impulse with strength 6: +6 (energy 914432 -> 914438)
+cloud 13 received 1 impulse with strength 4: +4 (energy 663404 -> 663408)
+cloud 13 received 1 impulse with strength 5: +5 (energy 663408 -> 663413)
+cloud 13 received 1 impulse with strength 6: +6 (energy 663413 -> 663419)
+cloud 14 received 2 impulses with strength 4: +8 (energy 880596 -> 880604)
+cloud 14 received 1 impulse with strength 5: +5 (energy 880604 -> 880609)
+cloud 19 received 6 impulses with strength 4: +24 (energy 709394 -> 709418)
+cloud 19 received 9 impulses with strength 5: +45 (energy 709418 -> 709463)
+cloud 19 received 3 impulses with strength 6: +18 (energy 709463 -> 709481)
+cloud 22 received 2 impulses with strength 4: +8 (energy 805281 -> 805289)
+cloud 22 received 7 impulses with strength 5: +35 (energy 805289 -> 805324)
+cloud 22 received 1 impulse with strength 6: +6 (energy 805324 -> 805330)
+cloud 27 received 2 impulses with strength 4: +8 (energy 757520 -> 757528)
+cloud 27 received 8 impulses with strength 5: +40 (energy 757528 -> 757568)
+cloud 27 received 4 impulses with strength 6: +24 (energy 757568 -> 757592)
+cloud 31 received 4 impulses with strength 4: +16 (energy 736829 -> 736845)
+cloud 31 received 17 impulses with strength 5: +85 (energy 736845 -> 736930)
+cloud 31 received 4 impulses with strength 6: +24 (energy 736930 -> 736954)
+cloud 33 received 4 impulses with strength 4: +16 (energy 798505 -> 798521)
+cloud 33 received 6 impulses with strength 5: +30 (energy 798521 -> 798551)
+cloud 33 received 2 impulses with strength 6: +12 (energy 798551 -> 798563)
+cloud 34 received 3 impulses with strength 4: +12 (energy 745280 -> 745292)
+cloud 34 received 9 impulses with strength 5: +45 (energy 745292 -> 745337)
+cloud 37 received 3 impulses with strength 4: +12 (energy 830062 -> 830074)
+cloud 37 received 2 impulses with strength 5: +10 (energy 830074 -> 830084)
+cloud 37 received 1 impulse with strength 6: +6 (energy 830084 -> 830090)
+cloud 38 received 7 impulses with strength 4: +28 (energy 977025 -> 977053)
+cloud 38 received 20 impulses with strength 5: +100 (energy 977053 -> 977153)
+cloud 38 received 7 impulses with strength 6: +42 (energy 977153 -> 977195)
+cloud 41 received 3 impulses with strength 4: +12 (energy 985103 -> 985115)
+cloud 41 received 11 impulses with strength 5: +55 (energy 985115 -> 985170)
+cloud 41 received 2 impulses with strength 6: +12 (energy 985170 -> 985182)
+cloud 45 received 7 impulses with strength 4: +28 (energy 851669 -> 851697)
+cloud 45 received 9 impulses with strength 5: +45 (energy 851697 -> 851742)
+cloud 45 received 1 impulse with strength 6: +6 (energy 851742 -> 851748)
+cloud 47 received 5 impulses with strength 4: +20 (energy 907217 -> 907237)
+cloud 47 received 7 impulses with strength 5: +35 (energy 907237 -> 907272)
+cloud 47 received 3 impulses with strength 6: +18 (energy 907272 -> 907290)
+cloud 49 received 5 impulses with strength 4: +20 (energy 661400 -> 661420)
+cloud 49 received 16 impulses with strength 5: +80 (energy 661420 -> 661500)
+cloud 49 received 4 impulses with strength 6: +24 (energy 661500 -> 661524)
+cloud 52 received 2 impulses with strength 4: +8 (energy 770451 -> 770459)
+cloud 52 received 11 impulses with strength 5: +55 (energy 770459 -> 770514)
+cloud 52 received 4 impulses with strength 6: +24 (energy 770514 -> 770538)
+cloud 54 received 17 impulses with strength 4: +68 (energy 997686 -> 997754)
+cloud 54 received 20 impulses with strength 5: +100 (energy 997754 -> 997854)
+cloud 54 received 5 impulses with strength 6: +30 (energy 997854 -> 997884)
+cloud 55 received 10 impulses with strength 4: +40 (energy 977754 -> 977794)
+cloud 55 received 29 impulses with strength 5: +145 (energy 977794 -> 977939)
+cloud 55 received 7 impulses with strength 6: +42 (energy 977939 -> 977981)
+cloud 58 received 7 impulses with strength 4: +28 (energy 866991 -> 867019)
+cloud 58 received 17 impulses with strength 5: +85 (energy 867019 -> 867104)
+cloud 58 received 3 impulses with strength 6: +18 (energy 867104 -> 867122)
+cloud 60 received 9 impulses with strength 4: +36 (energy 685213 -> 685249)
+cloud 60 received 13 impulses with strength 5: +65 (energy 685249 -> 685314)
+cloud 60 received 3 impulses with strength 6: +18 (energy 685314 -> 685332)
+cloud 63 received 2 impulses with strength 4: +8 (energy 950375 -> 950383)
+cloud 63 received 11 impulses with strength 5: +55 (energy 950383 -> 950438)
+cloud 63 received 2 impulses with strength 6: +12 (energy 950438 -> 950450)
+cloud 64 received 6 impulses with strength 4: +24 (energy 968499 -> 968523)
+cloud 64 received 8 impulses with strength 5: +40 (energy 968523 -> 968563)
+cloud 66 received 10 impulses with strength 4: +40 (energy 389977 -> 390017)
+cloud 66 received 12 impulses with strength 5: +60 (energy 390017 -> 390077)
+cloud 66 received 4 impulses with strength 6: +24 (energy 390077 -> 390101)
+cloud 68 received 6 impulses with strength 4: +24 (energy 670289 -> 670313)
+cloud 68 received 12 impulses with strength 5: +60 (energy 670313 -> 670373)
+cloud 68 received 3 impulses with strength 6: +18 (energy 670373 -> 670391)
+cloud 70 received 1 impulse with strength 4: +4 (energy 981730 -> 981734)
+cloud 70 received 1 impulse with strength 5: +5 (energy 981734 -> 981739)
+cloud 70 received 1 impulse with strength 6: +6 (energy 981739 -> 981745)
+cloud 75 received 7 impulses with strength 4: +28 (energy 906082 -> 906110)
+cloud 75 received 19 impulses with strength 5: +95 (energy 906110 -> 906205)
+cloud 75 received 4 impulses with strength 6: +24 (energy 906205 -> 906229)
+cloud 80 received 1 impulse with strength 4: +4 (energy 787719 -> 787723)
+cloud 80 received 1 impulse with strength 5: +5 (energy 787723 -> 787728)
+cloud 80 received 1 impulse with strength 6: +6 (energy 787728 -> 787734)
+cloud 81 received 7 impulses with strength 4: +28 (energy 992049 -> 992077)
+cloud 81 received 10 impulses with strength 5: +50 (energy 992077 -> 992127)
+cloud 81 received 1 impulse with strength 6: +6 (energy 992127 -> 992133)
+cloud 82 received 4 impulses with strength 4: +16 (energy 933940 -> 933956)
+cloud 82 received 3 impulses with strength 5: +15 (energy 933956 -> 933971)
+cloud 82 received 2 impulses with strength 6: +12 (energy 933971 -> 933983)
+cloud 85 received 5 impulses with strength 4: +20 (energy 638020 -> 638040)
+cloud 85 received 11 impulses with strength 5: +55 (energy 638040 -> 638095)
+cloud 85 received 4 impulses with strength 6: +24 (energy 638095 -> 638119)
+cloud 90 received 5 impulses with strength 4: +20 (energy 963170 -> 963190)
+cloud 90 received 9 impulses with strength 5: +45 (energy 963190 -> 963235)
+cloud 90 received 5 impulses with strength 6: +30 (energy 963235 -> 963265)
+cloud 91 received 3 impulses with strength 4: +12 (energy 596129 -> 596141)
+cloud 91 received 12 impulses with strength 5: +60 (energy 596141 -> 596201)
+cloud 91 received 2 impulses with strength 6: +12 (energy 596201 -> 596213)
+cloud 95 received 11 impulses with strength 4: +44 (energy 761854 -> 761898)
+cloud 95 received 12 impulses with strength 5: +60 (energy 761898 -> 761958)
+cloud 95 received 5 impulses with strength 6: +30 (energy 761958 -> 761988)
+
+Stage 26:
+cloud 2 received 10 impulses with strength 3: +30 (energy 793744 -> 793774)
+cloud 2 received 12 impulses with strength 4: +48 (energy 793774 -> 793822)
+cloud 2 received 5 impulses with strength 5: +25 (energy 793822 -> 793847)
+cloud 3 received 10 impulses with strength 3: +30 (energy 539207 -> 539237)
+cloud 3 received 29 impulses with strength 4: +116 (energy 539237 -> 539353)
+cloud 3 received 7 impulses with strength 5: +35 (energy 539353 -> 539388)
+cloud 7 received 5 impulses with strength 3: +15 (energy 847415 -> 847430)
+cloud 7 received 14 impulses with strength 4: +56 (energy 847430 -> 847486)
+cloud 7 received 6 impulses with strength 5: +30 (energy 847486 -> 847516)
+cloud 11 received 7 impulses with strength 3: +21 (energy 820072 -> 820093)
+cloud 11 received 10 impulses with strength 4: +40 (energy 820093 -> 820133)
+cloud 11 received 1 impulse with strength 5: +5 (energy 820133 -> 820138)
+cloud 12 received 6 impulses with strength 3: +18 (energy 914438 -> 914456)
+cloud 12 received 7 impulses with strength 4: +28 (energy 914456 -> 914484)
+cloud 12 received 2 impulses with strength 5: +10 (energy 914484 -> 914494)
+cloud 13 received 1 impulse with strength 3: +3 (energy 663419 -> 663422)
+cloud 13 received 6 impulses with strength 4: +24 (energy 663422 -> 663446)
+cloud 13 received 1 impulse with strength 5: +5 (energy 663446 -> 663451)
+cloud 14 received 1 impulse with strength 3: +3 (energy 880609 -> 880612)
+cloud 14 received 1 impulse with strength 4: +4 (energy 880612 -> 880616)
+cloud 14 received 1 impulse with strength 5: +5 (energy 880616 -> 880621)
+cloud 19 received 11 impulses with strength 3: +33 (energy 709481 -> 709514)
+cloud 19 received 13 impulses with strength 4: +52 (energy 709514 -> 709566)
+cloud 19 received 5 impulses with strength 5: +25 (energy 709566 -> 709591)
+cloud 22 received 7 impulses with strength 3: +21 (energy 805330 -> 805351)
+cloud 22 received 15 impulses with strength 4: +60 (energy 805351 -> 805411)
+cloud 22 received 2 impulses with strength 5: +10 (energy 805411 -> 805421)
+cloud 27 received 5 impulses with strength 3: +15 (energy 757592 -> 757607)
+cloud 27 received 19 impulses with strength 4: +76 (energy 757607 -> 757683)
+cloud 27 received 3 impulses with strength 5: +15 (energy 757683 -> 757698)
+cloud 31 received 12 impulses with strength 3: +36 (energy 736954 -> 736990)
+cloud 31 received 30 impulses with strength 4: +120 (energy 736990 -> 737110)
+cloud 31 received 7 impulses with strength 5: +35 (energy 737110 -> 737145)
+cloud 33 received 8 impulses with strength 3: +24 (energy 798563 -> 798587)
+cloud 33 received 7 impulses with strength 4: +28 (energy 798587 -> 798615)
+cloud 33 received 3 impulses with strength 5: +15 (energy 798615 -> 798630)
+cloud 34 received 10 impulses with strength 3: +30 (energy 745337 -> 745367)
+cloud 34 received 15 impulses with strength 4: +60 (energy 745367 -> 745427)
+cloud 34 received 5 impulses with strength 5: +25 (energy 745427 -> 745452)
+cloud 37 received 3 impulses with strength 3: +9 (energy 830090 -> 830099)
+cloud 37 received 11 impulses with strength 4: +44 (energy 830099 -> 830143)
+cloud 37 received 2 impulses with strength 5: +10 (energy 830143 -> 830153)
+cloud 38 received 16 impulses with strength 3: +48 (energy 977195 -> 977243)
+cloud 38 received 57 impulses with strength 4: +228 (energy 977243 -> 977471)
+cloud 38 received 15 impulses with strength 5: +75 (energy 977471 -> 977546)
+cloud 41 received 9 impulses with strength 3: +27 (energy 985182 -> 985209)
+cloud 41 received 18 impulses with strength 4: +72 (energy 985209 -> 985281)
+cloud 41 received 5 impulses with strength 5: +25 (energy 985281 -> 985306)
+cloud 45 received 9 impulses with strength 3: +27 (energy 851748 -> 851775)
+cloud 45 received 17 impulses with strength 4: +68 (energy 851775 -> 851843)
+cloud 45 received 6 impulses with strength 5: +30 (energy 851843 -> 851873)
+cloud 47 received 9 impulses with strength 3: +27 (energy 907290 -> 907317)
+cloud 47 received 13 impulses with strength 4: +52 (energy 907317 -> 907369)
+cloud 47 received 4 impulses with strength 5: +20 (energy 907369 -> 907389)
+cloud 49 received 18 impulses with strength 3: +54 (energy 661524 -> 661578)
+cloud 49 received 21 impulses with strength 4: +84 (energy 661578 -> 661662)
+cloud 49 received 6 impulses with strength 5: +30 (energy 661662 -> 661692)
+cloud 52 received 11 impulses with strength 3: +33 (energy 770538 -> 770571)
+cloud 52 received 24 impulses with strength 4: +96 (energy 770571 -> 770667)
+cloud 52 received 4 impulses with strength 5: +20 (energy 770667 -> 770687)
+cloud 54 received 20 impulses with strength 3: +60 (energy 997884 -> 997944)
+cloud 54 received 35 impulses with strength 4: +140 (energy 997944 -> 998084)
+cloud 54 received 12 impulses with strength 5: +60 (energy 998084 -> 998144)
+cloud 55 received 30 impulses with strength 3: +90 (energy 977981 -> 978071)
+cloud 55 received 44 impulses with strength 4: +176 (energy 978071 -> 978247)
+cloud 55 received 11 impulses with strength 5: +55 (energy 978247 -> 978302)
+cloud 58 received 18 impulses with strength 3: +54 (energy 867122 -> 867176)
+cloud 58 received 34 impulses with strength 4: +136 (energy 867176 -> 867312)
+cloud 58 received 8 impulses with strength 5: +40 (energy 867312 -> 867352)
+cloud 60 received 14 impulses with strength 3: +42 (energy 685332 -> 685374)
+cloud 60 received 29 impulses with strength 4: +116 (energy 685374 -> 685490)
+cloud 60 received 8 impulses with strength 5: +40 (energy 685490 -> 685530)
+cloud 63 received 10 impulses with strength 3: +30 (energy 950450 -> 950480)
+cloud 63 received 29 impulses with strength 4: +116 (energy 950480 -> 950596)
+cloud 63 received 7 impulses with strength 5: +35 (energy 950596 -> 950631)
+cloud 64 received 7 impulses with strength 3: +21 (energy 968563 -> 968584)
+cloud 64 received 19 impulses with strength 4: +76 (energy 968584 -> 968660)
+cloud 64 received 4 impulses with strength 5: +20 (energy 968660 -> 968680)
+cloud 66 received 13 impulses with strength 3: +39 (energy 390101 -> 390140)
+cloud 66 received 19 impulses with strength 4: +76 (energy 390140 -> 390216)
+cloud 66 received 8 impulses with strength 5: +40 (energy 390216 -> 390256)
+cloud 68 received 12 impulses with strength 3: +36 (energy 670391 -> 670427)
+cloud 68 received 33 impulses with strength 4: +132 (energy 670427 -> 670559)
+cloud 68 received 6 impulses with strength 5: +30 (energy 670559 -> 670589)
+cloud 70 received 1 impulse with strength 3: +3 (energy 981745 -> 981748)
+cloud 70 received 1 impulse with strength 4: +4 (energy 981748 -> 981752)
+cloud 70 received 1 impulse with strength 5: +5 (energy 981752 -> 981757)
+cloud 75 received 20 impulses with strength 3: +60 (energy 906229 -> 906289)
+cloud 75 received 22 impulses with strength 4: +88 (energy 906289 -> 906377)
+cloud 75 received 10 impulses with strength 5: +50 (energy 906377 -> 906427)
+cloud 80 received 1 impulse with strength 3: +3 (energy 787734 -> 787737)
+cloud 80 received 1 impulse with strength 4: +4 (energy 787737 -> 787741)
+cloud 80 received 1 impulse with strength 5: +5 (energy 787741 -> 787746)
+cloud 81 received 11 impulses with strength 3: +33 (energy 992133 -> 992166)
+cloud 81 received 19 impulses with strength 4: +76 (energy 992166 -> 992242)
+cloud 81 received 5 impulses with strength 5: +25 (energy 992242 -> 992267)
+cloud 82 received 4 impulses with strength 3: +12 (energy 933983 -> 933995)
+cloud 82 received 17 impulses with strength 4: +68 (energy 933995 -> 934063)
+cloud 82 received 3 impulses with strength 5: +15 (energy 934063 -> 934078)
+cloud 85 received 8 impulses with strength 3: +24 (energy 638119 -> 638143)
+cloud 85 received 20 impulses with strength 4: +80 (energy 638143 -> 638223)
+cloud 85 received 7 impulses with strength 5: +35 (energy 638223 -> 638258)
+cloud 90 received 9 impulses with strength 3: +27 (energy 963265 -> 963292)
+cloud 90 received 24 impulses with strength 4: +96 (energy 963292 -> 963388)
+cloud 90 received 5 impulses with strength 5: +25 (energy 963388 -> 963413)
+cloud 91 received 10 impulses with strength 3: +30 (energy 596213 -> 596243)
+cloud 91 received 34 impulses with strength 4: +136 (energy 596243 -> 596379)
+cloud 91 received 8 impulses with strength 5: +40 (energy 596379 -> 596419)
+cloud 95 received 13 impulses with strength 3: +39 (energy 761988 -> 762027)
+cloud 95 received 16 impulses with strength 4: +64 (energy 762027 -> 762091)
+cloud 95 received 8 impulses with strength 5: +40 (energy 762091 -> 762131)
+
+Stage 27:
+cloud 2 received 15 impulses with strength 2: +30 (energy 793847 -> 793877)
+cloud 2 received 30 impulses with strength 3: +90 (energy 793877 -> 793967)
+cloud 2 received 8 impulses with strength 4: +32 (energy 793967 -> 793999)
+cloud 3 received 30 impulses with strength 2: +60 (energy 539388 -> 539448)
+cloud 3 received 44 impulses with strength 3: +132 (energy 539448 -> 539580)
+cloud 3 received 11 impulses with strength 4: +44 (energy 539580 -> 539624)
+cloud 7 received 15 impulses with strength 2: +30 (energy 847516 -> 847546)
+cloud 7 received 31 impulses with strength 3: +93 (energy 847546 -> 847639)
+cloud 7 received 7 impulses with strength 4: +28 (energy 847639 -> 847667)
+cloud 11 received 11 impulses with strength 2: +22 (energy 820138 -> 820160)
+cloud 11 received 19 impulses with strength 3: +57 (energy 820160 -> 820217)
+cloud 11 received 5 impulses with strength 4: +20 (energy 820217 -> 820237)
+cloud 12 received 9 impulses with strength 2: +18 (energy 914494 -> 914512)
+cloud 12 received 8 impulses with strength 3: +24 (energy 914512 -> 914536)
+cloud 12 received 4 impulses with strength 4: +16 (energy 914536 -> 914552)
+cloud 13 received 7 impulses with strength 2: +14 (energy 663451 -> 663465)
+cloud 13 received 10 impulses with strength 3: +30 (energy 663465 -> 663495)
+cloud 13 received 1 impulse with strength 4: +4 (energy 663495 -> 663499)
+cloud 14 received 1 impulse with strength 2: +2 (energy 880621 -> 880623)
+cloud 14 received 1 impulse with strength 3: +3 (energy 880623 -> 880626)
+cloud 14 received 1 impulse with strength 4: +4 (energy 880626 -> 880630)
+cloud 19 received 14 impulses with strength 2: +28 (energy 709591 -> 709619)
+cloud 19 received 25 impulses with strength 3: +75 (energy 709619 -> 709694)
+cloud 19 received 9 impulses with strength 4: +36 (energy 709694 -> 709730)
+cloud 22 received 17 impulses with strength 2: +34 (energy 805421 -> 805455)
+cloud 22 received 26 impulses with strength 3: +78 (energy 805455 -> 805533)
+cloud 22 received 7 impulses with strength 4: +28 (energy 805533 -> 805561)
+cloud 27 received 17 impulses with strength 2: +34 (energy 757698 -> 757732)
+cloud 27 received 49 impulses with strength 3: +147 (energy 757732 -> 757879)
+cloud 27 received 10 impulses with strength 4: +40 (energy 757879 -> 757919)
+cloud 31 received 26 impulses with strength 2: +52 (energy 737145 -> 737197)
+cloud 31 received 72 impulses with strength 3: +216 (energy 737197 -> 737413)
+cloud 31 received 16 impulses with strength 4: +64 (energy 737413 -> 737477)
+cloud 33 received 5 impulses with strength 2: +10 (energy 798630 -> 798640)
+cloud 33 received 14 impulses with strength 3: +42 (energy 798640 -> 798682)
+cloud 33 received 6 impulses with strength 4: +24 (energy 798682 -> 798706)
+cloud 34 received 19 impulses with strength 2: +38 (energy 745452 -> 745490)
+cloud 34 received 20 impulses with strength 3: +60 (energy 745490 -> 745550)
+cloud 34 received 8 impulses with strength 4: +32 (energy 745550 -> 745582)
+cloud 37 received 9 impulses with strength 2: +18 (energy 830153 -> 830171)
+cloud 37 received 18 impulses with strength 3: +54 (energy 830171 -> 830225)
+cloud 37 received 5 impulses with strength 4: +20 (energy 830225 -> 830245)
+cloud 38 received 53 impulses with strength 2: +106 (energy 977546 -> 977652)
+cloud 38 received 98 impulses with strength 3: +294 (energy 977652 -> 977946)
+cloud 38 received 22 impulses with strength 4: +88 (energy 977946 -> 978034)
+cloud 41 received 16 impulses with strength 2: +32 (energy 985306 -> 985338)
+cloud 41 received 38 impulses with strength 3: +114 (energy 985338 -> 985452)
+cloud 41 received 8 impulses with strength 4: +32 (energy 985452 -> 985484)
+cloud 45 received 16 impulses with strength 2: +32 (energy 851873 -> 851905)
+cloud 45 received 27 impulses with strength 3: +81 (energy 851905 -> 851986)
+cloud 45 received 10 impulses with strength 4: +40 (energy 851986 -> 852026)
+cloud 47 received 12 impulses with strength 2: +24 (energy 907389 -> 907413)
+cloud 47 received 24 impulses with strength 3: +72 (energy 907413 -> 907485)
+cloud 47 received 7 impulses with strength 4: +28 (energy 907485 -> 907513)
+cloud 49 received 21 impulses with strength 2: +42 (energy 661692 -> 661734)
+cloud 49 received 41 impulses with strength 3: +123 (energy 661734 -> 661857)
+cloud 49 received 13 impulses with strength 4: +52 (energy 661857 -> 661909)
+cloud 52 received 25 impulses with strength 2: +50 (energy 770687 -> 770737)
+cloud 52 received 40 impulses with strength 3: +120 (energy 770737 -> 770857)
+cloud 52 received 10 impulses with strength 4: +40 (energy 770857 -> 770897)
+cloud 54 received 34 impulses with strength 2: +68 (energy 998144 -> 998212)
+cloud 54 received 60 impulses with strength 3: +180 (energy 998212 -> 998392)
+cloud 54 received 21 impulses with strength 4: +84 (energy 998392 -> 998476)
+cloud 55 received 43 impulses with strength 2: +86 (energy 978302 -> 978388)
+cloud 55 received 88 impulses with strength 3: +264 (energy 978388 -> 978652)
+cloud 55 received 28 impulses with strength 4: +112 (energy 978652 -> 978764)
+cloud 58 received 38 impulses with strength 2: +76 (energy 867352 -> 867428)
+cloud 58 received 51 impulses with strength 3: +153 (energy 867428 -> 867581)
+cloud 58 received 17 impulses with strength 4: +68 (energy 867581 -> 867649)
+cloud 60 received 25 impulses with strength 2: +50 (energy 685530 -> 685580)
+cloud 60 received 49 impulses with strength 3: +147 (energy 685580 -> 685727)
+cloud 60 received 15 impulses with strength 4: +60 (energy 685727 -> 685787)
+cloud 63 received 30 impulses with strength 2: +60 (energy 950631 -> 950691)
+cloud 63 received 44 impulses with strength 3: +132 (energy 950691 -> 950823)
+cloud 63 received 11 impulses with strength 4: +44 (energy 950823 -> 950867)
+cloud 64 received 20 impulses with strength 2: +40 (energy 968680 -> 968720)
+cloud 64 received 22 impulses with strength 3: +66 (energy 968720 -> 968786)
+cloud 64 received 10 impulses with strength 4: +40 (energy 968786 -> 968826)
+cloud 66 received 21 impulses with strength 2: +42 (energy 390256 -> 390298)
+cloud 66 received 38 impulses with strength 3: +114 (energy 390298 -> 390412)
+cloud 66 received 11 impulses with strength 4: +44 (energy 390412 -> 390456)
+cloud 68 received 30 impulses with strength 2: +60 (energy 670589 -> 670649)
+cloud 68 received 59 impulses with strength 3: +177 (energy 670649 -> 670826)
+cloud 68 received 13 impulses with strength 4: +52 (energy 670826 -> 670878)
+cloud 70 received 1 impulse with strength 2: +2 (energy 981757 -> 981759)
+cloud 70 received 6 impulses with strength 3: +18 (energy 981759 -> 981777)
+cloud 70 received 1 impulse with strength 4: +4 (energy 981777 -> 981781)
+cloud 75 received 26 impulses with strength 2: +52 (energy 906427 -> 906479)
+cloud 75 received 46 impulses with strength 3: +138 (energy 906479 -> 906617)
+cloud 75 received 15 impulses with strength 4: +60 (energy 906617 -> 906677)
+cloud 80 received 1 impulse with strength 2: +2 (energy 787746 -> 787748)
+cloud 80 received 6 impulses with strength 3: +18 (energy 787748 -> 787766)
+cloud 80 received 1 impulse with strength 4: +4 (energy 787766 -> 787770)
+cloud 81 received 21 impulses with strength 2: +42 (energy 992267 -> 992309)
+cloud 81 received 25 impulses with strength 3: +75 (energy 992309 -> 992384)
+cloud 81 received 10 impulses with strength 4: +40 (energy 992384 -> 992424)
+cloud 82 received 16 impulses with strength 2: +32 (energy 934078 -> 934110)
+cloud 82 received 28 impulses with strength 3: +84 (energy 934110 -> 934194)
+cloud 82 received 6 impulses with strength 4: +24 (energy 934194 -> 934218)
+cloud 85 received 17 impulses with strength 2: +34 (energy 638258 -> 638292)
+cloud 85 received 52 impulses with strength 3: +156 (energy 638292 -> 638448)
+cloud 85 received 9 impulses with strength 4: +36 (energy 638448 -> 638484)
+cloud 90 received 26 impulses with strength 2: +52 (energy 963413 -> 963465)
+cloud 90 received 51 impulses with strength 3: +153 (energy 963465 -> 963618)
+cloud 90 received 10 impulses with strength 4: +40 (energy 963618 -> 963658)
+cloud 91 received 36 impulses with strength 2: +72 (energy 596419 -> 596491)
+cloud 91 received 51 impulses with strength 3: +153 (energy 596491 -> 596644)
+cloud 91 received 13 impulses with strength 4: +52 (energy 596644 -> 596696)
+cloud 95 received 14 impulses with strength 2: +28 (energy 762131 -> 762159)
+cloud 95 received 38 impulses with strength 3: +114 (energy 762159 -> 762273)
+cloud 95 received 11 impulses with strength 4: +44 (energy 762273 -> 762317)
+
+Stage 28:
+cloud 2 received 30 impulses with strength 1: +30 (energy 793999 -> 794029)
+cloud 2 received 53 impulses with strength 2: +106 (energy 794029 -> 794135)
+cloud 2 received 15 impulses with strength 3: +45 (energy 794135 -> 794180)
+cloud 3 received 43 impulses with strength 1: +43 (energy 539624 -> 539667)
+cloud 3 received 88 impulses with strength 2: +176 (energy 539667 -> 539843)
+cloud 3 received 28 impulses with strength 3: +84 (energy 539843 -> 539927)
+cloud 7 received 35 impulses with strength 1: +35 (energy 847667 -> 847702)
+cloud 7 received 59 impulses with strength 2: +118 (energy 847702 -> 847820)
+cloud 7 received 14 impulses with strength 3: +42 (energy 847820 -> 847862)
+cloud 11 received 21 impulses with strength 1: +21 (energy 820237 -> 820258)
+cloud 11 received 25 impulses with strength 2: +50 (energy 820258 -> 820308)
+cloud 11 received 10 impulses with strength 3: +30 (energy 820308 -> 820338)
+cloud 12 received 6 impulses with strength 1: +6 (energy 914552 -> 914558)
+cloud 12 received 15 impulses with strength 2: +30 (energy 914558 -> 914588)
+cloud 12 received 7 impulses with strength 3: +21 (energy 914588 -> 914609)
+cloud 13 received 11 impulses with strength 1: +11 (energy 663499 -> 663510)
+cloud 13 received 19 impulses with strength 2: +38 (energy 663510 -> 663548)
+cloud 13 received 5 impulses with strength 3: +15 (energy 663548 -> 663563)
+cloud 14 received 1 impulse with strength 1: +1 (energy 880630 -> 880631)
+cloud 14 received 6 impulses with strength 2: +12 (energy 880631 -> 880643)
+cloud 14 received 1 impulse with strength 3: +3 (energy 880643 -> 880646)
+cloud 19 received 28 impulses with strength 1: +28 (energy 709730 -> 709758)
+cloud 19 received 48 impulses with strength 2: +96 (energy 709758 -> 709854)
+cloud 19 received 12 impulses with strength 3: +36 (energy 709854 -> 709890)
+cloud 22 received 30 impulses with strength 1: +30 (energy 805561 -> 805591)
+cloud 22 received 33 impulses with strength 2: +66 (energy 805591 -> 805657)
+cloud 22 received 14 impulses with strength 3: +42 (energy 805657 -> 805699)
+cloud 27 received 53 impulses with strength 1: +53 (energy 757919 -> 757972)
+cloud 27 received 77 impulses with strength 2: +154 (energy 757972 -> 758126)
+cloud 27 received 20 impulses with strength 3: +60 (energy 758126 -> 758186)
+cloud 31 received 74 impulses with strength 1: +74 (energy 737477 -> 737551)
+cloud 31 received 125 impulses with strength 2: +250 (energy 737551 -> 737801)
+cloud 31 received 33 impulses with strength 3: +99 (energy 737801 -> 737900)
+cloud 33 received 15 impulses with strength 1: +15 (energy 798706 -> 798721)
+cloud 33 received 31 impulses with strength 2: +62 (energy 798721 -> 798783)
+cloud 33 received 7 impulses with strength 3: +21 (energy 798783 -> 798804)
+cloud 34 received 19 impulses with strength 1: +19 (energy 745582 -> 745601)
+cloud 34 received 39 impulses with strength 2: +78 (energy 745601 -> 745679)
+cloud 34 received 15 impulses with strength 3: +45 (energy 745679 -> 745724)
+cloud 37 received 16 impulses with strength 1: +16 (energy 830245 -> 830261)
+cloud 37 received 38 impulses with strength 2: +76 (energy 830261 -> 830337)
+cloud 37 received 8 impulses with strength 3: +24 (energy 830337 -> 830361)
+cloud 38 received 94 impulses with strength 1: +94 (energy 978034 -> 978128)
+cloud 38 received 200 impulses with strength 2: +400 (energy 978128 -> 978528)
+cloud 38 received 54 impulses with strength 3: +162 (energy 978528 -> 978690)
+cloud 41 received 38 impulses with strength 1: +38 (energy 985484 -> 985522)
+cloud 41 received 74 impulses with strength 2: +148 (energy 985522 -> 985670)
+cloud 41 received 20 impulses with strength 3: +60 (energy 985670 -> 985730)
+cloud 45 received 22 impulses with strength 1: +22 (energy 852026 -> 852048)
+cloud 45 received 66 impulses with strength 2: +132 (energy 852048 -> 852180)
+cloud 45 received 15 impulses with strength 3: +45 (energy 852180 -> 852225)
+cloud 47 received 26 impulses with strength 1: +26 (energy 907513 -> 907539)
+cloud 47 received 50 impulses with strength 2: +100 (energy 907539 -> 907639)
+cloud 47 received 12 impulses with strength 3: +36 (energy 907639 -> 907675)
+cloud 49 received 41 impulses with strength 1: +41 (energy 661909 -> 661950)
+cloud 49 received 70 impulses with strength 2: +140 (energy 661950 -> 662090)
+cloud 49 received 22 impulses with strength 3: +66 (energy 662090 -> 662156)
+cloud 52 received 41 impulses with strength 1: +41 (energy 770897 -> 770938)
+cloud 52 received 63 impulses with strength 2: +126 (energy 770938 -> 771064)
+cloud 52 received 23 impulses with strength 3: +69 (energy 771064 -> 771133)
+cloud 54 received 67 impulses with strength 1: +67 (energy 998476 -> 998543)
+cloud 54 received 128 impulses with strength 2: +256 (energy 998543 -> 998799)
+cloud 54 received 32 impulses with strength 3: +96 (energy 998799 -> 998895)
+cloud 55 received 91 impulses with strength 1: +91 (energy 978764 -> 978855)
+cloud 55 received 149 impulses with strength 2: +298 (energy 978855 -> 979153)
+cloud 55 received 45 impulses with strength 3: +135 (energy 979153 -> 979288)
+cloud 58 received 51 impulses with strength 1: +51 (energy 867649 -> 867700)
+cloud 58 received 93 impulses with strength 2: +186 (energy 867700 -> 867886)
+cloud 58 received 32 impulses with strength 3: +96 (energy 867886 -> 867982)
+cloud 60 received 47 impulses with strength 1: +47 (energy 685787 -> 685834)
+cloud 60 received 110 impulses with strength 2: +220 (energy 685834 -> 686054)
+cloud 60 received 27 impulses with strength 3: +81 (energy 686054 -> 686135)
+cloud 63 received 43 impulses with strength 1: +43 (energy 950867 -> 950910)
+cloud 63 received 88 impulses with strength 2: +176 (energy 950910 -> 951086)
+cloud 63 received 28 impulses with strength 3: +84 (energy 951086 -> 951170)
+cloud 64 received 26 impulses with strength 1: +26 (energy 968826 -> 968852)
+cloud 64 received 46 impulses with strength 2: +92 (energy 968852 -> 968944)
+cloud 64 received 15 impulses with strength 3: +45 (energy 968944 -> 968989)
+cloud 66 received 41 impulses with strength 1: +41 (energy 390456 -> 390497)
+cloud 66 received 77 impulses with strength 2: +154 (energy 390497 -> 390651)
+cloud 66 received 20 impulses with strength 3: +60 (energy 390651 -> 390711)
+cloud 68 received 58 impulses with strength 1: +58 (energy 670878 -> 670936)
+cloud 68 received 116 impulses with strength 2: +232 (energy 670936 -> 671168)
+cloud 68 received 31 impulses with strength 3: +93 (energy 671168 -> 671261)
+cloud 70 received 7 impulses with strength 1: +7 (energy 981781 -> 981788)
+cloud 70 received 10 impulses with strength 2: +20 (energy 981788 -> 981808)
+cloud 70 received 1 impulse with strength 3: +3 (energy 981808 -> 981811)
+cloud 75 received 42 impulses with strength 1: +42 (energy 906677 -> 906719)
+cloud 75 received 90 impulses with strength 2: +180 (energy 906719 -> 906899)
+cloud 75 received 24 impulses with strength 3: +72 (energy 906899 -> 906971)
+cloud 80 received 7 impulses with strength 1: +7 (energy 787770 -> 787777)
+cloud 80 received 10 impulses with strength 2: +20 (energy 787777 -> 787797)
+cloud 80 received 1 impulse with strength 3: +3 (energy 787797 -> 787800)
+cloud 81 received 29 impulses with strength 1: +29 (energy 992424 -> 992453)
+cloud 81 received 55 impulses with strength 2: +110 (energy 992453 -> 992563)
+cloud 81 received 17 impulses with strength 3: +51 (energy 992563 -> 992614)
+cloud 82 received 27 impulses with strength 1: +27 (energy 934218 -> 934245)
+cloud 82 received 57 impulses with strength 2: +114 (energy 934245 -> 934359)
+cloud 82 received 13 impulses with strength 3: +39 (energy 934359 -> 934398)
+cloud 85 received 47 impulses with strength 1: +47 (energy 638484 -> 638531)
+cloud 85 received 108 impulses with strength 2: +216 (energy 638531 -> 638747)
+cloud 85 received 23 impulses with strength 3: +69 (energy 638747 -> 638816)
+cloud 90 received 51 impulses with strength 1: +51 (energy 963658 -> 963709)
+cloud 90 received 87 impulses with strength 2: +174 (energy 963709 -> 963883)
+cloud 90 received 23 impulses with strength 3: +69 (energy 963883 -> 963952)
+cloud 91 received 52 impulses with strength 1: +52 (energy 596696 -> 596748)
+cloud 91 received 96 impulses with strength 2: +192 (energy 596748 -> 596940)
+cloud 91 received 32 impulses with strength 3: +96 (energy 596940 -> 597036)
+cloud 95 received 41 impulses with strength 1: +41 (energy 762317 -> 762358)
+cloud 95 received 82 impulses with strength 2: +164 (energy 762358 -> 762522)
+cloud 95 received 17 impulses with strength 3: +51 (energy 762522 -> 762573)
+
+Stage 29:
+cloud 2 received 105 impulses with strength 1: +105 (energy 794180 -> 794285)
+cloud 2 received 25 impulses with strength 2: +50 (energy 794285 -> 794335)
+cloud 3 received 149 impulses with strength 1: +149 (energy 539927 -> 540076)
+cloud 3 received 45 impulses with strength 2: +90 (energy 540076 -> 540166)
+cloud 7 received 102 impulses with strength 1: +102 (energy 847862 -> 847964)
+cloud 7 received 30 impulses with strength 2: +60 (energy 847964 -> 848024)
+cloud 11 received 55 impulses with strength 1: +55 (energy 820338 -> 820393)
+cloud 11 received 17 impulses with strength 2: +34 (energy 820393 -> 820427)
+cloud 12 received 37 impulses with strength 1: +37 (energy 914609 -> 914646)
+cloud 12 received 8 impulses with strength 2: +16 (energy 914646 -> 914662)
+cloud 13 received 25 impulses with strength 1: +25 (energy 663563 -> 663588)
+cloud 13 received 10 impulses with strength 2: +20 (energy 663588 -> 663608)
+cloud 14 received 10 impulses with strength 1: +10 (energy 880646 -> 880656)
+cloud 14 received 1 impulse with strength 2: +2 (energy 880656 -> 880658)
+cloud 19 received 96 impulses with strength 1: +96 (energy 709890 -> 709986)
+cloud 19 received 25 impulses with strength 2: +50 (energy 709986 -> 710036)
+cloud 22 received 70 impulses with strength 1: +70 (energy 805699 -> 805769)
+cloud 22 received 24 impulses with strength 2: +48 (energy 805769 -> 805817)
+cloud 27 received 129 impulses with strength 1: +129 (energy 758186 -> 758315)
+cloud 27 received 46 impulses with strength 2: +92 (energy 758315 -> 758407)
+cloud 31 received 228 impulses with strength 1: +228 (energy 737900 -> 738128)
+cloud 31 received 69 impulses with strength 2: +138 (energy 738128 -> 738266)
+cloud 33 received 59 impulses with strength 1: +59 (energy 798804 -> 798863)
+cloud 33 received 14 impulses with strength 2: +28 (energy 798863 -> 798891)
+cloud 34 received 79 impulses with strength 1: +79 (energy 745724 -> 745803)
+cloud 34 received 19 impulses with strength 2: +38 (energy 745803 -> 745841)
+cloud 37 received 74 impulses with strength 1: +74 (energy 830361 -> 830435)
+cloud 37 received 20 impulses with strength 2: +40 (energy 830435 -> 830475)
+cloud 38 received 337 impulses with strength 1: +337 (energy 978690 -> 979027)
+cloud 38 received 101 impulses with strength 2: +202 (energy 979027 -> 979229)
+cloud 41 received 132 impulses with strength 1: +132 (energy 985730 -> 985862)
+cloud 41 received 37 impulses with strength 2: +74 (energy 985862 -> 985936)
+cloud 45 received 139 impulses with strength 1: +139 (energy 852225 -> 852364)
+cloud 45 received 30 impulses with strength 2: +60 (energy 852364 -> 852424)
+cloud 47 received 84 impulses with strength 1: +84 (energy 907675 -> 907759)
+cloud 47 received 24 impulses with strength 2: +48 (energy 907759 -> 907807)
+cloud 49 received 147 impulses with strength 1: +147 (energy 662156 -> 662303)
+cloud 49 received 37 impulses with strength 2: +74 (energy 662303 -> 662377)
+cloud 52 received 116 impulses with strength 1: +116 (energy 771133 -> 771249)
+cloud 52 received 37 impulses with strength 2: +74 (energy 771249 -> 771323)
+cloud 54 received 236 impulses with strength 1: +236 (energy 998895 -> 999131)
+cloud 54 received 61 impulses with strength 2: +122 (energy 999131 -> 999253)
+cloud 55 received 301 impulses with strength 1: +301 (energy 979288 -> 979589)
+cloud 55 received 84 impulses with strength 2: +168 (energy 979589 -> 979757)
+cloud 58 received 184 impulses with strength 1: +184 (energy 867982 -> 868166)
+cloud 58 received 49 impulses with strength 2: +98 (energy 868166 -> 868264)
+cloud 60 received 202 impulses with strength 1: +202 (energy 686135 -> 686337)
+cloud 60 received 53 impulses with strength 2: +106 (energy 686337 -> 686443)
+cloud 63 received 149 impulses with strength 1: +149 (energy 951170 -> 951319)
+cloud 63 received 45 impulses with strength 2: +90 (energy 951319 -> 951409)
+cloud 64 received 90 impulses with strength 1: +90 (energy 968989 -> 969079)
+cloud 64 received 24 impulses with strength 2: +48 (energy 969079 -> 969127)
+cloud 66 received 141 impulses with strength 1: +141 (energy 390711 -> 390852)
+cloud 66 received 36 impulses with strength 2: +72 (energy 390852 -> 390924)
+cloud 68 received 205 impulses with strength 1: +205 (energy 671261 -> 671466)
+cloud 68 received 60 impulses with strength 2: +120 (energy 671466 -> 671586)
+cloud 70 received 19 impulses with strength 1: +19 (energy 981811 -> 981830)
+cloud 70 received 5 impulses with strength 2: +10 (energy 981830 -> 981840)
+cloud 75 received 189 impulses with strength 1: +189 (energy 906971 -> 907160)
+cloud 75 received 42 impulses with strength 2: +84 (energy 907160 -> 907244)
+cloud 80 received 19 impulses with strength 1: +19 (energy 787800 -> 787819)
+cloud 80 received 5 impulses with strength 2: +10 (energy 787819 -> 787829)
+cloud 81 received 101 impulses with strength 1: +101 (energy 992614 -> 992715)
+cloud 81 received 27 impulses with strength 2: +54 (energy 992715 -> 992769)
+cloud 82 received 99 impulses with strength 1: +99 (energy 934398 -> 934497)
+cloud 82 received 30 impulses with strength 2: +60 (energy 934497 -> 934557)
+cloud 85 received 193 impulses with strength 1: +193 (energy 638816 -> 639009)
+cloud 85 received 51 impulses with strength 2: +102 (energy 639009 -> 639111)
+cloud 90 received 162 impulses with strength 1: +162 (energy 963952 -> 964114)
+cloud 90 received 49 impulses with strength 2: +98 (energy 964114 -> 964212)
+cloud 91 received 164 impulses with strength 1: +164 (energy 597036 -> 597200)
+cloud 91 received 52 impulses with strength 2: +104 (energy 597200 -> 597304)
+cloud 95 received 146 impulses with strength 1: +146 (energy 762573 -> 762719)
+cloud 95 received 37 impulses with strength 2: +74 (energy 762719 -> 762793)
+
+Stage 30:
+cloud 2 received 55 impulses with strength 1: +55 (energy 794335 -> 794390)
+cloud 3 received 84 impulses with strength 1: +84 (energy 540166 -> 540250)
+cloud 7 received 57 impulses with strength 1: +57 (energy 848024 -> 848081)
+cloud 11 received 27 impulses with strength 1: +27 (energy 820427 -> 820454)
+cloud 12 received 15 impulses with strength 1: +15 (energy 914662 -> 914677)
+cloud 13 received 17 impulses with strength 1: +17 (energy 663608 -> 663625)
+cloud 14 received 5 impulses with strength 1: +5 (energy 880658 -> 880663)
+cloud 19 received 46 impulses with strength 1: +46 (energy 710036 -> 710082)
+cloud 22 received 35 impulses with strength 1: +35 (energy 805817 -> 805852)
+cloud 27 received 76 impulses with strength 1: +76 (energy 758407 -> 758483)
+cloud 31 received 125 impulses with strength 1: +125 (energy 738266 -> 738391)
+cloud 33 received 30 impulses with strength 1: +30 (energy 798891 -> 798921)
+cloud 34 received 39 impulses with strength 1: +39 (energy 745841 -> 745880)
+cloud 37 received 37 impulses with strength 1: +37 (energy 830475 -> 830512)
+cloud 38 received 190 impulses with strength 1: +190 (energy 979229 -> 979419)
+cloud 41 received 73 impulses with strength 1: +73 (energy 985936 -> 986009)
+cloud 45 received 65 impulses with strength 1: +65 (energy 852424 -> 852489)
+cloud 47 received 47 impulses with strength 1: +47 (energy 907807 -> 907854)
+cloud 49 received 71 impulses with strength 1: +71 (energy 662377 -> 662448)
+cloud 52 received 61 impulses with strength 1: +61 (energy 771323 -> 771384)
+cloud 54 received 121 impulses with strength 1: +121 (energy 999253 -> 999374)
+cloud 55 received 149 impulses with strength 1: +149 (energy 979757 -> 979906)
+cloud 58 received 92 impulses with strength 1: +92 (energy 868264 -> 868356)
+cloud 60 received 105 impulses with strength 1: +105 (energy 686443 -> 686548)
+cloud 63 received 84 impulses with strength 1: +84 (energy 951409 -> 951493)
+cloud 64 received 42 impulses with strength 1: +42 (energy 969127 -> 969169)
+cloud 66 received 75 impulses with strength 1: +75 (energy 390924 -> 390999)
+cloud 68 received 113 impulses with strength 1: +113 (energy 671586 -> 671699)
+cloud 70 received 10 impulses with strength 1: +10 (energy 981840 -> 981850)
+cloud 75 received 91 impulses with strength 1: +91 (energy 907244 -> 907335)
+cloud 80 received 10 impulses with strength 1: +10 (energy 787829 -> 787839)
+cloud 81 received 50 impulses with strength 1: +50 (energy 992769 -> 992819)
+cloud 82 received 54 impulses with strength 1: +54 (energy 934557 -> 934611)
+cloud 85 received 106 impulses with strength 1: +106 (energy 639111 -> 639217)
+cloud 90 received 86 impulses with strength 1: +86 (energy 964212 -> 964298)
+cloud 91 received 92 impulses with strength 1: +92 (energy 597304 -> 597396)
+cloud 95 received 79 impulses with strength 1: +79 (energy 762793 -> 762872)
+
+Remaining clouds:
+cloud 2: 794390
+cloud 3: 540250
+cloud 7: 848081
+cloud 9: 702649
+cloud 11: 820454
+cloud 12: 914677
+cloud 13: 663625
+cloud 14: 880663
+cloud 19: 710082
+cloud 22: 805852
+cloud 27: 758483
+cloud 31: 738391
+cloud 33: 798921
+cloud 34: 745880
+cloud 37: 830512
+cloud 38: 979419
+cloud 41: 986009
+cloud 45: 852489
+cloud 47: 907854
+cloud 49: 662448
+cloud 52: 771384
+cloud 54: 999374
+cloud 55: 979906
+cloud 58: 868356
+cloud 60: 686548
+cloud 63: 951493
+cloud 64: 969169
+cloud 66: 390999
+cloud 68: 671699
+cloud 70: 981850
+cloud 73: 755973
+cloud 75: 907335
+cloud 77: 755420
+cloud 80: 787839
+cloud 81: 992819
+cloud 82: 934611
+cloud 84: 705499
+cloud 85: 639217
+cloud 87: 762137
+cloud 90: 964298
+cloud 91: 597396
+cloud 93: 172525
+cloud 95: 762872
+cloud 96: 379425
+cloud 99: 447750
+
+Total remaining energy: 34777023

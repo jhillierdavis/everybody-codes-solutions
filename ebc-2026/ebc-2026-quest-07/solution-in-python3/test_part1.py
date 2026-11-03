@@ -9,8 +9,8 @@ input_full = "Part1-Full-Input.txt"
 @pytest.mark.parametrize(
     "filename, expected",
     [
-        pytest.param(input_example, 0),
-        #pytest.param(input_full, -1),
+        pytest.param(input_example, 102),
+        pytest.param(input_full, 253), # Not: 86!
     ],    
 )
 def test_solve_part1(filename, expected):
