@@ -26,3 +26,16 @@ test_mapping = {
 def test_get_all_unique_ancestors_of_child(input, target, expected):
     values = parent_child_helper.get_all_unique_ancestors_of_child(input, target)    
     assert values == expected
+
+
+@pytest.mark.parametrize(
+    "input, target, expected",
+    [
+        pytest.param(test_mapping, 'Z', set()), # Empty set
+        pytest.param(test_mapping, 'A', {'B', 'C', 'D', 'E', 'F', 'G', 'H'}),
+        pytest.param(test_mapping, 'X', {'Y'}),
+    ],    
+)
+def test_get_all_unique_descendent_references_for_parent(input, target, expected):
+    values = parent_child_helper.get_all_unique_descendent_references_for_parent(input, target)
+    assert values == expected
