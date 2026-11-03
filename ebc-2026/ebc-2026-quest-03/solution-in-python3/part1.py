@@ -1,11 +1,6 @@
-import logging
-import logging.config
+from helpers import logging_helper, file_helper
 
-# Create logger
-logging.config.fileConfig('logging.conf')
-logger = logging.getLogger(__name__)
-logger = logging.getLogger('simpleLogger')
-
+logger = logging_helper.get_logger_instance()
 
 from math import pow
 
@@ -24,7 +19,6 @@ def to_value(input):
         ans += int(value)
     return ans
 
-from helpers import file_helper
 
 def solve_part1(filename):
     text = file_helper.get_text(filename)

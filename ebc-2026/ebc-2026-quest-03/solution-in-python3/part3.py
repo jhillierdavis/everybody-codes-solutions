@@ -1,15 +1,10 @@
-import logging
-import logging.config
+from helpers import logging_helper, file_helper, padding_helper
 
-# Create logger
-logging.config.fileConfig('logging.conf')
-logger = logging.getLogger(__name__)
-logger = logging.getLogger('simpleLogger')
+logger = logging_helper.get_logger_instance()
 
 from math import pow
 from functools import lru_cache
 
-from helpers import file_helper, padding_helper
 
 @lru_cache
 def to_value(input):
