@@ -1,11 +1,14 @@
-import logging
-import logging.config
+from helpers import logging_helper, file_helper, parent_child_helper
 
-# Create logger
-logging.config.fileConfig('logging.conf')
-logger = logging.getLogger(__name__)
-logger = logging.getLogger('simpleLogger')
+logger = logging_helper.get_logger_instance()
+
+import common
 
 
 def solve_part2(filename):
-    return -1
+    text = file_helper.get_text(filename)
+    ingredients_map = common.get_ingredients_map(text)
+
+    keys = parent_child_helper.get_all_unique_ancestors_of_child(ingredients_map, 'NULL')
+    logger.debug("Keys with 'NULL' value: %s", keys)
+    return len(keys)
