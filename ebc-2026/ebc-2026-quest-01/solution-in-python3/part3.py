@@ -1,12 +1,6 @@
-import logging
-import logging.config
+from helpers import logging_helper, file_helper, csv_helper
 
-# Create logger
-logging.config.fileConfig('logging.conf')
-logger = logging.getLogger(__name__)
-logger = logging.getLogger('simpleLogger')
-
-from helpers import file_helper, csv_helper
+logger = logging_helper.get_logger_instance()
 
 from functools import lru_cache
 
