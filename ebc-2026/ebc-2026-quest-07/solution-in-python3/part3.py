@@ -15,7 +15,7 @@ def disperse_energy_with_explosions(energy_map, connections_map, cloud_id, energ
     map_current_impulse[cloud_id] = [energy_value]
 
     while map_current_impulse:
-        if stage > 1000:  # Prevent infinite loops
+        if stage > 100:  # Prevent infinite loops
             logger.warning(f"Stage {stage}: Exceeded maximum stages, stopping to prevent infinite loop.")
             return exploded
         
