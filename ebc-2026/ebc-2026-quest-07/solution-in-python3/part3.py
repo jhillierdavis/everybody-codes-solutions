@@ -15,6 +15,9 @@ def disperse_energy_with_explosions(energy_map, connections_map, cloud_id, energ
     map_current_impulse[cloud_id] = [energy_value]
 
     while map_current_impulse:
+        if stage > 1000:  # Prevent infinite loops
+            logger.warning(f"Stage {stage}: Exceeded maximum stages, stopping to prevent infinite loop.")
+            return exploded
         
         for cloud_id, impulse_values in map_current_impulse.items():
             if cloud_id in exploded:
@@ -27,7 +30,9 @@ def disperse_energy_with_explosions(energy_map, connections_map, cloud_id, energ
             for connection in connections_map.get(cloud_id, []):   
                 for impulse_value in impulse_values:
                     map_next_impulse[connection] = map_next_impulse.get(connection, [])
-                    map_next_impulse[connection].append(impulse_value - 1)
+                    new_impulse_value = impulse_value - 1
+                    if new_impulse_value > 0:
+                        map_next_impulse[connection].append(new_impulse_value)
 
         # Handle explosions
         for cloud_id in energy_map.keys():
@@ -68,6 +73,7 @@ def calculate_total_energy(initial_energy_map, connections_map, cloud_id, initia
     logger.debug(f"Start cloud id {cloud_id} energy_map: {energy_map} exploded: {exploded}")
     return get_total_energy_excluding_exploded_clouds(energy_map, exploded)
 
+
 def solve_part3(filename, limit):
     text = file_helper.get_text(filename)
     #logger.debug(f"Text: {text}")
@@ -75,7 +81,7 @@ def solve_part3(filename, limit):
     initial_energy_map, connections_map = common.get_cloud_maps(text)
     
     total_energy_set = set()
-    for cloud_id in [2]: # TODO: Make performance better to handle all clouds efficiently
+    for cloud_id in initial_energy_map.keys(): 
         total_energy_set.add(calculate_total_energy(initial_energy_map, connections_map, cloud_id, initial_energy, limit))
     
     return max(total_energy_set)
