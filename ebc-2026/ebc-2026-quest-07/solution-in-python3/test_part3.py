@@ -13,7 +13,7 @@ input_full = "Part3-Full-Input.txt"
     [
         pytest.param(input_example, 100, 187),
         pytest.param(input_example_debug, 1000000, 34777023),
-        pytest.param(input_full, 1000000, -1),
+        pytest.param(input_full, 1000000, 30654897),
     ],    
 )
 def test_solve_part3(filename, limit, expected):

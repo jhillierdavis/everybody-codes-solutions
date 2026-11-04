@@ -5,7 +5,7 @@ logger = logging_helper.get_logger_instance()
 import common
 
 
-def disperse_energy_with_explosions(energy_map, connections_map, cloud_id, energy_value, limit):
+def legacy_disperse_energy_with_explosions(energy_map, connections_map, cloud_id, energy_value, limit):
     exploded = set()   
     stage = 1
 
@@ -48,6 +48,64 @@ def disperse_energy_with_explosions(energy_map, connections_map, cloud_id, energ
             for connection in connections_map.get(cloud_id, []):
                 map_next_impulse[connection] = map_next_impulse.get(connection, [])
                 map_next_impulse[connection].append(10)
+
+        #logger.debug(f"Stage {stage}: map_next_impulse: {map_next_impulse} energy_map: {energy_map}")
+        map_current_impulse = map_next_impulse
+        map_next_impulse = {}
+        stage += 1
+    return exploded
+
+
+def disperse_energy_with_explosions(energy_map, connections_map, cloud_id, energy_value, limit):
+    exploded = set()   
+    stage = 1
+
+    map_current_impulse = {}
+    map_next_impulse = {}
+
+    map_current_impulse[cloud_id] = {energy_value:1}
+
+    while map_current_impulse:
+        if stage > 100:  # Prevent infinite loops
+            logger.warning(f"Stage {stage}: Exceeded maximum stages, stopping to prevent infinite loop.")
+            return exploded
+        
+        for cloud_id, impulse_map in map_current_impulse.items():
+            if cloud_id in exploded:
+                continue
+
+            for value, multiplier in impulse_map.items():
+                next_energy_value =  energy_map.get(cloud_id, 0) + (value * multiplier)
+                energy_map[cloud_id] = next_energy_value
+
+            for connection in connections_map.get(cloud_id, []):   
+                for value, multiplier in impulse_map.items():
+                    map_ref = map_next_impulse.get(connection, {})                    
+                    new_value = value - 1
+                    if new_value > 0:
+                        # Increment multiple for value    
+                        current_multiplier =  map_ref.get(new_value, 0)
+                        if not map_next_impulse.get(connection):
+                            map_next_impulse[connection] = {}
+                        map_next_impulse[connection][new_value] = current_multiplier + multiplier
+
+        # Handle explosions
+        for cloud_id in energy_map.keys():
+            if cloud_id in exploded:
+                continue
+
+            current_energy = energy_map.get(cloud_id, 0)
+            if current_energy < limit:
+                continue
+
+            #logger.debug(f"Stage {stage}: Cloud {cloud_id} exploded with energy {energy_map.get(cloud_id, 0)}")
+            exploded.add(cloud_id)
+            for connection in connections_map.get(cloud_id, []):
+                map_next_impulse[connection] = map_next_impulse.get(connection, {})
+                map_ref = map_next_impulse[connection]
+                new_value = 10
+                current_multiplier =  map_ref.get(new_value, 0)                                   
+                map_ref[new_value] = current_multiplier + 1
 
         #logger.debug(f"Stage {stage}: map_next_impulse: {map_next_impulse} energy_map: {energy_map}")
         map_current_impulse = map_next_impulse
