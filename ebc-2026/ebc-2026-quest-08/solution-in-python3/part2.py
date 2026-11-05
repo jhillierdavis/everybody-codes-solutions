@@ -70,7 +70,7 @@ def count_unshaded_trees_in_direction(filename, direction_function):
             value = grid[r][c]
             if value != '.':
                 num = int(value)
-                shaded_trees.update(direction_function(grid_helper.clone(grid), rows, cols, r, c, num))
+                shaded_trees.update(direction_function(grid, rows, cols, r, c, num))
 
     unshaded_grid = grid_helper.clone(grid)
     for r, c in shaded_trees:
@@ -142,8 +142,6 @@ def get_grid_shaded_east(grid, rows, cols):
 def solve_part2(filename):
     text = file_helper.get_text(filename)
     #logger.debug(f"Text: {text}")
-
-    grid, rows, cols = grid_helper.to_grid(text)
 
     #logger.debug(f"Grid:\n{grid_helper.to_string(grid)}")
 
