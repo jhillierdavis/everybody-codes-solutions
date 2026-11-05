@@ -75,7 +75,7 @@ def test_count_unshaded_trees_to_north_west(filename, expected):
     "filename, expected",
     [
         pytest.param(input_example, 187),
-        pytest.param(input_full, -1), # Close: 1053
+        pytest.param(input_full, 1001), # Close: 1053
     ],    
 )
 def test_solve_part2(filename, expected):
