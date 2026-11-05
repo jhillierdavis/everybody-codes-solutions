@@ -1,4 +1,5 @@
 from helpers import logging_helper, file_helper, grid_helper
+import common
 
 logger = logging_helper.get_logger_instance()
 
@@ -50,7 +51,7 @@ def get_shaded_grid(grid, rows, cols):
             value = grid[r][c]
             if value != '.':
                 num = int(value)
-                process_tree_line(shaded_grid, rows, cols, r, c, num)
+                common.process_tree_line_south_east(shaded_grid, rows, cols, r, c, num)
     return shaded_grid
 
 
