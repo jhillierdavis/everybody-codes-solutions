@@ -58,6 +58,6 @@ def solve_part2(filename):
                     total_shortcut_distances.add(shortcuts_total_shortest_distances)
 
     logger.debug(f"Total shortest distances with all possible shortcuts: {total_shortcut_distances}")
-    max_value = max(total_shortcut_distances)
-    logger.debug(f"Maximum total shortest distances with a single shortcut: {max_value}")
-    return initial_total_shortest_distances - max_value
+    min_value = min(total_shortcut_distances)
+    logger.debug(f"Minimum total shortest distances with a single shortcut: {min_value}")
+    return initial_total_shortest_distances - min_value
