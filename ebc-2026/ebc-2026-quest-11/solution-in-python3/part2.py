@@ -3,6 +3,10 @@ import common
 
 logger = logging_helper.get_logger_instance()
 
+def get_clock_value(value, max_value):
+    return (value % max_value) or max_value
+
+from copy import deepcopy
 
 def solve_part2(filename):
     #text = file_helper.get_text(filename)
@@ -12,6 +16,7 @@ def solve_part2(filename):
     portals = int(sections[0].split(" ")[1])
     logger.debug(f"Portals: {portals}")
 
+    """
     map = {}
     for i in range(1, portals+1):
         neighbours = set()
@@ -30,7 +35,11 @@ def solve_part2(filename):
         else:
             neighbours = {i+1, i+2, i+3, i-1, i-2, i-3}
         map[i] = neighbours
-
+    """
+    map = {}
+    for i in range(1, portals+1):
+        neighbours = {get_clock_value(i+1, portals), get_clock_value(i+2, portals), get_clock_value(i+3, portals), get_clock_value(i-1, portals), get_clock_value(i-2, portals), get_clock_value(i-3, portals)}
+        map[i] = neighbours
     logger.debug(f"Map: {map}")
 
     initial_total_shortest_distances = common.get_total_shortest_distances(map, portals)
@@ -45,11 +54,16 @@ def solve_part2(filename):
                 v.add(end)
             if i == end:
                 v.add(start)
+    shortcuts_total_shortest_distances = common.get_total_shortest_distances(map, portals)      
+    logger.debug(f"Total shortest distances after processing shortcuts: {shortcuts_total_shortest_distances}")
 
     total_shortcut_distances = set()
+    #total_shortcut_distances.add(shortcuts_total_shortest_distances)
     for i in range(1, portals+1):       
         for j in range(1, portals+1):
-            map_clone = map.copy()
+            #map_clone = map.copy()
+            map_clone = deepcopy(map)
+            map_clone = {k: deepcopy(v) for k, v in map.items()}
             if i != j and j not in map_clone[i] and i not in map_clone[j]:
                     map_clone[i].add(j)
                     map_clone[j].add(i)
@@ -57,7 +71,7 @@ def solve_part2(filename):
                     logger.debug(f"Total shortest distances with shortcut {i}-{j}: {shortcuts_total_shortest_distances}")
                     total_shortcut_distances.add(shortcuts_total_shortest_distances)
 
-    logger.debug(f"Total shortest distances with all possible shortcuts: {total_shortcut_distances}")
-    min_value = min(total_shortcut_distances)
-    logger.debug(f"Minimum total shortest distances with a single shortcut: {min_value}")
-    return initial_total_shortest_distances - min_value
+    logger.debug(f"Total shortest distances with all possible shortcuts: {sorted(total_shortcut_distances)}")
+    max_value = max(total_shortcut_distances)
+    logger.debug(f"Maximum total shortest distances with a single shortcut: {max_value}")
+    return initial_total_shortest_distances - max_value
