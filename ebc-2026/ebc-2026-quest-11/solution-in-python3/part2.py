@@ -64,12 +64,12 @@ def solve_part2(filename):
             #map_clone = map.copy()
             map_clone = deepcopy(map)
             map_clone = {k: deepcopy(v) for k, v in map.items()}
-            if i != j and j not in map_clone[i] and i not in map_clone[j]:
-                    map_clone[i].add(j)
-                    map_clone[j].add(i)
-                    shortcuts_total_shortest_distances = common.get_total_shortest_distances(map_clone, portals)
-                    logger.debug(f"Total shortest distances with shortcut {i}-{j}: {shortcuts_total_shortest_distances}")
-                    total_shortcut_distances.add(shortcuts_total_shortest_distances)
+            if i != j and j not in map[i] and i not in map[j]:
+                map_clone[i].add(j)
+                map_clone[j].add(i)
+                shortcuts_total_shortest_distances = common.get_total_shortest_distances(map_clone, portals)
+                logger.debug(f"Total shortest distances with shortcut {i}-{j}: {shortcuts_total_shortest_distances}")
+                total_shortcut_distances.add(shortcuts_total_shortest_distances)
 
     logger.debug(f"Total shortest distances with all possible shortcuts: {sorted(total_shortcut_distances)}")
     max_value = max(total_shortcut_distances)
