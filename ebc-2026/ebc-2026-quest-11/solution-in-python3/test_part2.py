@@ -10,7 +10,7 @@ input_full = "Part2-Full-Input.txt"
     "filename, expected",
     [
         pytest.param(input_example, 6),
-        pytest.param(input_full, -1), # Not 1518 (1st char & length correct), 1524, 1508, 1510
+        pytest.param(input_full, 1742), # Not 1518 (1st char & length correct), 1524, 1508, 1510
     ],    
 )
 def test_solve_part2(filename, expected):
