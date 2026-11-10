@@ -16,26 +16,6 @@ def solve_part2(filename):
     portals = int(sections[0].split(" ")[1])
     logger.debug(f"Portals: {portals}")
 
-    """
-    map = {}
-    for i in range(1, portals+1):
-        neighbours = set()
-        if i == 1:
-            neighbours = {i+1, i+2, i+3, portals, portals-1, portals-2}
-        elif i == 2:
-            neighbours = {i+1, i+2, i+3, i-1, portals, portals-1}
-        elif i == 3:
-            neighbours = {i+1, i+2, i+3, i-1, i-2, portals}
-        elif i == portals:
-            neighbours = {1, 2, 3, i-1, i-2, i-3}            
-        elif i == portals-1:
-            neighbours = {portals, 1, 2, i-1, i-2, i-3}
-        elif i == portals-2:
-            neighbours = {portals-1, portals, 1, i-1, i-2, i-3}
-        else:
-            neighbours = {i+1, i+2, i+3, i-1, i-2, i-3}
-        map[i] = neighbours
-    """
     map = {}
     for i in range(1, portals+1):
         neighbours = {get_clock_value(i+1, portals), get_clock_value(i+2, portals), get_clock_value(i+3, portals), get_clock_value(i-1, portals), get_clock_value(i-2, portals), get_clock_value(i-3, portals)}
@@ -62,7 +42,7 @@ def solve_part2(filename):
     for i in range(1, portals+1):       
         for j in range(1, portals+1):
             #map_clone = map.copy()
-            map_clone = deepcopy(map)
+            #map_clone = deepcopy(map)
             map_clone = {k: deepcopy(v) for k, v in map.items()}
             if i != j and j not in map[i] and i not in map[j]:
                 map_clone[i].add(j)
