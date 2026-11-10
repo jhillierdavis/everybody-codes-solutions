@@ -9,8 +9,8 @@ def get_clock_value(value, max_value):
 from copy import deepcopy
 
 def solve_part2(filename):
-    #text = file_helper.get_text(filename)
-    #logger.debug(f"Text: {text}")
+    text = file_helper.get_text(filename)
+    logger.debug(f"Text: {text}")
 
     sections = file_helper.get_text_sections(filename)
     portals = int(sections[0].split(" ")[1])
@@ -71,7 +71,7 @@ def solve_part2(filename):
                 logger.debug(f"Total shortest distances with shortcut {i}-{j}: {shortcuts_total_shortest_distances}")
                 total_shortcut_distances.add(shortcuts_total_shortest_distances)
 
-    logger.debug(f"Total shortest distances with all possible shortcuts: {sorted(total_shortcut_distances)}")
+    #logger.debug(f"Total shortest distances with all possible shortcuts: {sorted(total_shortcut_distances)}")
     max_value = max(total_shortcut_distances)
     logger.debug(f"Maximum total shortest distances with a single shortcut: {max_value}")
     return initial_total_shortest_distances - max_value
