@@ -25,5 +25,5 @@ def test_get_clock_value(value, max_value, expected):
     ],
 )
 def test_get_clock_value_with_invalid_input(value, max_value):
-    with pytest.raises(ValueError, match="value and max_value must be non-negative"):
+    with pytest.raises(ValueError, match="Input parameters values must be positive, non-zero, integers"):
         clock.get_clock_value(value, max_value)
