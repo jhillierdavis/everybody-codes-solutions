@@ -4,7 +4,7 @@ logger = logging_helper.get_logger_instance()
 
 from collections import deque
 
-def get_shortest_path(graph: dict[int, set[int]], start: int, end: int) -> list[int] | None:
+def legacy_get_shortest_path(graph: dict[int, set[int]], start: int, end: int) -> list[int] | None:
     """
     Find the shortest path between start and end in an unweighted graph.
 
@@ -35,6 +35,34 @@ def get_shortest_path(graph: dict[int, set[int]], start: int, end: int) -> list[
 
     return None
 
+
+def get_shortest_path(graph: dict[int, set[int]], start: int, end: int) -> list[int] | None:
+    if start == end:
+        return [start]
+
+    queue = deque([start])
+    parent = {start: None}
+
+    while queue:
+        node = queue.popleft()
+
+        for neighbor in graph.get(node, ()):
+            if neighbor in parent:
+                continue
+
+            parent[neighbor] = node
+
+            if neighbor == end:
+                path = []
+                current = end
+                while current is not None:
+                    path.append(current)
+                    current = parent[current]
+                return path[::-1]
+
+            queue.append(neighbor)
+
+    return None
 
 def get_total_shortest_distances(map: dict[int, set[int]], portals: int) -> int:
     total_distance = 0
@@ -96,16 +124,4 @@ def solve_part1(filename):
     shortcuts_total_shortest_distances = get_total_shortest_distances(map, portals)
     logger.debug(f"Total shortest distances after processing shortcuts: {shortcuts_total_shortest_distances}")
 
-    #logger.debug(f"Sections[1]: {sections[1]}")
-    """
-    for shortcut in sections[1]:
-        logger.debug(f"Processing shortcut: {shortcut}")
-        start, end = map(int, shortcut.split())
-        logger.debug(f"Start: {start}, End: {end}")
-        shortest_path = get_shortest_path(map, start, end)
-        logger.debug(f"Shortest path for shortcut from {start} to {end}: {shortest_path}")
-        if shortest_path is not None:
-            total_distance += len(shortest_path) - 1
-        logger.debug(f"Total distance after processing shortcut from {start} to {end}: {total_distance}")
-    """
     return initial_total_shortest_distances - shortcuts_total_shortest_distances
