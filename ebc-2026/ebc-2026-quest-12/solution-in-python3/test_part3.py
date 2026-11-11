@@ -14,7 +14,7 @@ input_full = "Part3-Full-Input.txt"
         pytest.param(input_example, 8),
         pytest.param(input_example_extra_1, 29),
         pytest.param(input_example_extra_2, 16),
-        #pytest.param(input_full, -1),
+        pytest.param(input_full, 2824),
     ],    
 )
 def test_solve_part3(filename, expected):
