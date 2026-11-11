@@ -28,12 +28,15 @@ def to_grid(text):
     cols = len(grid[0])    
     return grid, rows, cols
 
-def to_grid2d(text):
-    grid, rows, cols = to_grid(text)
+
+def to_grid2d(text: str) -> Grid2d:
+    grid = [list(line) for line in text.strip().split('\n')]
+    rows = len(grid)
+    cols = len(grid[0])
     return Grid2d(grid=grid, width=cols, height=rows)
 
 
-def to_string(grid):
+def to_string(grid: list[list]) -> str:
     str = ""
 
     rows = len(grid)
@@ -45,12 +48,12 @@ def to_string(grid):
     return str
 
 
-def clone(grid):
+def clone(grid: list[list]) -> list[list]:
     grid_clone = [row[:] for row in grid]
     return grid_clone
 
 
-def find_start(grid,start='S'):
+def find_start(grid: list[list], start: str = 'S') -> tuple[int, int] | None:
     """Find the start (e.g. 'S') cell."""
     for r in range(len(grid)):
         for c in range(len(grid[0])):
@@ -58,7 +61,8 @@ def find_start(grid,start='S'):
                 return (r, c)
     return None
 
-def add_border(grid, rows, cols, fill_value='.'):
+
+def add_border(grid: list[list], rows: int, cols: int, fill_value: str = '.') -> tuple[list[list], int, int]:
     """Add a border around the grid with the specified fill value."""
     new_grid = [[fill_value] * (cols + 2)]
     for r in range(rows):
@@ -66,7 +70,8 @@ def add_border(grid, rows, cols, fill_value='.'):
     new_grid.append([fill_value] * (cols + 2))
     return new_grid, rows + 2, cols + 2
 
-def find_all(grid, target):
+
+def find_all(grid: list[list], target: str) -> list[tuple[int, int]]:
     """Find all cells matching target."""
     positions = []
     for r in range(len(grid)):
@@ -86,7 +91,7 @@ DIRECTIONS_8 = [
     (1, -1),  (1, 0),  (1, 1)
 ]
 
-def get_neighbor_positions(r, c, rows, cols, diagonals=False, wrap=False):
+def get_neighbor_positions(r: int, c: int, rows: int, cols: int, diagonals: bool = False, wrap: bool = False) -> list[tuple[int, int]]:
     """Return valid neighboring positions."""
     neighbors = []
     for dr, dc in DIRECTIONS_8 if diagonals else DIRECTIONS_4:
@@ -101,7 +106,7 @@ def get_neighbor_positions(r, c, rows, cols, diagonals=False, wrap=False):
     return neighbors
 
 
-def get_neighbor_values(grid, r, c, rows, cols, diagonals=False, wrap=False):
+def get_neighbor_values(grid: list[list], r: int, c: int, rows: int, cols: int, diagonals: bool = False, wrap: bool = False) -> list:
     """Return the values of valid neighboring cells."""
     positions = get_neighbor_positions(r, c, rows, cols, diagonals, wrap)
     return [grid[r][c] for r, c in positions]

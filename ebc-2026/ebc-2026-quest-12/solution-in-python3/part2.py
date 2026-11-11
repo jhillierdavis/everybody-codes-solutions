@@ -240,7 +240,8 @@ def solve_part2(filename):
     text = file_helper.get_text(filename)
     #logger.debug(f"Text: {text}")
 
-    grid, rows, cols = grid_helper.to_grid(text)
+    grid2d = grid_helper.to_grid2d(text)
+    grid = grid2d.grid
     logger.debug(f"Grid:\n {grid_helper.to_string(grid)}")
 
     rectangles, l_shapes = find_shapes(grid)
