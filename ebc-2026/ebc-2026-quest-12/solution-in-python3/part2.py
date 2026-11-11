@@ -243,19 +243,9 @@ def solve_part2(filename):
     grid, rows, cols = grid_helper.to_grid(text)
     logger.debug(f"Grid:\n {grid_helper.to_string(grid)}")
 
-    #rectangles = find_only_rectangles(grid)
-    #logger.debug(f"Rectangles: {rectangles}")
-    """
-    rectangles = find_rectangles(grid)
-    logger.debug(f"Rectangles: {rectangles}")
-
-    for r in rectangles:
-        min_value = min(r.width, r.height)
-        logger.debug(f"Rectangle: {r}, Min value: {min_value}")
-    """
     rectangles, l_shapes = find_shapes(grid)
 
-    for l in l_shapes: 
-        logger.debug(f"L-Shape: {l}, Width: {l.width}, Height: {l.height}, Orientation: {l.orientation}, Horizontal thickness: {l.horizontal_thickness}, Vertical thickness: {l.vertical_thickness}")
+    #for l in l_shapes: 
+    #logger.debug(f"L-Shape: {l}, Width: {l.width}, Height: {l.height}, Orientation: {l.orientation}, Horizontal thickness: {l.horizontal_thickness}, Vertical thickness: {l.vertical_thickness}")
    
     return sum(min(r.width, r.height) for r in rectangles) + sum(min(min(l.width, l.height), (l.horizontal_thickness + l.vertical_thickness) ) for l in l_shapes)

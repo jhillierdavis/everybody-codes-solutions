@@ -3,13 +3,17 @@ import pytest
 import part3
 
 input_example = "Part3-Example-Input.txt"
+input_example_extra_1 = "Part3-Example-Input_Extra-1.txt"
+input_example_extra_2 = "Part3-Example-Input-Extra-2.txt"
 input_full = "Part3-Full-Input.txt"
 
-@pytest.mark.skip(reason="TODO: Ignore until implemented")
+#@pytest.mark.skip(reason="TODO: Ignore until implemented")
 @pytest.mark.parametrize(
     "filename, expected",
     [
-        pytest.param(input_example, 0),
+        pytest.param(input_example, 8),
+        #pytest.param(input_example_extra_1, 29),
+        #pytest.param(input_example_extra_2, 16),
         #pytest.param(input_full, -1),
     ],    
 )
