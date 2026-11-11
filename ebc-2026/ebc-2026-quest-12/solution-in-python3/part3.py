@@ -376,8 +376,8 @@ def solve_part3(filename):
 
     sum_rwh = 0
     for rwh  in rectangles_with_holes:
-        spells = min(rwh.width + 1, rwh.height + 1)
-        logger.debug(f"Rectangle with hole: {rwh}, Width: {rwh.width}, Height: {rwh.height}, spells={spells}")
+        spells = min((min(rwh.width + 1, rwh.height+1)), (rwh.width - rwh.hole_width) + (rwh.height - rwh.hole_height))
+        logger.debug(f"Rectangle with hole: {rwh}, Width: {rwh.width}, Height: {rwh.height}, Hole width: {rwh.hole_width}, Hole height: {rwh.hole_height}, spells={spells}")
         sum_rwh += spells
 
     logger.debug(f"Sum rectangles: {sum_r}, Sum L-shapes: {sum_l}, Sum rectangles with holes: {sum_rwh}")
