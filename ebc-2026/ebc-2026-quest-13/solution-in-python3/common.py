@@ -13,8 +13,7 @@ class Clockhand:
     start: int
     steps: int
 
-
-def solve_for_clockhands(text):
+def get_clockhands(text):
     input_map = {}
     for i, line in enumerate(text.splitlines()):
         if i == 0:
@@ -44,6 +43,12 @@ def solve_for_clockhands(text):
         clockhands.append(clockhand)
 
     logger.debug(f"Clockhands: {clockhands}")
+    return clockhands
+
+
+def solve_for_clockhands(text):
+    clockhands = get_clockhands(text)
+
 
     lcm_value = number_helper.lcm([ch.increment for ch in clockhands])
     logger.debug(f"LCM value: {lcm_value}")
