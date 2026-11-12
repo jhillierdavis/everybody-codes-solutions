@@ -20,13 +20,13 @@ def test_solve_for_clockhands(filename, expected):
     assert expected == value
 
 
-@pytest.mark.skip(reason="TODO: Ignore until implemented")
+#@pytest.mark.skip(reason="TODO: Ignore until implemented")
 @pytest.mark.parametrize(
     "filename, expected",
     [
         pytest.param(input_example, 21),
         pytest.param(input_example_debug, 135370), # 135370 !
-        #pytest.param(input_full, -1), # Not 147539 (although 1st char & length correct)
+        pytest.param(input_full, 150881), # Not 147539 (although 1st char & length correct), not 112388
     ],    
 )
 def test_solve_part2(filename, expected):
