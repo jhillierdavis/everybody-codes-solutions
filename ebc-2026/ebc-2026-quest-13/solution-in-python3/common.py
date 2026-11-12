@@ -1,39 +1,7 @@
-from helpers import logging_helper
+from helpers import logging_helper, number_helper
 from dataclasses import dataclass
 
 logger = logging_helper.get_logger_instance()
-
-
-from math import gcd
-from functools import reduce
-
-def lcm(numbers):
-    """
-    Return the Lowest Common Multiple (LCM) of a collection
-    of positive non-zero integers.
-
-    Args:
-        numbers: Iterable of positive non-zero integers.
-
-    Returns:
-        Integer LCM of all values.
-
-    Raises:
-        ValueError: If the input is empty or contains
-                    non-positive integers.
-    """
-    numbers = list(numbers)
-
-    if not numbers:
-        raise ValueError("Input must contain at least one integer")
-
-    if any(n <= 0 for n in numbers):
-        raise ValueError("All integers must be positive and non-zero")
-
-    def lcm_pair(a, b):
-        return a * b // gcd(a, b)
-
-    return reduce(lcm_pair, numbers)
 
 
 @dataclass(frozen=True)
@@ -76,7 +44,7 @@ def solve_for_clockhands(text):
 
     logger.debug(f"Clockhands: {clockhands}")
 
-    lcm_value = lcm([ch.increment for ch in clockhands])
+    lcm_value = number_helper.lcm([ch.increment for ch in clockhands])
     logger.debug(f"LCM value: {lcm_value}")
 
 
