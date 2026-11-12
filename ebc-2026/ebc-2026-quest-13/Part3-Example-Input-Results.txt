@@ -1,0 +1,701 @@
+Clock 001
+hands 10:10:10
+direction CW:CW:CW
+current 9:0:5
+move 5400:0:0
+meetings 1080
+
+Clock 002
+hands 6:6:6
+direction CW:CW:CW
+current 1:1:1
+move 6240:6240:6240
+meetings 0
+
+Clock 003
+hands 9:11:20
+direction CW:CCW:CW
+current 0:1:17
+move 7224:7352:7518
+meetings 2972
+
+Clock 004
+hands 5:8:27
+direction CW:CW:CCW
+current 0:5:8
+move 9308:9113:8846
+meetings 4378
+
+Clock 005
+hands 8:4:28
+direction CCW:CCW:CCW
+current 6:0:20
+move 11160:10415:10560
+meetings 4650
+
+Clock 006
+hands 8:5:27
+direction CW:CW:CW
+current 1:4:21
+move 13215:12919:13217
+meetings 4284
+
+Clock 007
+hands 5:5:30
+direction CCW:CW:CW
+current 1:2:17
+move 15924:15023:15840
+meetings 12433
+
+Clock 008
+hands 9:13:18
+direction CCW:CCW:CW
+current 7:12:0
+move 18134:19319:19334
+meetings 6361
+
+Clock 009
+hands 7:9:24
+direction CCW:CCW:CCW
+current 2:1:7
+move 22758:22565:22704
+meetings 4622
+
+Clock 010
+hands 6:5:29
+direction CCW:CW:CCW
+current 2:2:26
+move 26460:26470:26296
+meetings 19408
+
+Clock 011
+hands 6:8:12
+direction CW:CCW:CW
+current 1:2:2
+move 30958:32196:33434
+meetings 18781
+
+Clock 012
+hands 6:8:26
+direction CCW:CW:CW
+current 3:7:21
+move 37900:40021:37761
+meetings 22638
+
+Clock 013
+hands 7:11:22
+direction CW:CCW:CW
+current 2:10:7
+move 46384:46410:47902
+meetings 21828
+
+Clock 014
+hands 6:6:28
+direction CCW:CW:CCW
+current 1:2:22
+move 54874:54399:54185
+meetings 36425
+
+Clock 015
+hands 4:11:25
+direction CW:CW:CCW
+current 2:1:16
+move 65151:64221:67223
+meetings 37953
+
+Clock 016
+hands 5:6:29
+direction CW:CW:CCW
+current 3:0:27
+move 79691:81207:81132
+meetings 37976
+
+Clock 017
+hands 7:13:20
+direction CCW:CW:CCW
+current 1:9:14
+move 95447:99401:98234
+meetings 42842
+
+Clock 018
+hands 4:14:22
+direction CW:CCW:CW
+current 1:1:10
+move 113209:113168:116641
+meetings 73083
+
+Clock 019
+hands 9:13:18
+direction CCW:CCW:CW
+current 8:5:11
+move 133822:139621:141597
+meetings 46363
+
+Clock 020
+hands 4:4:32
+direction CW:CCW:CCW
+current 3:2:25
+move 162645:166182:165763
+meetings 164414
+
+Clock 021
+hands 5:7:4
+direction CW:CW:CW
+current 4:6:3
+move 191687:199354:207021
+meetings 48744
+
+Clock 022
+hands 4:10:26
+direction CW:CCW:CCW
+current 1:6:21
+move 239508:248312:245348
+meetings 169415
+
+Clock 023
+hands 6:12:22
+direction CW:CCW:CW
+current 2:8:15
+move 276804:295649:295844
+meetings 143273
+
+Clock 024
+hands 5:9:26
+direction CW:CCW:CW
+current 0:1:12
+move 332616:342102:333918
+meetings 209169
+
+Clock 025
+hands 5:8:27
+direction CW:CW:CW
+current 3:6:23
+move 415382:411779:414013
+meetings 135652
+
+Clock 026
+hands 7:8:25
+direction CCW:CW:CW
+current 3:3:19
+move 495429:477912:502221
+meetings 262975
+
+Clock 027
+hands 7:11:22
+direction CCW:CCW:CW
+current 0:8:7
+move 589770:585221:615741
+meetings 224482
+
+Clock 028
+hands 9:11:20
+direction CCW:CW:CW
+current 5:1:8
+move 717368:708548:700363
+meetings 288242
+
+Clock 029
+hands 8:5:27
+direction CW:CCW:CCW
+current 6:3:16
+move 883466:847488:886932
+meetings 562784
+
+Clock 030
+hands 5:4:31
+direction CCW:CCW:CW
+current 3:3:25
+move 1056367:1044688:996370
+meetings 591298
+
+Clock 031
+hands 4:5:7
+direction CCW:CCW:CCW
+current 0:0:0
+move 1186881:1234356:1281831
+meetings 286884
+
+Clock 032
+hands 8:12:20
+direction CCW:CCW:CW
+current 6:1:6
+move 1484001:1435165:1478486
+meetings 518848
+
+Clock 033
+hands 9:4:27
+direction CW:CW:CW
+current 3:1:19
+move 1715069:1829534:1818655
+meetings 787725
+
+Clock 034
+hands 9:11:20
+direction CCW:CW:CW
+current 7:8:9
+move 2070902:2145956:2057168
+meetings 850375
+
+Clock 035
+hands 4:9:27
+direction CCW:CCW:CW
+current 3:5:7
+move 2513967:2505323:2606813
+meetings 1450081
+
+Clock 036
+hands 6:5:29
+direction CCW:CCW:CCW
+current 1:3:19
+move 3049759:3071229:3046232
+meetings 1018407
+
+Clock 037
+hands 4:4:32
+direction CCW:CCW:CW
+current 0:0:11
+move 3654199:3572951:3725348
+meetings 2059934
+
+Clock 038
+hands 9:10:21
+direction CCW:CCW:CW
+current 0:1:20
+move 4430463:4435296:4445030
+meetings 1408850
+
+Clock 039
+hands 4:10:26
+direction CW:CCW:CW
+current 1:0:7
+move 5301615:5456976:5503438
+meetings 3757727
+
+Clock 040
+hands 9:6:25
+direction CW:CW:CCW
+current 3:5:14
+move 6146100:6425743:6406909
+meetings 2654467
+
+Clock 041
+hands 5:7:9
+direction CW:CCW:CW
+current 0:0:0
+move 7348857:7642811:7936765
+meetings 5253847
+
+Clock 042
+hands 5:7:28
+direction CW:CW:CW
+current 4:1:26
+move 9100463:9249888:9100571
+meetings 3032845
+
+Clock 043
+hands 4:5:31
+direction CW:CCW:CCW
+current 0:1:10
+move 10788421:11162892:10892093
+meetings 9859367
+
+Clock 044
+hands 4:12:24
+direction CCW:CCW:CCW
+current 3:8:15
+move 13328710:12923494:12932097
+meetings 5587398
+
+Clock 045
+hands 4:11:25
+direction CCW:CCW:CCW
+current 2:9:7
+move 15544904:16040567:15345891
+meetings 6634903
+
+Clock 046
+hands 6:8:26
+direction CW:CCW:CW
+current 1:2:10
+move 19607762:19614530:19335321
+meetings 11439553
+
+Clock 047
+hands 8:12:20
+direction CCW:CW:CCW
+current 0:7:6
+move 23028126:23696530:23636502
+meetings 9767291
+
+Clock 048
+hands 4:7:29
+direction CCW:CCW:CW
+current 1:0:20
+move 26807301:28063897:27898371
+meetings 15686704
+
+Clock 049
+hands 5:11:24
+direction CCW:CCW:CW
+current 0:9:1
+move 32405696:33522822:32146575
+meetings 15844273
+
+Clock 050
+hands 9:6:25
+direction CCW:CW:CW
+current 6:4:7
+move 40170062:40423242:40463770
+meetings 22404336
+
+Clock 051
+hands 8:8:8
+direction CW:CCW:CW
+current 0:2:4
+move 45502190:47322277:49142365
+meetings 24116161
+
+Clock 052
+hands 6:10:24
+direction CW:CW:CW
+current 3:7:5
+move 54756414:55585240:58733352
+meetings 14117212
+
+Clock 053
+hands 5:13:22
+direction CW:CCW:CW
+current 0:10:2
+move 69240290:67846689:67893341
+meetings 38134068
+
+Clock 054
+hands 7:13:20
+direction CCW:CCW:CW
+current 5:6:16
+move 80735504:80917311:84240549
+meetings 31519311
+
+Clock 055
+hands 4:7:29
+direction CW:CW:CW
+current 3:0:21
+move 101632269:99453357:100075800
+meetings 43957281
+
+Clock 056
+hands 7:7:26
+direction CCW:CCW:CCW
+current 4:0:14
+move 117621469:113388228:114138533
+meetings 24883964
+
+Clock 057
+hands 4:4:32
+direction CCW:CW:CCW
+current 2:1:14
+move 140217371:144808340:136984490
+meetings 142512857
+
+Clock 058
+hands 5:9:26
+direction CCW:CW:CCW
+current 0:4:12
+move 175664414:166031770:168435192
+meetings 107161715
+
+Clock 059
+hands 9:11:20
+direction CCW:CW:CW
+current 3:4:11
+move 201248140:208086411:205147134
+meetings 82555701
+
+Clock 060
+hands 5:12:23
+direction CW:CW:CW
+current 3:9:4
+move 241272341:247317339:249069750
+meetings 76688616
+
+Clock 061
+hands 9:9:22
+direction CW:CW:CCW
+current 5:5:17
+move 281737571:304276576:293007073
+meetings 94254023
+
+Clock 062
+hands 7:5:28
+direction CCW:CCW:CCW
+current 5:1:15
+move 345208521:355019777:345908210
+meetings 117350160
+
+Clock 063
+hands 4:7:29
+direction CW:CCW:CCW
+current 1:4:7
+move 425205151:429848516:422045914
+meetings 335416438
+
+Clock 064
+hands 7:6:27
+direction CW:CCW:CW
+current 3:2:19
+move 514490335:492273703:487668666
+meetings 311088472
+
+Clock 065
+hands 5:12:23
+direction CCW:CW:CCW
+current 3:2:17
+move 627341585:623630381:586651607
+meetings 354875030
+
+Clock 066
+hands 9:9:22
+direction CCW:CW:CW
+current 6:2:21
+move 724250555:709781252:744872785
+meetings 321863875
+
+Clock 067
+hands 4:8:28
+direction CCW:CCW:CCW
+current 0:3:0
+move 892277557:908280400:892115931
+meetings 386416923
+
+Clock 068
+hands 6:14:20
+direction CCW:CW:CCW
+current 1:3:15
+move 1032590987:1019575835:1025367117
+meetings 489850686
+
+Clock 069
+hands 4:8:28
+direction CW:CCW:CW
+current 0:2:17
+move 1295164346:1263345673:1266482949
+meetings 963418592
+
+Clock 070
+hands 5:11:24
+direction CCW:CW:CW
+current 1:7:11
+move 1504264288:1522501500:1469709231
+meetings 878524169
+
+Clock 071
+hands 4:13:23
+direction CW:CW:CW
+current 0:11:0
+move 1827638984:1841149402:1861815844
+meetings 758769969
+
+Clock 072
+hands 7:8:25
+direction CCW:CW:CCW
+current 0:4:16
+move 2117629998:2201363533:2116287664
+meetings 1155378027
+
+Clock 073
+hands 4:6:30
+direction CCW:CW:CCW
+current 0:3:3
+move 2642066922:2596640396:2557580437
+meetings 2186580259
+
+Clock 074
+hands 4:10:26
+direction CCW:CW:CCW
+current 2:6:11
+move 3235790557:3126386742:3179063974
+meetings 2243172626
+
+Clock 075
+hands 4:12:24
+direction CCW:CCW:CW
+current 3:0:11
+move 3806937986:3765284682:3765950101
+meetings 2217298168
+
+Clock 076
+hands 4:14:22
+direction CCW:CCW:CW
+current 1:8:2
+move 4515628522:4441384248:4580969493
+meetings 2674266033
+
+Clock 077
+hands 9:13:18
+direction CCW:CW:CW
+current 1:8:13
+move 5308636058:5270235130:5399017155
+meetings 2004811421
+
+Clock 078
+hands 9:14:17
+direction CW:CW:CW
+current 0:7:7
+move 6459418375:6450360670:6298500460
+meetings 694426251
+
+Clock 079
+hands 9:4:27
+direction CCW:CCW:CCW
+current 5:1:12
+move 7789337335:7967942960:7508742156
+meetings 3427768357
+
+Clock 080
+hands 8:12:20
+direction CW:CW:CW
+current 3:7:14
+move 9079916574:9540090748:9445571020
+meetings 1438683183
+
+Clock 081
+hands 10:10:10
+direction CW:CCW:CW
+current 9:1:5
+move 10801142310:11233188002:11665233694
+meetings 4579684341
+
+Clock 082
+hands 4:13:23
+direction CW:CW:CW
+current 1:6:14
+move 13069835667:13342804480:13164710030
+meetings 5440405587
+
+Clock 083
+hands 6:7:27
+direction CCW:CW:CW
+current 0:1:9
+move 16502966430:16428707135:16424774330
+meetings 10194905134
+
+Clock 084
+hands 6:5:29
+direction CCW:CW:CW
+current 1:3:5
+move 19955784282:20154607830:19516840720
+meetings 14713771225
+
+Clock 085
+hands 8:12:20
+direction CCW:CW:CW
+current 6:9:1
+move 22419823081:22702994938:23898837556
+meetings 9508372521
+
+Clock 086
+hands 9:4:27
+direction CW:CCW:CW
+current 8:1:6
+move 28687874613:27898228176:28642148380
+meetings 20324197336
+
+Clock 087
+hands 4:14:22
+direction CCW:CCW:CCW
+current 1:11:3
+move 33762282123:33221533469:33987317697
+meetings 13881459435
+
+Clock 088
+hands 4:5:31
+direction CW:CCW:CW
+current 0:2:28
+move 40870722640:39981211754:40002006938
+meetings 36427846021
+
+Clock 089
+hands 8:4:28
+direction CW:CCW:CW
+current 1:3:13
+move 49216162082:48134172331:47977967871
+meetings 36371126687
+
+Clock 090
+hands 7:9:24
+direction CCW:CW:CW
+current 3:0:4
+move 59467619746:56391861670:55804098361
+meetings 29522273315
+
+Clock 091
+hands 5:12:23
+direction CCW:CCW:CCW
+current 3:10:21
+move 69064112897:69827255049:68252221392
+meetings 21817859745
+
+Clock 092
+hands 7:10:23
+direction CW:CCW:CW
+current 3:1:12
+move 80531722209:80546647374:81143517857
+meetings 39171592585
+
+Clock 093
+hands 8:11:21
+direction CW:CW:CCW
+current 2:8:8
+move 101754973148:97458924292:98874068661
+meetings 34855321255
+
+Clock 094
+hands 8:4:28
+direction CCW:CCW:CW
+current 1:2:5
+move 118228151875:117790193073:123058560999
+meetings 67794483451
+
+Clock 095
+hands 6:11:23
+direction CW:CW:CCW
+current 4:1:17
+move 140022798175:148661306329:147645607830
+meetings 61083652412
+
+Clock 096
+hands 9:9:22
+direction CW:CCW:CCW
+current 4:7:3
+move 168844982206:178458839941:168356754237
+meetings 77178627143
+
+Clock 097
+hands 7:11:22
+direction CW:CW:CW
+current 2:0:1
+move 211545494212:208580513073:211999616458
+meetings 41520988790
+
+Clock 098
+hands 6:14:20
+direction CW:CW:CW
+current 4:3:4
+move 254374424007:244565274211:254769377653
+meetings 60374442612
+
+Clock 099
+hands 7:7:26
+direction CW:CW:CCW
+current 0:1:6
+move 289073190139:300457172176:300334525277
+meetings 108947562127
+
+Clock 100
+hands 4:8:12
+direction CW:CCW:CW
+current 1:2:3
+move 345074893841:358877889594:372680885348
+meetings 266857917901
+
+TOTAL 984329851511
