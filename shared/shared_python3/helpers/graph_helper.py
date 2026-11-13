@@ -73,3 +73,21 @@ def get_nodes_by_precedence(input, separator=' ', smallest_first=True):
 
 def get_nodes_by_precedence_largest_first(input, separator=' '):
     return get_nodes_by_precedence(input, separator, smallest_first=False)
+
+
+def generate_circular_graph(node_count: int, neighbourly_connection_count: int = 1) -> dict[int, set[int]]:
+    """
+    Generate an initial circular graph (as a dictionary of node to set of neighbours).
+    """
+    graph = {}
+
+    for node in range(1, node_count + 1):
+        neighbours = set()
+
+        for x in range(1, neighbourly_connection_count + 1):
+            neighbours.add(((node - 1 + x) % node_count) + 1)
+            neighbours.add(((node - 1 - x) % node_count) + 1)
+
+        graph[node] = neighbours
+
+    return graph
