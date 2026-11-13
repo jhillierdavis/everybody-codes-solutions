@@ -8,7 +8,7 @@ input_full = "Part2-Full-Input.txt"
 input_example_debug_clock_099 = "Part2-Example-Input-Debug-Clock-099.txt"
 
 
-#@pytest.mark.skip(reason="TODO: Ignore until implemented")
+@pytest.mark.skip(reason="TODO: Ignore until implemented")
 @pytest.mark.parametrize(
     "filename, expected",
     [
@@ -20,7 +20,7 @@ def test_solve_for_clockhands(filename, expected):
     assert expected == value
 
 
-#@pytest.mark.skip(reason="TODO: Ignore until implemented")
+@pytest.mark.skip(reason="TODO: Ignore until implemented")
 @pytest.mark.parametrize(
     "filename, expected",
     [

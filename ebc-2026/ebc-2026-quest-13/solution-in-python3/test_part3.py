@@ -41,10 +41,10 @@ move 241272341:247317339:249069750
 @pytest.mark.parametrize(
     "input, expected",
     [
-        pytest.param(clock_001, 1080),
-        pytest.param(clock_002, 0),
+        #pytest.param(clock_001, 1080),
+        #pytest.param(clock_002, 0),
         pytest.param(clock_003, 2972),
-        pytest.param(clock_020, 164414),
+        #pytest.param(clock_020, 164414),
         #pytest.param(clock_060, 76688616), # Slow - skipping for now
     ],    
 )

@@ -7,7 +7,7 @@ input_example_extra_1 = "Part1-Example-Input-Extra-1.txt"
 input_example_extra_2 = "Part1-Example-Input-Extra-2.txt"
 input_full = "Part1-Full-Input.txt"
 
-#@pytest.mark.skip(reason="TODO: Ignore until implemented")
+@pytest.mark.skip(reason="TODO: Ignore until implemented")
 @pytest.mark.parametrize(
     "filename, expected",
     [

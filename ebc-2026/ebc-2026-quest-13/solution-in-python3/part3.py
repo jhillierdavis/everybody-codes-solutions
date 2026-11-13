@@ -65,19 +65,18 @@ def solve_for_clockhands(text):
     logger.debug(f"Start position map for clockhands: {position_map}")
 
 
+
+    # Determine cycles
+    fast_forward_multiplier = 1  
+    cycling_crossing_pairs_of_clockhands_count = 0
+    
     # Set initial positions for each clockhand
     last_positions = [c.start * (lcm_value // c.increment) for c in clockhands]
 
-    # Determine cycles
-    fast_forward_multiplier = 1
-    
-    crossing_pairs_of_clockhands_count = 0
-
-    """
     seen_signatures = []
     for t in range(min_steps):
-        signatures = get_next_signatiure_positions(clockhands, last_positions, lcm_value)
-        signature = tuple(signatures)
+        signature_positions = get_next_signatiure_positions(clockhands, last_positions, lcm_value)
+        signature = tuple(signature_positions)
         
         for c in clockhands:
             key = (c.id, c.increment if c.is_clockwise else -c.increment)
@@ -87,17 +86,22 @@ def solve_for_clockhands(text):
             
         if signature in seen_signatures:
             fast_forward_multiplier = min_steps // t
-            logger.debug(f"Repeated signature found: {signature} at time {t}")
-            logger.debug(f"Fast forward multiplier: {fast_forward_multiplier}")
-            crossing_pairs_of_clockhands_count = fast_forward_multiplier * crossings.count_hand_crossings(position_map, lcm_value)
+            crossings_count = crossings.count_hand_crossings(position_map, lcm_value)
+            logger.debug(f"Repeated signature found: {signature} at time {t} fast_forward_multiplier={fast_forward_multiplier} crossings_count={crossings_count}")
+            #logger.debug(f"Fast forward multiplier: {fast_forward_multiplier}")
+            cycling_crossing_pairs_of_clockhands_count = fast_forward_multiplier * crossings_count
+            position_map = get_next_position_map(clockhands, position_map, lcm_value)
+            #cycling_crossing_pairs_of_clockhands_count += crossings.count_hand_crossings(position_map, lcm_value)
+            seen_signatures = []
+            break
         else:
             seen_signatures.append(signature)
-            last_positions = signatures
-    """
+            last_positions = signature_positions
+
     offset = 0
     if fast_forward_multiplier > 1:
-        logger.debug(f"Fast forward applied: {fast_forward_multiplier} times")
-        offset = (fast_forward_multiplier * t) + (min_steps % t)
+        offset = (fast_forward_multiplier * t) + 1
+        logger.debug(f"Fast forward multiplier applied: {fast_forward_multiplier} times, offset={offset} cycling_crossing_pairs_of_clockhands_count={cycling_crossing_pairs_of_clockhands_count}")
     
     for t in range(offset, max_steps):
         for c in clockhands:
@@ -107,8 +111,8 @@ def solve_for_clockhands(text):
                 current_position = get_clockhand_next_position(c, current_position, lcm_value)
             position_map[key].append(current_position)
 
-    logger.debug(f"Final position map for clockhands: \n{position_map}")
-    return crossing_pairs_of_clockhands_count + crossings.count_hand_crossings(position_map, lcm_value)
+    #logger.debug(f"Final position map for clockhands: \n{position_map}")
+    return cycling_crossing_pairs_of_clockhands_count + crossings.count_hand_crossings(position_map, lcm_value)
 
 
 def solve_part3(filename):
