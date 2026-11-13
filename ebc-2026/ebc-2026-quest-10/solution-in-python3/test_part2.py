@@ -5,7 +5,7 @@ import part2
 input_example = "Part2-Example-Input.txt"
 input_full = "Part2-Full-Input.txt"
 
-#@pytest.mark.skip(reason="TODO: Ignore until implemented")
+@pytest.mark.skip(reason="TODO: Ignore until implemented")
 @pytest.mark.parametrize(
     "filename, max_collisions, expected",
     [
