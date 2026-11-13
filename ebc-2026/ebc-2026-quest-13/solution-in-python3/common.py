@@ -53,17 +53,6 @@ def solve_for_clockhands(text):
     lcm_value = number_helper.lcm([ch.increment for ch in clockhands])
     logger.debug(f"LCM value: {lcm_value}")
 
-
-    for c in clockhands:
-        #logger.debug(f"Clockhand {c.id}: start={c.start}, steps={c.steps}, increment={c.increment}, is_clockwise={c.is_clockwise}")   
-
-        interval = lcm_value // c.increment
-        #logger.debug(f"Clockhand {c.id}: interval={interval}")
-
-        start_interval = c.start * interval
-        #logger.debug(f"Clockhand {c.id}: start_interval={start_interval}")
-
-
     max_steps = max(c.steps for c in clockhands)
     logger.debug(f"Max steps: {max_steps}")
 
