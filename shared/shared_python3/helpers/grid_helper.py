@@ -267,3 +267,126 @@ def minimum_segment_cover(grid: list[str], target: str = "#") -> int:
     # minimum vertex cover size == maximum matching size
     #
     return matching
+
+
+def find_shortest_path_with_waypoints(grid, start_symbol='S', end_symbol='E', wall_symbol='#', waypoint_symbol='@'):
+    rows = len(grid)
+    cols = len(grid[0])
+
+    start = None
+    end = None
+    waypoints = []
+
+    # Locate S, E and all @
+    for r in range(rows):
+        for c in range(cols):
+            ch = grid[r][c]
+            if ch == start_symbol:
+                start = (r, c)
+            elif ch == end_symbol:
+                end = (r, c)
+            elif ch == waypoint_symbol:
+                waypoints.append((r, c))
+
+    if start is None or end is None:
+        raise ValueError("Grid must contain S and E")
+
+    waypoint_index = {
+        pos: i for i, pos in enumerate(waypoints)
+    }
+
+    all_waypoints_mask = (1 << len(waypoints)) - 1
+
+    # State:
+    # (row, col, visited_waypoint_mask, previous_position)
+    start_state = (
+        start[0],
+        start[1],
+        0,
+        None
+    )
+
+    queue = deque([start_state])
+
+    visited = {start_state}
+    parent = {start_state: None}
+
+    directions = [
+        (-1, 0),  # up
+        (1, 0),   # down
+        (0, -1),  # left
+        (0, 1)    # right
+    ]
+
+    while queue:
+        r, c, mask, prev = queue.popleft()
+
+        # Mark waypoint visited if standing on one
+        if (r, c) in waypoint_index:
+            mask |= (1 << waypoint_index[(r, c)])
+
+        current_state = (r, c, mask, prev)
+
+        # Goal reached?
+        if (r, c) == end and mask == all_waypoints_mask:
+            path = []
+
+            state = current_state
+            while state is not None:
+                path.append((state[0], state[1]))
+                state = parent[state]
+
+            path.reverse()
+            return path
+
+        for dr, dc in directions:
+            nr = r + dr
+            nc = c + dc
+
+            if not (0 <= nr < rows and 0 <= nc < cols):
+                continue
+
+            if grid[nr][nc] == wall_symbol:
+                continue
+
+            # No immediate backtracking
+            if prev is not None and (nr, nc) == prev:
+                continue
+
+            next_prev = (r, c)
+
+            next_mask = mask
+            if (nr, nc) in waypoint_index:
+                next_mask |= (1 << waypoint_index[(nr, nc)])
+
+            next_state = (
+                nr,
+                nc,
+                next_mask,
+                next_prev
+            )
+
+            if next_state not in visited:
+                visited.add(next_state)
+                parent[next_state] = current_state
+                queue.append(next_state)
+
+    return None
+
+
+def print_path(grid, path):
+    if path is None:
+        print("No valid path found")
+        return
+
+    display = [list(row) for row in grid]
+
+    for r, c in path:
+        if display[r][c] == '.':
+            display[r][c] = '*'
+
+    for row in display:
+        print("".join(row))
+
+    print("\nPath length:", len(path) - 1)
+    print("Path:", path)
