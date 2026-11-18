@@ -1,6 +1,6 @@
 import heapq
 
-def shortest_path(grid, traversable='.'):
+def shortest_path(grid, start = (0, 0), finish=None, traversable='.'):
     """
     Implements Dijkstra's algorithm to find the shortest path from the top-left to the bottom-right of the grid.
     Only cells with the specified traversable character are considered passable.
@@ -15,9 +15,13 @@ def shortest_path(grid, traversable='.'):
 
     rows = len(grid)
     cols = len(grid[0])
+    
+    if start is None:
+        start = (0, 0)
+    if finish is None:
+        finish = (rows - 1, cols - 1)
 
-    start = (0, 0)
-    goal = (rows - 1, cols - 1)
+    goal = finish
 
     pq = [(0, start)]          # (distance, node)
     dist = {start: 0}
