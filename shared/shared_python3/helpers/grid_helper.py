@@ -2,9 +2,12 @@
 Ref.: Initially based on core examples from: https://milkcrunch.com/aoc-core-skills/
 """
 
+from helpers import logging_helper
 from collections import deque
 from dataclasses import dataclass
 from warnings import deprecated
+
+logger = logging_helper.get_logger_instance()    
 
 @dataclass(frozen=True)
 class Grid2d:
@@ -109,8 +112,8 @@ def get_neighbor_positions(r: int, c: int, rows: int, cols: int, diagonals: bool
 def get_neighbor_values(grid: list[list], r: int, c: int, rows: int, cols: int, diagonals: bool = False, wrap: bool = False) -> list:
     """Return the values of valid neighboring cells."""
     positions = get_neighbor_positions(r, c, rows, cols, diagonals, wrap)
-    return [grid[r][c] for r, c in positions]
-
+    logger.debug("Neighbor positions for (%d, %d): %s", r, c, positions)
+    return [grid[r][c] for (r, c) in positions if 0 <= r < rows and 0 <= c < cols]
 
 def minimum_segment_cover(grid: list[str], target: str = "#") -> int:
     """
@@ -390,3 +393,21 @@ def print_path(grid, path):
 
     print("\nPath length:", len(path) - 1)
     print("Path:", path)
+
+
+def log_path(grid, path):
+    if path is None:
+        logger.debug("No valid path found")
+        return
+
+    display = [list(row) for row in grid]
+
+    for r, c in path:
+        if display[r][c] == '.':
+            display[r][c] = '*'
+
+    for row in display:
+        logger.debug("".join(row))
+
+    logger.debug("\nPath length: %d", len(path) - 1)
+    logger.debug("Path: %s", path)
