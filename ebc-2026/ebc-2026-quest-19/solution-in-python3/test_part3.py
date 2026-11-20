@@ -3,14 +3,18 @@ import pytest
 import part3
 
 input_example = "Part3-Example-Input.txt"
+input_example_extra_1 = "Part3-Example-Input-Extra-1.txt"
+input_example_extra_2 = "Part3-Example-Input-Extra-2.txt"
 input_full = "Part3-Full-Input.txt"
 
-@pytest.mark.skip(reason="TODO: Ignore until implemented")
+#@pytest.mark.skip(reason="TODO: Ignore until implemented")
 @pytest.mark.parametrize(
     "filename, expected",
     [
-        pytest.param(input_example, 0),
-        #pytest.param(input_full, -1),
+        pytest.param(input_example, 18),
+        pytest.param(input_example_extra_1, 343),
+        pytest.param(input_example_extra_2, 8000),
+        pytest.param(input_full, 2043870193890),
     ],    
 )
 def test_solve_part3(filename, expected):
