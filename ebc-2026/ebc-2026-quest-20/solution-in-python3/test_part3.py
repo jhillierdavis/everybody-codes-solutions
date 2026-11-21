@@ -12,7 +12,7 @@ input_full = "Part3-Full-Input.txt"
     [
         pytest.param(input_example, 125),
         pytest.param(input_example_extra_1, 693),
-        pytest.param(input_full, -1), # Not: 33537 , 33537 , 35A95, 4316A, 43455, 43159
+        pytest.param(input_full, 47983), # Not: 33537 , 33537 , 35A95, 4316A, 43455, 43159, 48183, 480A9
     ],    
 )
 def test_solve_part3(filename, expected):
